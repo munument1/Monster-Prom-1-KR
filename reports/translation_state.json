@@ -1,0 +1,16 @@
+{
+  "verified_localized_occurrences": 1073,
+  "gameplay_comparisons": [
+    {
+      "file": "level6",
+      "path_id": 2888,
+      "non_english_text_and_gameplay_fields": "unchanged"
+    },
+    {
+      "file": "level5",
+      "path_id": 334,
+      "non_english_text_and_gameplay_fields": "unchanged"
+    }
+  ],
+  "visual_verification": "v2 font output user-confirmed; new changes pending user"
+}

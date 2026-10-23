@@ -1,0 +1,33 @@
+{
+  "method": "Pillow measurement of embedded subset TTF; runtime spacing may differ",
+  "labels": [
+    {
+      "font_size": 34,
+      "label_width": 243,
+      "text": "끝내주는\n음성 효과!",
+      "estimated_line_widths": [
+        136.0,
+        162.0
+      ]
+    },
+    {
+      "font_size": 52,
+      "label_width": 606,
+      "text": "음성 효과를\n사용할까요?",
+      "estimated_line_widths": [
+        285.0,
+        288.0
+      ]
+    },
+    {
+      "font_size": 28,
+      "label_width": 253,
+      "text": "직접 연기하기\n(음성 효과 없음)",
+      "estimated_line_widths": [
+        182.0,
+        221.0
+      ]
+    }
+  ],
+  "visual_verification": "pending user"
+}

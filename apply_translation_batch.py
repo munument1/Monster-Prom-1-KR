@@ -21,12 +21,15 @@ def main():
    if en in tr:assert tr[en]==ko,en
    tr[en]=ko
  token=re.compile(r'%[^%]+%|\[\d+\]|\[(?:/?[biusc]|n|[0-9a-fA-F]{6,8}|-)\]')
- for en,ko in tr.items():assert collections.Counter(token.findall(en))==collections.Counter(token.findall(ko)),en
+ for en,ko in tr.items():
+  assert collections.Counter(x for x in token.findall(en) if x!='[n]')==collections.Counter(x for x in token.findall(ko) if x!='[n]'),en
+  assert ko.count('[n]')+ko.count('\n')>=en.count('[n]')+en.count('\n'),en
  rows=readrows('dialogue_and_localized_text.jsonl');labels=readrows('scene_labels.jsonl');ui=readrows('ui_tables.jsonl')
  targets=collections.defaultdict(lambda:collections.defaultdict(list))
  for kind,items in [('dict',rows),('label',labels)]:
   for r in items:
-   if r['english'] in tr:targets[r['file']][r['path_id']].append((kind,r))
+   source=r['english'] if r['english'] in tr else r['english'].replace('\n','[n]')
+   if source in tr:targets[r['file']][r['path_id']].append((kind,{**r,'english':source}))
  ui_lookup={(r['path_id'],r['key']):r for r in ui if r['english'] in tr}
  for pid,key in ui_lookup:targets['resources.assets'][pid]
  stage=BASE/'test_patch'/args.batch;backup=BASE/'backup'/('before_'+args.batch)
@@ -52,7 +55,7 @@ def main():
     for kind,r in items:
      ko=tr[r['english']]
      if kind=='label':
-      assert r['field']=='/mText';t['mText']=ko
+      assert r['field']=='/mText';t['mText']=ko.replace('[n]','\n')
      else:
       value=pointer(t,r['field']);index=next(i for i,k in enumerate(value['_Keys'][:value['_Count']]) if k==0);value['_Values'][index]=ko
      count+=1
@@ -74,7 +77,7 @@ def main():
   m['changes'].append({'file':r['file'],'feature':'Korean UI/prologue '+args.batch,'objects':r['changed_objects']})
   for dest in (GAME_DATA/r['file'],patch/'MonsterProm_Data'/r['file']):shutil.copy2(stage/r['file'],dest);assert sha(dest)==r['patched_sha256']
  (patch/'manifest.json').write_text(json.dumps(m,ensure_ascii=False,indent=2),encoding='utf-8')
- summary={'unique_translations':len(tr),'localized_dictionary_matches':sum(r['english'] in tr for r in rows),'prologue_matches':sum(r['file']=='level2' and r['english'] in tr for r in rows),'ui_table_matches':sum(r['english'] in tr for r in ui),'scene_label_matches':sum(r['english'] in tr for r in labels),'changed_files':len(records),'translated_occurrences_in_changed_files':occurrences,'tag_variable_validation':'passed','visual_verification':'pending user'}
+ summary={'unique_translations':len(tr),'localized_dictionary_matches':sum(r['english'] in tr for r in rows),'prologue_matches':sum(r['file']=='level2' and r['english'] in tr for r in rows),'ui_table_matches':sum(r['english'] in tr for r in ui),'scene_label_matches':sum(r['english'] in tr or r['english'].replace('\n','[n]') in tr for r in labels),'changed_files':len(records),'translated_occurrences_in_changed_files':occurrences,'tag_variable_validation':'passed','visual_verification':'pending user'}
  (BASE/'reports'/(args.batch+'.json')).write_text(json.dumps(summary,ensure_ascii=False,indent=2),encoding='utf-8')
  (stage/'verification.json').write_text(json.dumps({'summary':summary,'files':records},ensure_ascii=False,indent=2),encoding='utf-8')
  print(json.dumps(summary,ensure_ascii=False,indent=2))

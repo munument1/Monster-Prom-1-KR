@@ -1,12 +1,12 @@
 {
   "asset_read_errors": 0,
-  "visual_verification": "v1 font failure reported by user; v2 and translations pending user",
+  "visual_verification": "v2 Korean font output confirmed in user screenshot; new v3/v4 images, translations and wrapping pending user",
   "files": [
     {
       "file": "resources.assets",
       "installed_hash_ok": true,
       "backup_hash_ok": true,
-      "changed_objects": 42
+      "changed_objects": 45
     },
     {
       "file": "level0",
@@ -18,7 +18,7 @@
       "file": "level1",
       "installed_hash_ok": true,
       "backup_hash_ok": true,
-      "changed_objects": 23
+      "changed_objects": 24
     },
     {
       "file": "level2",
@@ -48,7 +48,7 @@
       "file": "sharedassets1.assets",
       "installed_hash_ok": true,
       "backup_hash_ok": true,
-      "changed_objects": 1
+      "changed_objects": 2
     },
     {
       "file": "level12",
@@ -60,7 +60,7 @@
       "file": "level13",
       "installed_hash_ok": true,
       "backup_hash_ok": true,
-      "changed_objects": 181
+      "changed_objects": 190
     },
     {
       "file": "level14",
@@ -78,25 +78,31 @@
       "file": "level4",
       "installed_hash_ok": true,
       "backup_hash_ok": true,
-      "changed_objects": 7
+      "changed_objects": 8
     },
     {
       "file": "level5",
       "installed_hash_ok": true,
       "backup_hash_ok": true,
-      "changed_objects": 6
+      "changed_objects": 7
     },
     {
       "file": "level6",
       "installed_hash_ok": true,
       "backup_hash_ok": true,
-      "changed_objects": 31
+      "changed_objects": 35
     },
     {
       "file": "sharedassets13.assets",
       "installed_hash_ok": true,
       "backup_hash_ok": true,
       "changed_objects": 3
+    },
+    {
+      "file": "sharedassets2.assets",
+      "installed_hash_ok": true,
+      "backup_hash_ok": true,
+      "changed_objects": 2
     }
   ],
   "hangul_syllables": 11172,
@@ -120,5 +126,7 @@
   "scene_roundtrip_verified_objects": 16,
   "ngui_dynamic_font_connections": 8,
   "second_term_logo": "replaced",
-  "main_menu_image_buttons": 6
+  "main_menu_image_buttons": 6,
+  "localized_setup_image_labels": 8,
+  "voice_popup_layout": "explicit line breaks and bounded sizes; estimated glyph widths fit"
 }

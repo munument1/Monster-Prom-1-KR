@@ -1,0 +1,7 @@
+{
+ "revision":"ui_badges_v4",
+ "patches":[
+  {"file":"resources.assets","texture_id":37,"source":"artwork/ui/generated/back_button_ko_v4.png","regions":[[0,141,432,376]],"text":"BACK → 뒤로"},
+  {"file":"resources.assets","texture_id":32,"source":"artwork/ui/generated/new_badge_ko_v4.png","regions":[[929,771,1050,862]],"text":"NEW → 신규"}
+ ]
+}
