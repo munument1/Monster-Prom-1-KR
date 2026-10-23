@@ -1,12 +1,12 @@
 {
   "asset_read_errors": 0,
-  "visual_verification": "pending user",
+  "visual_verification": "v1 font failure reported by user; v2 and translations pending user",
   "files": [
     {
       "file": "resources.assets",
       "installed_hash_ok": true,
       "backup_hash_ok": true,
-      "changed_objects": 24
+      "changed_objects": 42
     },
     {
       "file": "level0",
@@ -18,13 +18,13 @@
       "file": "level1",
       "installed_hash_ok": true,
       "backup_hash_ok": true,
-      "changed_objects": 12
+      "changed_objects": 23
     },
     {
       "file": "level2",
       "installed_hash_ok": true,
       "backup_hash_ok": true,
-      "changed_objects": 1
+      "changed_objects": 63
     },
     {
       "file": "level3",
@@ -42,7 +42,61 @@
       "file": "sharedassets0.assets",
       "installed_hash_ok": true,
       "backup_hash_ok": true,
-      "changed_objects": 2
+      "changed_objects": 3
+    },
+    {
+      "file": "sharedassets1.assets",
+      "installed_hash_ok": true,
+      "backup_hash_ok": true,
+      "changed_objects": 1
+    },
+    {
+      "file": "level12",
+      "installed_hash_ok": true,
+      "backup_hash_ok": true,
+      "changed_objects": 8
+    },
+    {
+      "file": "level13",
+      "installed_hash_ok": true,
+      "backup_hash_ok": true,
+      "changed_objects": 181
+    },
+    {
+      "file": "level14",
+      "installed_hash_ok": true,
+      "backup_hash_ok": true,
+      "changed_objects": 7
+    },
+    {
+      "file": "level17",
+      "installed_hash_ok": true,
+      "backup_hash_ok": true,
+      "changed_objects": 20
+    },
+    {
+      "file": "level4",
+      "installed_hash_ok": true,
+      "backup_hash_ok": true,
+      "changed_objects": 7
+    },
+    {
+      "file": "level5",
+      "installed_hash_ok": true,
+      "backup_hash_ok": true,
+      "changed_objects": 6
+    },
+    {
+      "file": "level6",
+      "installed_hash_ok": true,
+      "backup_hash_ok": true,
+      "changed_objects": 31
+    },
+    {
+      "file": "sharedassets13.assets",
+      "installed_hash_ok": true,
+      "backup_hash_ok": true,
+      "changed_objects": 3
     }
   ],
   "hangul_syllables": 11172,
@@ -63,5 +117,8 @@
     "unique_ids": 4509
   },
   "logo_verification": "artwork/logo/patch_v1/verification.json",
-  "scene_roundtrip_verified_objects": 16
+  "scene_roundtrip_verified_objects": 16,
+  "ngui_dynamic_font_connections": 8,
+  "second_term_logo": "replaced",
+  "main_menu_image_buttons": 6
 }
