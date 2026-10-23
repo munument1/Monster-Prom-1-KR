@@ -1,0 +1,137 @@
+{
+  "revision": "story_images_v11",
+  "patches": [
+    {
+      "file": "resources.assets",
+      "texture_id": 1556,
+      "source": "artwork/ui/generated/weeks_ko_v11.png",
+      "placements": [
+        {
+          "source_box": [
+            0,
+            0,
+            1130,
+            261
+          ],
+          "target_box": [
+            870,
+            108,
+            1276,
+            202
+          ],
+          "preserve_target_alpha": true
+        }
+      ]
+    },
+    {
+      "file": "resources.assets",
+      "texture_id": 276,
+      "source": "artwork/ui/generated/weeks_ko_v11.png",
+      "placements": [
+        {
+          "source_box": [
+            0,
+            278,
+            1130,
+            540
+          ],
+          "target_box": [
+            870,
+            108,
+            1276,
+            202
+          ],
+          "preserve_target_alpha": true
+        }
+      ]
+    },
+    {
+      "file": "resources.assets",
+      "texture_id": 619,
+      "source": "artwork/ui/generated/weeks_ko_v11.png",
+      "placements": [
+        {
+          "source_box": [
+            0,
+            557,
+            1130,
+            818
+          ],
+          "target_box": [
+            870,
+            108,
+            1276,
+            202
+          ],
+          "preserve_target_alpha": true
+        }
+      ]
+    },
+    {
+      "file": "resources.assets",
+      "texture_id": 1374,
+      "source": "artwork/ui/generated/weeks_ko_v11.png",
+      "placements": [
+        {
+          "source_box": [
+            0,
+            835,
+            1130,
+            1097
+          ],
+          "target_box": [
+            870,
+            108,
+            1276,
+            202
+          ],
+          "preserve_target_alpha": true
+        }
+      ]
+    },
+    {
+      "file": "resources.assets",
+      "texture_id": 804,
+      "source": "artwork/ui/generated/weeks_ko_v11.png",
+      "placements": [
+        {
+          "source_box": [
+            0,
+            1114,
+            1130,
+            1375
+          ],
+          "target_box": [
+            870,
+            108,
+            1276,
+            202
+          ],
+          "preserve_target_alpha": true
+        }
+      ]
+    },
+    {
+      "file": "resources.assets",
+      "texture_id": 1868,
+      "source": "artwork/ui/generated/ending_letter_ko_v11.png",
+      "placements": [
+        {
+          "source_box": [
+            0,
+            0,
+            1722,
+            913
+          ],
+          "target_box": [
+            397,
+            710,
+            1030,
+            1046
+          ],
+          "preserve_target_alpha": true
+        }
+      ]
+    }
+  ]
+}

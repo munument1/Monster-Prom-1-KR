@@ -1,0 +1,196 @@
+{
+  "images": [
+    {
+      "file": "sharedassets2.assets",
+      "texture_id": 14,
+      "dimensions": [
+        756,
+        524
+      ],
+      "outside_patch_pixels": "identical",
+      "alpha_policy": "new alpha in caption rectangles only",
+      "saved_decode": "passed installer"
+    },
+    {
+      "file": "sharedassets2.assets",
+      "texture_id": 17,
+      "dimensions": [
+        756,
+        524
+      ],
+      "outside_patch_pixels": "identical",
+      "alpha_policy": "new alpha in caption rectangles only",
+      "saved_decode": "passed installer"
+    },
+    {
+      "file": "sharedassets2.assets",
+      "texture_id": 21,
+      "dimensions": [
+        756,
+        524
+      ],
+      "outside_patch_pixels": "identical",
+      "alpha_policy": "new alpha in caption rectangles only",
+      "saved_decode": "passed installer"
+    },
+    {
+      "file": "sharedassets2.assets",
+      "texture_id": 15,
+      "dimensions": [
+        756,
+        524
+      ],
+      "outside_patch_pixels": "identical",
+      "alpha_policy": "new alpha in caption rectangles only",
+      "saved_decode": "passed installer"
+    },
+    {
+      "file": "sharedassets2.assets",
+      "texture_id": 22,
+      "dimensions": [
+        756,
+        524
+      ],
+      "outside_patch_pixels": "identical",
+      "alpha_policy": "new alpha in caption rectangles only",
+      "saved_decode": "passed installer"
+    },
+    {
+      "file": "sharedassets2.assets",
+      "texture_id": 23,
+      "dimensions": [
+        756,
+        524
+      ],
+      "outside_patch_pixels": "identical",
+      "alpha_policy": "new alpha in caption rectangles only",
+      "saved_decode": "passed installer"
+    },
+    {
+      "file": "resources.assets",
+      "texture_id": 1556,
+      "dimensions": [
+        1276,
+        1076
+      ],
+      "outside_patch_pixels": "identical",
+      "alpha_policy": "original alpha identical",
+      "saved_decode": "passed installer"
+    },
+    {
+      "file": "resources.assets",
+      "texture_id": 276,
+      "dimensions": [
+        1276,
+        1076
+      ],
+      "outside_patch_pixels": "identical",
+      "alpha_policy": "original alpha identical",
+      "saved_decode": "passed installer"
+    },
+    {
+      "file": "resources.assets",
+      "texture_id": 619,
+      "dimensions": [
+        1276,
+        1076
+      ],
+      "outside_patch_pixels": "identical",
+      "alpha_policy": "original alpha identical",
+      "saved_decode": "passed installer"
+    },
+    {
+      "file": "resources.assets",
+      "texture_id": 1374,
+      "dimensions": [
+        1276,
+        1076
+      ],
+      "outside_patch_pixels": "identical",
+      "alpha_policy": "original alpha identical",
+      "saved_decode": "passed installer"
+    },
+    {
+      "file": "resources.assets",
+      "texture_id": 804,
+      "dimensions": [
+        1276,
+        1076
+      ],
+      "outside_patch_pixels": "identical",
+      "alpha_policy": "original alpha identical",
+      "saved_decode": "passed installer"
+    },
+    {
+      "file": "resources.assets",
+      "texture_id": 1868,
+      "dimensions": [
+        1276,
+        1076
+      ],
+      "outside_patch_pixels": "identical",
+      "alpha_policy": "original alpha identical",
+      "saved_decode": "passed installer"
+    },
+    {
+      "file": "resources.assets",
+      "texture_id": 104,
+      "dimensions": [
+        601,
+        150
+      ],
+      "outside_patch_pixels": "identical",
+      "alpha_policy": "original alpha identical",
+      "saved_decode": "passed installer"
+    },
+    {
+      "file": "resources.assets",
+      "texture_id": 1092,
+      "dimensions": [
+        600,
+        161
+      ],
+      "outside_patch_pixels": "identical",
+      "alpha_policy": "original alpha identical",
+      "saved_decode": "passed installer"
+    },
+    {
+      "file": "resources.assets",
+      "texture_id": 486,
+      "dimensions": [
+        600,
+        160
+      ],
+      "outside_patch_pixels": "identical",
+      "alpha_policy": "original alpha identical",
+      "saved_decode": "passed installer"
+    },
+    {
+      "file": "resources.assets",
+      "texture_id": 283,
+      "dimensions": [
+        1920,
+        1080
+      ],
+      "outside_patch_pixels": "identical",
+      "alpha_policy": "original alpha identical",
+      "saved_decode": "passed installer"
+    },
+    {
+      "file": "resources.assets",
+      "texture_id": 349,
+      "dimensions": [
+        1920,
+        1080
+      ],
+      "outside_patch_pixels": "identical",
+      "alpha_policy": "original alpha identical",
+      "saved_decode": "passed installer"
+    }
+  ],
+  "unique_textures": 17,
+  "game_screen_check": "pending user",
+  "final_controller_revision": "controller_images_v10c",
+  "final_promo_revision": "promo_images_v12b",
+  "promo_edge_rgb": "original boundary pixels restored"
+}

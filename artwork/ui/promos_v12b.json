@@ -1,0 +1,70 @@
+{
+  "revision": "promo_images_v12b",
+  "patches": [
+    {
+      "file": "resources.assets",
+      "texture_id": 104,
+      "source": "artwork/ui/generated/promo_104_ko_v12b.png",
+      "regions": [
+        [
+          0,
+          0,
+          601,
+          150
+        ]
+      ]
+    },
+    {
+      "file": "resources.assets",
+      "texture_id": 1092,
+      "source": "artwork/ui/generated/promo_1092_ko_v12b.png",
+      "regions": [
+        [
+          0,
+          0,
+          600,
+          161
+        ]
+      ]
+    },
+    {
+      "file": "resources.assets",
+      "texture_id": 486,
+      "source": "artwork/ui/generated/promo_486_ko_v12b.png",
+      "regions": [
+        [
+          0,
+          0,
+          600,
+          160
+        ]
+      ]
+    },
+    {
+      "file": "resources.assets",
+      "texture_id": 283,
+      "source": "artwork/ui/generated/promo_283_ko_v12b.png",
+      "regions": [
+        [
+          0,
+          0,
+          1920,
+          1080
+        ]
+      ]
+    },
+    {
+      "file": "resources.assets",
+      "texture_id": 349,
+      "source": "artwork/ui/generated/promo_349_ko_v12b.png",
+      "regions": [
+        [
+          0,
+          0,
+          1920,
+          1080
+        ]
+      ]
+    }
+  ]
+}

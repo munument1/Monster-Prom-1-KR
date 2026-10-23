@@ -1,0 +1,299 @@
+{
+  "revision": "controller_images_v10c",
+  "patches": [
+    {
+      "file": "sharedassets2.assets",
+      "texture_id": 14,
+      "source": "artwork/ui/generated/controller_labels_ko_v10b.png",
+      "placements": [
+        {
+          "source_box": [
+            0,
+            0,
+            1,
+            1
+          ],
+          "target_box": [
+            0,
+            0,
+            756,
+            155
+          ]
+        },
+        {
+          "source_box": [
+            290,
+            160,
+            960,
+            515
+          ],
+          "target_box": [
+            236,
+            0,
+            520,
+            150
+          ]
+        },
+        {
+          "source_box": [
+            0,
+            0,
+            1,
+            1
+          ],
+          "target_box": [
+            0,
+            422,
+            756,
+            524
+          ]
+        },
+        {
+          "source_box": [
+            140,
+            550,
+            1120,
+            880
+          ],
+          "target_box": [
+            226,
+            422,
+            530,
+            524
+          ]
+        }
+      ]
+    },
+    {
+      "file": "sharedassets2.assets",
+      "texture_id": 17,
+      "source": "artwork/ui/generated/controller_labels_ko_v10b.png",
+      "placements": [
+        {
+          "source_box": [
+            0,
+            0,
+            1,
+            1
+          ],
+          "target_box": [
+            0,
+            0,
+            756,
+            155
+          ]
+        },
+        {
+          "source_box": [
+            290,
+            160,
+            960,
+            515
+          ],
+          "target_box": [
+            236,
+            0,
+            520,
+            150
+          ]
+        },
+        {
+          "source_box": [
+            0,
+            0,
+            1,
+            1
+          ],
+          "target_box": [
+            0,
+            422,
+            756,
+            524
+          ]
+        },
+        {
+          "source_box": [
+            140,
+            550,
+            1120,
+            880
+          ],
+          "target_box": [
+            226,
+            422,
+            530,
+            524
+          ]
+        }
+      ]
+    },
+    {
+      "file": "sharedassets2.assets",
+      "texture_id": 21,
+      "source": "artwork/ui/generated/controller_labels_ko_v10b.png",
+      "placements": [
+        {
+          "source_box": [
+            0,
+            0,
+            1,
+            1
+          ],
+          "target_box": [
+            0,
+            0,
+            756,
+            155
+          ]
+        },
+        {
+          "source_box": [
+            290,
+            160,
+            960,
+            515
+          ],
+          "target_box": [
+            236,
+            0,
+            520,
+            150
+          ]
+        },
+        {
+          "source_box": [
+            0,
+            0,
+            1,
+            1
+          ],
+          "target_box": [
+            0,
+            422,
+            756,
+            524
+          ]
+        },
+        {
+          "source_box": [
+            140,
+            550,
+            1120,
+            880
+          ],
+          "target_box": [
+            226,
+            422,
+            530,
+            524
+          ]
+        }
+      ]
+    },
+    {
+      "file": "sharedassets2.assets",
+      "texture_id": 15,
+      "source": "artwork/ui/generated/controller_labels_ko_v10b.png",
+      "placements": [
+        {
+          "source_box": [
+            0,
+            0,
+            1,
+            1
+          ],
+          "target_box": [
+            0,
+            422,
+            756,
+            524
+          ]
+        },
+        {
+          "source_box": [
+            70,
+            900,
+            1180,
+            1165
+          ],
+          "target_box": [
+            164,
+            422,
+            592,
+            524
+          ]
+        }
+      ]
+    },
+    {
+      "file": "sharedassets2.assets",
+      "texture_id": 22,
+      "source": "artwork/ui/generated/controller_labels_ko_v10b.png",
+      "placements": [
+        {
+          "source_box": [
+            0,
+            0,
+            1,
+            1
+          ],
+          "target_box": [
+            0,
+            422,
+            756,
+            524
+          ]
+        },
+        {
+          "source_box": [
+            70,
+            900,
+            1180,
+            1165
+          ],
+          "target_box": [
+            164,
+            422,
+            592,
+            524
+          ]
+        }
+      ]
+    },
+    {
+      "file": "sharedassets2.assets",
+      "texture_id": 23,
+      "source": "artwork/ui/generated/controller_labels_ko_v10b.png",
+      "placements": [
+        {
+          "source_box": [
+            0,
+            0,
+            1,
+            1
+          ],
+          "target_box": [
+            0,
+            422,
+            756,
+            524
+          ]
+        },
+        {
+          "source_box": [
+            70,
+            900,
+            1180,
+            1165
+          ],
+          "target_box": [
+            164,
+            422,
+            592,
+            524
+          ]
+        }
+      ]
+    }
+  ]
+}

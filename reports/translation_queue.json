@@ -311,7 +311,18 @@
   "completed_jobs": [
     "story_261_976_001",
     "story_261_976_002",
-    "story_261_976_003"
+    "story_261_976_003",
+    "story_261_976_004",
+    "story_261_976_005",
+    "story_261_976_006",
+    "story_261_976_007",
+    "story_261_976_008"
   ],
-  "remaining_jobs": 40
+  "remaining_jobs": 35,
+  "worker_status": "stopped: subagent usage limit",
+  "partial_drafts_preserved_locally": [
+    "009",
+    "010",
+    "011"
+  ]
 }

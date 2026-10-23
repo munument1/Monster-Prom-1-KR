@@ -1,0 +1,115 @@
+{
+  "revision": "promo_images_v12",
+  "patches": [
+    {
+      "file": "resources.assets",
+      "texture_id": 104,
+      "source": "artwork/ui/generated/promos_ko_v12.png",
+      "placements": [
+        {
+          "source_box": [
+            13,
+            14,
+            835,
+            201
+          ],
+          "target_box": [
+            3,
+            8,
+            589,
+            146
+          ],
+          "preserve_target_alpha": true
+        }
+      ]
+    },
+    {
+      "file": "resources.assets",
+      "texture_id": 1092,
+      "source": "artwork/ui/generated/promos_ko_v12.png",
+      "placements": [
+        {
+          "source_box": [
+            9,
+            225,
+            795,
+            425
+          ],
+          "target_box": [
+            0,
+            1,
+            600,
+            161
+          ],
+          "preserve_target_alpha": true
+        }
+      ]
+    },
+    {
+      "file": "resources.assets",
+      "texture_id": 486,
+      "source": "artwork/ui/generated/promos_ko_v12.png",
+      "placements": [
+        {
+          "source_box": [
+            6,
+            450,
+            795,
+            653
+          ],
+          "target_box": [
+            0,
+            0,
+            600,
+            157
+          ],
+          "preserve_target_alpha": true
+        }
+      ]
+    },
+    {
+      "file": "resources.assets",
+      "texture_id": 283,
+      "source": "artwork/ui/generated/promos_ko_v12.png",
+      "placements": [
+        {
+          "source_box": [
+            118,
+            734,
+            527,
+            977
+          ],
+          "target_box": [
+            352,
+            188,
+            1556,
+            908
+          ],
+          "preserve_target_alpha": true
+        }
+      ]
+    },
+    {
+      "file": "resources.assets",
+      "texture_id": 349,
+      "source": "artwork/ui/generated/promos_ko_v12.png",
+      "placements": [
+        {
+          "source_box": [
+            797,
+            743,
+            1190,
+            967
+          ],
+          "target_box": [
+            364,
+            214,
+            1532,
+            871
+          ],
+          "preserve_target_alpha": true
+        }
+      ]
+    }
+  ]
+}

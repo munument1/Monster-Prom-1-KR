@@ -1,0 +1,14 @@
+{
+  "Most Likely to Devour %HISHER% Own Children to Survive.": {
+    "omitted_tokens": {
+      "%HISHER%": 1
+    },
+    "reason": "영어 성별 소유격을 성별 중립 표현 자기로 자연화함."
+  },
+  "Most Likely to Survive for a Year Drinking Only %HISHER% Own Pee.": {
+    "omitted_tokens": {
+      "%HISHER%": 1
+    },
+    "reason": "영어 성별 소유격을 성별 중립 표현 자기로 자연화함."
+  }
+}

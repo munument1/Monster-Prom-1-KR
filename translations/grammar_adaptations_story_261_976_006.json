@@ -1,0 +1,30 @@
+{
+  "Polly, all this stupidity is too much for me. I don't care which of us is the best at makeup anymore. It's fine as long as we aren't as idiotic as %HIMHER%.": {
+    "omitted_tokens": {
+      "%HIMHER%": 1
+    },
+    "reason": "영어 성별 대명사와 동사 활용을 성별 중립 지시어와 자연스러운 한국어 서술어로 옮김."
+  },
+  "You must admit, %HESHE% %VERB_KNOWS_KNOW% %HISHER% dance moves!": {
+    "omitted_tokens": {
+      "%HESHE%": 1,
+      "%VERB_KNOWS_KNOW%": 1,
+      "%HISHER%": 1
+    },
+    "reason": "영어 성별 대명사와 동사 활용을 성별 중립 지시어와 자연스러운 한국어 서술어로 옮김."
+  },
+  "No, no, I think %HESHE% %VERB_IS_ARE% doing that entirely on purpose!": {
+    "omitted_tokens": {
+      "%HESHE%": 1,
+      "%VERB_IS_ARE%": 1
+    },
+    "reason": "영어 성별 대명사와 동사 활용을 성별 중립 지시어와 자연스러운 한국어 서술어로 옮김."
+  },
+  "Err... why %VERB_IS_ARE% %HESHE% turning to face us now? And what is the significance of that maniacal grin?": {
+    "omitted_tokens": {
+      "%VERB_IS_ARE%": 1,
+      "%HESHE%": 1
+    },
+    "reason": "영어 성별 대명사와 동사 활용을 성별 중립 지시어와 자연스러운 한국어 서술어로 옮김."
+  }
+}

@@ -1,1 +1,8 @@
-{}
+{
+  "Here lies %CURRENTPLAYERNAME%, %KINGQUEEN% of the... the... the not-so-nice people!": {
+    "omitted_tokens": {
+      "%KINGQUEEN%": 1
+    },
+    "reason": "성별에 따라 왕/여왕을 고르는 역할 치환자를 성별 중립 한국어 직함 군주로 번역."
+  }
+}

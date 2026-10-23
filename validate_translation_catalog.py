@@ -7,6 +7,8 @@ import re
 BASE = Path(__file__).parent
 TOKEN = re.compile(r"%[A-Za-z_][A-Za-z0-9_']*%|\[\d+\]|\[(?:/?[biusc]|n|[0-9a-fA-F]{6,8}|-)\]")
 GRAMMAR_TOKENS = {'%HESHE%', '%HIMHER%', '%HISHER%', '%HIMSELFHERSELF%', '%VERB_IS_ARE%', '%VERB_SAYS_SAY%', '%VERB_WANTS_WANT%', '%VERB_MAKES_MAKE%', '%VERB_HATES_HATE%'}
+GRAMMAR_TOKENS |= set(json.loads((BASE / 'translations/grammar_verb_tokens.json').read_text(encoding='utf-8')))
+GRAMMAR_TOKENS |= set(json.loads((BASE / 'translations/grammar_gender_tokens.json').read_text(encoding='utf-8')))
 STATS = {'SMARTS': '지능', 'BOLDNESS': '대담함', 'CREATIVITY': '창의력', 'CHARM': '매력', 'FUN': '재미', 'MONEY': '돈'}
 
 

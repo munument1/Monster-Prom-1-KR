@@ -65,3 +65,12 @@ Use case text-localization. Edit the supplied game menu texture ATLAS. Output la
 ## v8・v9 추가 이미지
 
 모드 도구 로고·버튼 3종과 이벤트 소품 8종을 내장 image_gen으로 생성했습니다. 정확한 프롬프트는 `modtool_buttons_v8_prompt.md`, `modtool_logo_v8_prompt.md`, `items_a_v9_prompt.md`, `items_b_v9_prompt.md`에 있습니다. 생성 원본은 `generated/`, 재현 좌표는 `modtool_v8.json`과 `items_v9.json`에 보관했습니다. RGB 검정 배경 중간 이미지를 잘라 원래 크기로 맞추고 최초 게임 텍스처의 알파 채널을 복원했습니다. 소품은 태국어 모드의 번역 대상과 대응 영어 원본을 대조해 선정했습니다. 게임 화면 확인은 사용자 대기입니다.
+
+
+## v10~v12 추가 이미지
+
+최종 컨트롤러 안내는 `controller_labels_ko_v10b_prompt.md`와 `generated/controller_labels_ko_v10b.png`, `controllers_v10c.json`을 사용합니다. 최초 합성 시 주변 컨트롤러 조각과 잘린 글자가 보여 독립 글자만 다시 생성했습니다. 기존 캡션 사각형을 지우고 새 알파 글자를 배치했으며 그 밖의 픽셀은 원본과 같습니다. 중간 실험 산출물은 로컬 참고 폴더에 보관합니다.
+
+회상 주차 표시는 `weeks_ko_v11_prompt.md`, 편지는 `ending_letter_ko_v11_prompt.md`, 적용 좌표는 `story_images_v11.json`에 있습니다. 홍보 배너 3종과 안내 그림 2종은 `promos_ko_v12_prompt.md` 및 `promos_v12.json`을 사용합니다. 외곽은 최초 원본 알파를 유지하고 다른 이미지/오브젝트를 보존했습니다. 최종 게임 화면은 사용자 확인 대기입니다.
+
+홍보 이미지 최종본은 `promos_v12b.json`과 `generated/promo_*_ko_v12b.png`입니다. 생성물 외곽의 색 잡음을 줄이기 위해 원본 알파를 다시 사용하고 경계의 원래 RGB 픽셀을 복원했습니다(작은 배너 3px, 큰 안내 그림 12px 경계 띠).

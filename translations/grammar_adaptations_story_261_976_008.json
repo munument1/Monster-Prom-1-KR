@@ -1,0 +1,26 @@
+{
+  "...I will be collecting business cards on %HISHER% behalf. We greatly appreciate your generosity!": {
+    "omitted_tokens": {
+      "%HISHER%": 1
+    },
+    "reason": "영어 성별 대명사 또는 동사 활용 대신 한국어의 중립 지시어·문맥상 생략·한국어 서술어를 사용해 자연스럽게 표현함."
+  },
+  "...I will be collecting business cards on %HISHER% behalf to cure %HISHER% tragic Compulsivelyinolus!": {
+    "omitted_tokens": {
+      "%HISHER%": 2
+    },
+    "reason": "영어 성별 대명사 또는 동사 활용 대신 한국어의 중립 지시어·문맥상 생략·한국어 서술어를 사용해 자연스럽게 표현함."
+  },
+  "Aww, it's like a little scarf for %HISHER% finger!": {
+    "omitted_tokens": {
+      "%HISHER%": 1
+    },
+    "reason": "영어 성별 대명사 또는 동사 활용 대신 한국어의 중립 지시어·문맥상 생략·한국어 서술어를 사용해 자연스럽게 표현함."
+  },
+  "If we did that, at least they'd look better than %CURRENTPLAYERNAME%'s hands. %HISHER% finger looks like a sad slug that got trapped in a six pack ring.": {
+    "omitted_tokens": {
+      "%HISHER%": 1
+    },
+    "reason": "영어 성별 대명사 또는 동사 활용 대신 한국어의 중립 지시어·문맥상 생략·한국어 서술어를 사용해 자연스럽게 표현함."
+  }
+}

@@ -163,5 +163,167 @@
       "%HIMHER%": 1
     },
     "reason": "영어 성별 대명사를 스스로 또는 문맥상 명확한 성별 중립 지시어로 자연화함."
+  },
+  "Here lies %CURRENTPLAYERNAME%, %KINGQUEEN% of the... the... the not-so-nice people!": {
+    "omitted_tokens": {
+      "%KINGQUEEN%": 1
+    },
+    "reason": "성별에 따라 왕/여왕을 고르는 역할 치환자를 성별 중립 한국어 직함 군주로 번역."
+  },
+  "Most Likely to Devour %HISHER% Own Children to Survive.": {
+    "omitted_tokens": {
+      "%HISHER%": 1
+    },
+    "reason": "영어 성별 소유격을 성별 중립 표현 자기로 자연화함."
+  },
+  "Most Likely to Survive for a Year Drinking Only %HISHER% Own Pee.": {
+    "omitted_tokens": {
+      "%HISHER%": 1
+    },
+    "reason": "영어 성별 소유격을 성별 중립 표현 자기로 자연화함."
+  },
+  "%HESHE% %VERB_MEANS_MEAN% Y.O.G.A. pants, as in \"Yielding Organic Gun Armor\" pants!": {
+    "omitted_tokens": {
+      "%HESHE%": 1,
+      "%VERB_MEANS_MEAN%": 1
+    },
+    "reason": "English grammatical pronouns and verb conjugations are rendered as natural gender-neutral Korean wording."
+  },
+  "No, silly, I think %HESHE% %VERB_MEANS_MEAN% yoga pants, like breathing really fast.": {
+    "omitted_tokens": {
+      "%HESHE%": 1,
+      "%VERB_MEANS_MEAN%": 1
+    },
+    "reason": "English grammatical pronouns and verb conjugations are rendered as natural gender-neutral Korean wording."
+  },
+  "%HESHE% %VERB_DOESN'T_DON'T% need to say anything. The truth is in %HISHER% eyes.": {
+    "omitted_tokens": {
+      "%HESHE%": 1,
+      "%VERB_DOESN'T_DON'T%": 1,
+      "%HISHER%": 1
+    },
+    "reason": "English grammatical pronouns and verb conjugations are rendered as natural gender-neutral Korean wording."
+  },
+  "Oh my god! %HESHE% can't read! Forget messing with Liam, this is way fucking funnier!": {
+    "omitted_tokens": {
+      "%HESHE%": 1
+    },
+    "reason": "English grammatical pronouns and verb conjugations are rendered as natural gender-neutral Korean wording."
+  },
+  "You're my %KNIGHTKNIGHTESS% in shining armor!": {
+    "omitted_tokens": {
+      "%KNIGHTKNIGHTESS%": 1
+    },
+    "reason": "Gendered role is rendered as the neutral Korean role knight."
+  },
+  "Why did you let %HIMHER% do it, if you knew it wasn't going to work?": {
+    "omitted_tokens": {
+      "%HIMHER%": 1
+    },
+    "reason": "영어 성별 대명사 또는 동사 활용 대신 한국어의 중립 지시어·문맥상 생략·한국어 서술어를 사용해 자연스럽게 표현함."
+  },
+  "Wait, Scott, I think %HESHE% meant I should ...": {
+    "omitted_tokens": {
+      "%HESHE%": 1
+    },
+    "reason": "영어 성별 대명사 또는 동사 활용 대신 한국어의 중립 지시어·문맥상 생략·한국어 서술어를 사용해 자연스럽게 표현함."
+  },
+  "No, Scott... clearly this imbecile got chlamydia doing gross stuff with gross people and now %HESHE% %VERB_IS_ARE% trying to pin it on the ball.": {
+    "omitted_tokens": {
+      "%HESHE%": 1,
+      "%VERB_IS_ARE%": 1
+    },
+    "reason": "영어 성별 대명사 또는 동사 활용 대신 한국어의 중립 지시어·문맥상 생략·한국어 서술어를 사용해 자연스럽게 표현함."
+  },
+  "Vera, Liam, you're the best students in that class! You've got to help %HIMHER% pass!": {
+    "omitted_tokens": {
+      "%HIMHER%": 1
+    },
+    "reason": "영어 성별 대명사 또는 동사 활용 대신 한국어의 중립 지시어·문맥상 생략·한국어 서술어를 사용해 자연스럽게 표현함."
+  },
+  "I have seen god, and %HESHE% %VERB_IS_ARE% a super hot high school teen.": {
+    "omitted_tokens": {
+      "%HESHE%": 1,
+      "%VERB_IS_ARE%": 1
+    },
+    "reason": "영어 성별 대명사 또는 동사 활용 대신 한국어의 중립 지시어·문맥상 생략·한국어 서술어를 사용해 자연스럽게 표현함."
+  },
+  "I think %HESHE% %VERB_IS_ARE% having a stroke.": {
+    "omitted_tokens": {
+      "%HESHE%": 1,
+      "%VERB_IS_ARE%": 1
+    },
+    "reason": "영어 성별 대명사 또는 동사 활용 대신 한국어의 중립 지시어·문맥상 생략·한국어 서술어를 사용해 자연스럽게 표현함."
+  },
+  "Are you going to die on us? Does that count, Coach? If %HESHE% %VERB_DIES_DIE%?": {
+    "omitted_tokens": {
+      "%HESHE%": 1,
+      "%VERB_DIES_DIE%": 1
+    },
+    "reason": "영어 성별 대명사 또는 동사 활용 대신 한국어의 중립 지시어·문맥상 생략·한국어 서술어를 사용해 자연스럽게 표현함."
+  },
+  "What happened? I had a weird dream that I was brain dead or something. Why are you happy? Is it over? Did %HESHE% do it?": {
+    "omitted_tokens": {
+      "%HESHE%": 1
+    },
+    "reason": "영어 성별 대명사 또는 동사 활용 대신 한국어의 중립 지시어·문맥상 생략·한국어 서술어를 사용해 자연스럽게 표현함."
+  },
+  "Polly, all this stupidity is too much for me. I don't care which of us is the best at makeup anymore. It's fine as long as we aren't as idiotic as %HIMHER%.": {
+    "omitted_tokens": {
+      "%HIMHER%": 1
+    },
+    "reason": "영어 성별 대명사와 동사 활용을 성별 중립 지시어와 자연스러운 한국어 서술어로 옮김."
+  },
+  "You must admit, %HESHE% %VERB_KNOWS_KNOW% %HISHER% dance moves!": {
+    "omitted_tokens": {
+      "%HESHE%": 1,
+      "%VERB_KNOWS_KNOW%": 1,
+      "%HISHER%": 1
+    },
+    "reason": "영어 성별 대명사와 동사 활용을 성별 중립 지시어와 자연스러운 한국어 서술어로 옮김."
+  },
+  "No, no, I think %HESHE% %VERB_IS_ARE% doing that entirely on purpose!": {
+    "omitted_tokens": {
+      "%HESHE%": 1,
+      "%VERB_IS_ARE%": 1
+    },
+    "reason": "영어 성별 대명사와 동사 활용을 성별 중립 지시어와 자연스러운 한국어 서술어로 옮김."
+  },
+  "Err... why %VERB_IS_ARE% %HESHE% turning to face us now? And what is the significance of that maniacal grin?": {
+    "omitted_tokens": {
+      "%VERB_IS_ARE%": 1,
+      "%HESHE%": 1
+    },
+    "reason": "영어 성별 대명사와 동사 활용을 성별 중립 지시어와 자연스러운 한국어 서술어로 옮김."
+  },
+  "...except knowing that my rad pal %CURRENTPLAYERNAME% has the same organ-expelling creature needle-stabbed into %HISHER% body, too!": {
+    "omitted_tokens": {
+      "%HISHER%": 1
+    },
+    "reason": "English grammatical pronouns and verb conjugations are rendered as natural gender-neutral Korean wording."
+  },
+  "...I will be collecting business cards on %HISHER% behalf. We greatly appreciate your generosity!": {
+    "omitted_tokens": {
+      "%HISHER%": 1
+    },
+    "reason": "영어 성별 대명사 또는 동사 활용 대신 한국어의 중립 지시어·문맥상 생략·한국어 서술어를 사용해 자연스럽게 표현함."
+  },
+  "...I will be collecting business cards on %HISHER% behalf to cure %HISHER% tragic Compulsivelyinolus!": {
+    "omitted_tokens": {
+      "%HISHER%": 2
+    },
+    "reason": "영어 성별 대명사 또는 동사 활용 대신 한국어의 중립 지시어·문맥상 생략·한국어 서술어를 사용해 자연스럽게 표현함."
+  },
+  "Aww, it's like a little scarf for %HISHER% finger!": {
+    "omitted_tokens": {
+      "%HISHER%": 1
+    },
+    "reason": "영어 성별 대명사 또는 동사 활용 대신 한국어의 중립 지시어·문맥상 생략·한국어 서술어를 사용해 자연스럽게 표현함."
+  },
+  "If we did that, at least they'd look better than %CURRENTPLAYERNAME%'s hands. %HISHER% finger looks like a sad slug that got trapped in a six pack ring.": {
+    "omitted_tokens": {
+      "%HISHER%": 1
+    },
+    "reason": "영어 성별 대명사 또는 동사 활용 대신 한국어의 중립 지시어·문맥상 생략·한국어 서술어를 사용해 자연스럽게 표현함."
   }
 }
