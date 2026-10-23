@@ -1,0 +1,127 @@
+{
+  "images": [
+    {
+      "file": "sharedassets15.assets",
+      "texture_id": 2,
+      "dimensions": [
+        376,
+        138
+      ],
+      "original_alpha": "identical",
+      "decoded_after_save": "checked by installer"
+    },
+    {
+      "file": "sharedassets15.assets",
+      "texture_id": 4,
+      "dimensions": [
+        376,
+        144
+      ],
+      "original_alpha": "identical",
+      "decoded_after_save": "checked by installer"
+    },
+    {
+      "file": "sharedassets15.assets",
+      "texture_id": 5,
+      "dimensions": [
+        377,
+        138
+      ],
+      "original_alpha": "identical",
+      "decoded_after_save": "checked by installer"
+    },
+    {
+      "file": "sharedassets15.assets",
+      "texture_id": 3,
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "original_alpha": "identical",
+      "decoded_after_save": "checked by installer"
+    },
+    {
+      "file": "resources.assets",
+      "texture_id": 655,
+      "dimensions": [
+        600,
+        600
+      ],
+      "original_alpha": "identical",
+      "decoded_after_save": "checked by installer"
+    },
+    {
+      "file": "resources.assets",
+      "texture_id": 1588,
+      "dimensions": [
+        600,
+        600
+      ],
+      "original_alpha": "identical",
+      "decoded_after_save": "checked by installer"
+    },
+    {
+      "file": "resources.assets",
+      "texture_id": 227,
+      "dimensions": [
+        600,
+        600
+      ],
+      "original_alpha": "identical",
+      "decoded_after_save": "checked by installer"
+    },
+    {
+      "file": "resources.assets",
+      "texture_id": 1173,
+      "dimensions": [
+        600,
+        600
+      ],
+      "original_alpha": "identical",
+      "decoded_after_save": "checked by installer"
+    },
+    {
+      "file": "resources.assets",
+      "texture_id": 1340,
+      "dimensions": [
+        600,
+        600
+      ],
+      "original_alpha": "identical",
+      "decoded_after_save": "checked by installer"
+    },
+    {
+      "file": "resources.assets",
+      "texture_id": 898,
+      "dimensions": [
+        600,
+        600
+      ],
+      "original_alpha": "identical",
+      "decoded_after_save": "checked by installer"
+    },
+    {
+      "file": "resources.assets",
+      "texture_id": 1002,
+      "dimensions": [
+        600,
+        600
+      ],
+      "original_alpha": "identical",
+      "decoded_after_save": "checked by installer"
+    },
+    {
+      "file": "resources.assets",
+      "texture_id": 1555,
+      "dimensions": [
+        644,
+        836
+      ],
+      "original_alpha": "identical",
+      "decoded_after_save": "checked by installer"
+    }
+  ],
+  "changed_textures": 12,
+  "unrelated_objects": "byte-identical per installer",
+  "visual_verification": "pending user"
+}

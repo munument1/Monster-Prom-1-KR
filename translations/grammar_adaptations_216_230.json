@@ -1,0 +1,8 @@
+{
+  "I always heard \"%CURRENTPLAYERNAME% can't handle %HISHER% drugs\" -- stupid me for giving you the benefit of the doubt.": {
+    "omitted_tokens": {
+      "%HISHER%": 1
+    },
+    "reason": "English grammatical pronouns and conjugation are rendered as natural gender-neutral Korean wording."
+  }
+}

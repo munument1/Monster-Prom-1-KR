@@ -1,0 +1,16 @@
+{
+  "Uh, yeah? Totally. %HESHE% just really %VERB_HATES_HATE% potions and couldn't help trying to punch the one in your stomach.": {
+    "omitted_tokens": {
+      "%HESHE%": 1,
+      "%VERB_HATES_HATE%": 1
+    },
+    "reason": "영어 성별 대명사와 동사 활용 변수 대신 중립 지시어 또는 문맥상 주어 생략 및 한국어 서술어를 사용함."
+  },
+  "Wait, but if %HESHE% really %VERB_HATES_HATE% potions so much... why are you two hanging out when Polly's covered in potions?!": {
+    "omitted_tokens": {
+      "%HESHE%": 1,
+      "%VERB_HATES_HATE%": 1
+    },
+    "reason": "영어 성별 대명사와 동사 활용 변수 대신 중립 지시어 또는 문맥상 주어 생략 및 한국어 서술어를 사용함."
+  }
+}

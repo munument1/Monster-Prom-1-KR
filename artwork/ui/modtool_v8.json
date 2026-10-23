@@ -1,0 +1,93 @@
+{
+  "revision": "modtool_images_v8",
+  "patches": [
+    {
+      "file": "sharedassets15.assets",
+      "texture_id": 2,
+      "source": "artwork/ui/generated/modtool_buttons_v8.png",
+      "placements": [
+        {
+          "source_box": [
+            0,
+            0,
+            1076,
+            395
+          ],
+          "target_box": [
+            0,
+            0,
+            376,
+            138
+          ],
+          "preserve_target_alpha": true
+        }
+      ]
+    },
+    {
+      "file": "sharedassets15.assets",
+      "texture_id": 4,
+      "source": "artwork/ui/generated/modtool_buttons_v8.png",
+      "placements": [
+        {
+          "source_box": [
+            0,
+            458,
+            1076,
+            870
+          ],
+          "target_box": [
+            0,
+            0,
+            376,
+            144
+          ],
+          "preserve_target_alpha": true
+        }
+      ]
+    },
+    {
+      "file": "sharedassets15.assets",
+      "texture_id": 5,
+      "source": "artwork/ui/generated/modtool_buttons_v8.png",
+      "placements": [
+        {
+          "source_box": [
+            0,
+            939,
+            1079,
+            1334
+          ],
+          "target_box": [
+            0,
+            0,
+            377,
+            138
+          ],
+          "preserve_target_alpha": true
+        }
+      ]
+    },
+    {
+      "file": "sharedassets15.assets",
+      "texture_id": 3,
+      "source": "artwork/ui/generated/modtool_logo_v8.png",
+      "placements": [
+        {
+          "source_box": [
+            0,
+            0,
+            1254,
+            1254
+          ],
+          "target_box": [
+            0,
+            0,
+            1024,
+            1024
+          ],
+          "preserve_target_alpha": true
+        }
+      ]
+    }
+  ]
+}

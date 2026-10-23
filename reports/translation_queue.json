@@ -1,0 +1,317 @@
+{
+  "catalog_sha256": "ddd42439cfd0d703508b4bf2afed9a904a6b02319499de566b818b2a4dafe518",
+  "first_event": 261,
+  "last_event": 976,
+  "unique_untranslated_strings": 24833,
+  "source_occurrences": 26840,
+  "word_budget_per_job": 9000,
+  "jobs": [
+    {
+      "id": "story_261_976_001",
+      "unique_strings": 597,
+      "english_words": 8989,
+      "first_event": 261,
+      "last_event": 930
+    },
+    {
+      "id": "story_261_976_002",
+      "unique_strings": 568,
+      "english_words": 8999,
+      "first_event": 274,
+      "last_event": 873
+    },
+    {
+      "id": "story_261_976_003",
+      "unique_strings": 530,
+      "english_words": 8992,
+      "first_event": 284,
+      "last_event": 868
+    },
+    {
+      "id": "story_261_976_004",
+      "unique_strings": 637,
+      "english_words": 8986,
+      "first_event": 294,
+      "last_event": 866
+    },
+    {
+      "id": "story_261_976_005",
+      "unique_strings": 650,
+      "english_words": 8986,
+      "first_event": 310,
+      "last_event": 873
+    },
+    {
+      "id": "story_261_976_006",
+      "unique_strings": 625,
+      "english_words": 8999,
+      "first_event": 323,
+      "last_event": 873
+    },
+    {
+      "id": "story_261_976_007",
+      "unique_strings": 615,
+      "english_words": 8988,
+      "first_event": 336,
+      "last_event": 962
+    },
+    {
+      "id": "story_261_976_008",
+      "unique_strings": 557,
+      "english_words": 8986,
+      "first_event": 348,
+      "last_event": 522
+    },
+    {
+      "id": "story_261_976_009",
+      "unique_strings": 534,
+      "english_words": 8976,
+      "first_event": 360,
+      "last_event": 539
+    },
+    {
+      "id": "story_261_976_010",
+      "unique_strings": 653,
+      "english_words": 9000,
+      "first_event": 369,
+      "last_event": 868
+    },
+    {
+      "id": "story_261_976_011",
+      "unique_strings": 590,
+      "english_words": 8996,
+      "first_event": 378,
+      "last_event": 926
+    },
+    {
+      "id": "story_261_976_012",
+      "unique_strings": 564,
+      "english_words": 8995,
+      "first_event": 388,
+      "last_event": 946
+    },
+    {
+      "id": "story_261_976_013",
+      "unique_strings": 571,
+      "english_words": 8989,
+      "first_event": 400,
+      "last_event": 436
+    },
+    {
+      "id": "story_261_976_014",
+      "unique_strings": 611,
+      "english_words": 8988,
+      "first_event": 412,
+      "last_event": 856
+    },
+    {
+      "id": "story_261_976_015",
+      "unique_strings": 626,
+      "english_words": 8996,
+      "first_event": 421,
+      "last_event": 924
+    },
+    {
+      "id": "story_261_976_016",
+      "unique_strings": 633,
+      "english_words": 8995,
+      "first_event": 431,
+      "last_event": 876
+    },
+    {
+      "id": "story_261_976_017",
+      "unique_strings": 634,
+      "english_words": 8995,
+      "first_event": 450,
+      "last_event": 906
+    },
+    {
+      "id": "story_261_976_018",
+      "unique_strings": 584,
+      "english_words": 8994,
+      "first_event": 473,
+      "last_event": 492
+    },
+    {
+      "id": "story_261_976_019",
+      "unique_strings": 624,
+      "english_words": 8991,
+      "first_event": 492,
+      "last_event": 875
+    },
+    {
+      "id": "story_261_976_020",
+      "unique_strings": 611,
+      "english_words": 8964,
+      "first_event": 503,
+      "last_event": 773
+    },
+    {
+      "id": "story_261_976_021",
+      "unique_strings": 524,
+      "english_words": 9000,
+      "first_event": 526,
+      "last_event": 856
+    },
+    {
+      "id": "story_261_976_022",
+      "unique_strings": 537,
+      "english_words": 8993,
+      "first_event": 537,
+      "last_event": 976
+    },
+    {
+      "id": "story_261_976_023",
+      "unique_strings": 492,
+      "english_words": 8980,
+      "first_event": 544,
+      "last_event": 824
+    },
+    {
+      "id": "story_261_976_024",
+      "unique_strings": 701,
+      "english_words": 8997,
+      "first_event": 552,
+      "last_event": 955
+    },
+    {
+      "id": "story_261_976_025",
+      "unique_strings": 547,
+      "english_words": 8995,
+      "first_event": 656,
+      "last_event": 947
+    },
+    {
+      "id": "story_261_976_026",
+      "unique_strings": 551,
+      "english_words": 8994,
+      "first_event": 755,
+      "last_event": 974
+    },
+    {
+      "id": "story_261_976_027",
+      "unique_strings": 548,
+      "english_words": 8996,
+      "first_event": 763,
+      "last_event": 964
+    },
+    {
+      "id": "story_261_976_028",
+      "unique_strings": 617,
+      "english_words": 8994,
+      "first_event": 772,
+      "last_event": 897
+    },
+    {
+      "id": "story_261_976_029",
+      "unique_strings": 594,
+      "english_words": 8995,
+      "first_event": 783,
+      "last_event": 886
+    },
+    {
+      "id": "story_261_976_030",
+      "unique_strings": 597,
+      "english_words": 8970,
+      "first_event": 793,
+      "last_event": 862
+    },
+    {
+      "id": "story_261_976_031",
+      "unique_strings": 578,
+      "english_words": 8995,
+      "first_event": 802,
+      "last_event": 868
+    },
+    {
+      "id": "story_261_976_032",
+      "unique_strings": 561,
+      "english_words": 8990,
+      "first_event": 811,
+      "last_event": 908
+    },
+    {
+      "id": "story_261_976_033",
+      "unique_strings": 549,
+      "english_words": 8986,
+      "first_event": 820,
+      "last_event": 873
+    },
+    {
+      "id": "story_261_976_034",
+      "unique_strings": 498,
+      "english_words": 8983,
+      "first_event": 828,
+      "last_event": 838
+    },
+    {
+      "id": "story_261_976_035",
+      "unique_strings": 585,
+      "english_words": 8997,
+      "first_event": 838,
+      "last_event": 846
+    },
+    {
+      "id": "story_261_976_036",
+      "unique_strings": 597,
+      "english_words": 8979,
+      "first_event": 846,
+      "last_event": 856
+    },
+    {
+      "id": "story_261_976_037",
+      "unique_strings": 536,
+      "english_words": 8988,
+      "first_event": 856,
+      "last_event": 877
+    },
+    {
+      "id": "story_261_976_038",
+      "unique_strings": 568,
+      "english_words": 8995,
+      "first_event": 862,
+      "last_event": 960
+    },
+    {
+      "id": "story_261_976_039",
+      "unique_strings": 615,
+      "english_words": 8989,
+      "first_event": 869,
+      "last_event": 876
+    },
+    {
+      "id": "story_261_976_040",
+      "unique_strings": 566,
+      "english_words": 8999,
+      "first_event": 876,
+      "last_event": 897
+    },
+    {
+      "id": "story_261_976_041",
+      "unique_strings": 587,
+      "english_words": 8994,
+      "first_event": 897,
+      "last_event": 912
+    },
+    {
+      "id": "story_261_976_042",
+      "unique_strings": 496,
+      "english_words": 8978,
+      "first_event": 912,
+      "last_event": 929
+    },
+    {
+      "id": "story_261_976_043",
+      "unique_strings": 375,
+      "english_words": 5712,
+      "first_event": 929,
+      "last_event": 976
+    }
+  ],
+  "completed_jobs": [
+    "story_261_976_001",
+    "story_261_976_002",
+    "story_261_976_003"
+  ],
+  "remaining_jobs": 40
+}

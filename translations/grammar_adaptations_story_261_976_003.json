@@ -1,0 +1,14 @@
+{
+  "A risk I am most certainly willing to take. After all, %CURRENTPLAYERNAME% just proved %HIMSELFHERSELF% to be my greatest, bravest, beautifulest champion ever!": {
+    "omitted_tokens": {
+      "%HIMSELFHERSELF%": 1
+    },
+    "reason": "영어 성별 대명사를 스스로 또는 문맥상 명확한 성별 중립 지시어로 자연화함."
+  },
+  "Oh darn! Just like the accused forgot to define \"trial by combat,\" %CURRENTPLAYERNAME% forgot to define \"trial by videogame combat,\" so it's totally fair for Agzramalquatus to beat %HIMHER% into unconsciousness!": {
+    "omitted_tokens": {
+      "%HIMHER%": 1
+    },
+    "reason": "영어 성별 대명사를 스스로 또는 문맥상 명확한 성별 중립 지시어로 자연화함."
+  }
+}

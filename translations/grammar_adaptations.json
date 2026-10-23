@@ -112,5 +112,56 @@
       "%VERB_WANTS_WANT%": 1
     },
     "reason": "영어의 성별 대명사와 동사 활용을 한국어 중립 지시어·서술어로 자연화함."
+  },
+  "I always heard \"%CURRENTPLAYERNAME% can't handle %HISHER% drugs\" -- stupid me for giving you the benefit of the doubt.": {
+    "omitted_tokens": {
+      "%HISHER%": 1
+    },
+    "reason": "English grammatical pronouns and conjugation are rendered as natural gender-neutral Korean wording."
+  },
+  "I mean, if I was, would I be punching %HIMHER% so much?": {
+    "omitted_tokens": {
+      "%HIMHER%": 1
+    },
+    "reason": "영어 성별 대명사 대신 한국어 문맥상 명확한 목적어를 생략해 자연스럽게 표현함."
+  },
+  "Oh, I'm sure %HESHE% will be absolutely just fine. I have to keep getting ready -- best of luck saving the world or whatever.": {
+    "omitted_tokens": {
+      "%HESHE%": 1
+    },
+    "reason": "English grammatical pronouns and verb conjugation are rendered as natural gender-neutral Korean wording."
+  },
+  "Yes, %HESHE% %VERB_MAKES_MAKE% an excellent point. As a lawyer, I can attest that my legal practice is, in fact, a legal practice.": {
+    "omitted_tokens": {
+      "%HESHE%": 1,
+      "%VERB_MAKES_MAKE%": 1
+    },
+    "reason": "English grammatical pronouns and verb conjugation are rendered as natural gender-neutral Korean wording."
+  },
+  "Uh, yeah? Totally. %HESHE% just really %VERB_HATES_HATE% potions and couldn't help trying to punch the one in your stomach.": {
+    "omitted_tokens": {
+      "%HESHE%": 1,
+      "%VERB_HATES_HATE%": 1
+    },
+    "reason": "영어 성별 대명사와 동사 활용 변수 대신 중립 지시어 또는 문맥상 주어 생략 및 한국어 서술어를 사용함."
+  },
+  "Wait, but if %HESHE% really %VERB_HATES_HATE% potions so much... why are you two hanging out when Polly's covered in potions?!": {
+    "omitted_tokens": {
+      "%HESHE%": 1,
+      "%VERB_HATES_HATE%": 1
+    },
+    "reason": "영어 성별 대명사와 동사 활용 변수 대신 중립 지시어 또는 문맥상 주어 생략 및 한국어 서술어를 사용함."
+  },
+  "A risk I am most certainly willing to take. After all, %CURRENTPLAYERNAME% just proved %HIMSELFHERSELF% to be my greatest, bravest, beautifulest champion ever!": {
+    "omitted_tokens": {
+      "%HIMSELFHERSELF%": 1
+    },
+    "reason": "영어 성별 대명사를 스스로 또는 문맥상 명확한 성별 중립 지시어로 자연화함."
+  },
+  "Oh darn! Just like the accused forgot to define \"trial by combat,\" %CURRENTPLAYERNAME% forgot to define \"trial by videogame combat,\" so it's totally fair for Agzramalquatus to beat %HIMHER% into unconsciousness!": {
+    "omitted_tokens": {
+      "%HIMHER%": 1
+    },
+    "reason": "영어 성별 대명사를 스스로 또는 문맥상 명확한 성별 중립 지시어로 자연화함."
   }
 }

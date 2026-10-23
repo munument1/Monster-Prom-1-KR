@@ -5,8 +5,8 @@ import json
 import re
 
 BASE = Path(__file__).parent
-TOKEN = re.compile(r'%[^%]+%|\[\d+\]|\[(?:/?[biusc]|n|[0-9a-fA-F]{6,8}|-)\]')
-GRAMMAR_TOKENS = {'%HESHE%', '%HIMHER%', '%HISHER%', '%VERB_IS_ARE%', '%VERB_SAYS_SAY%', '%VERB_WANTS_WANT%'}
+TOKEN = re.compile(r"%[A-Za-z_][A-Za-z0-9_']*%|\[\d+\]|\[(?:/?[biusc]|n|[0-9a-fA-F]{6,8}|-)\]")
+GRAMMAR_TOKENS = {'%HESHE%', '%HIMHER%', '%HISHER%', '%HIMSELFHERSELF%', '%VERB_IS_ARE%', '%VERB_SAYS_SAY%', '%VERB_WANTS_WANT%', '%VERB_MAKES_MAKE%', '%VERB_HATES_HATE%'}
 STATS = {'SMARTS': '지능', 'BOLDNESS': '대담함', 'CREATIVITY': '창의력', 'CHARM': '매력', 'FUN': '재미', 'MONEY': '돈'}
 
 
@@ -36,7 +36,7 @@ def validate_catalog():
         assert korean.count('[n]') + korean.count('\n') >= english.count('[n]') + english.count('\n'), english
         # Earlier UI/event batches sometimes express loss as "2 ... 감소".
         # New story batches use explicit signed deltas, which can be audited exactly.
-        deltas = re.findall(r'([+-]\d+) (SMARTS|BOLDNESS|CREATIVITY|CHARM|FUN|MONEY)\b', english) if owners[english].startswith('events_') else []
+        deltas = re.findall(r'([+-]\d+) (SMARTS|BOLDNESS|CREATIVITY|CHARM|FUN|MONEY)\b', english) if owners[english].startswith(('events_', 'story_')) else []
         for number, stat in deltas:
             name = STATS[stat]
             assert re.search(rf'(?:{name}(?:이|가|을|를)?\s*{re.escape(number)}|{re.escape(number)}\s*{name})', korean), ('stat mismatch', owners[english], english, korean)

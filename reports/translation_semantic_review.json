@@ -142,5 +142,28 @@
       "reason": "Character name consistency: Interdimensional Prince"
     }
   ],
-  "term_normalizations": 7
+  "term_normalizations": 7,
+  "additional_review_216_260": {
+    "main_agent_sampled_choice_events": [
+      216,
+      221,
+      225,
+      230,
+      231,
+      238,
+      245,
+      246,
+      253,
+      260
+    ],
+    "main_agent_narrative_sampling": "8-9 spaced entries per source file",
+    "independent_review": {
+      "file": "events_231_245_ko.json",
+      "choices_read": 30,
+      "outcome_endings_read": 60,
+      "clear_semantic_errors_found": 0
+    },
+    "term_correction": "곰인간 청소부 미친 마틴 → 곰인간 관리인 미치광이 마틴 (2 occurrences)",
+    "limitation": "Sampled review; not a complete independent review of every sentence"
+  }
 }

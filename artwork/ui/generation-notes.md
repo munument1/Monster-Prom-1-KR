@@ -60,3 +60,8 @@ Use case text-localization. Edit the supplied game menu texture ATLAS. Output la
 - `generated/shop_labels_rgb_ko_v7.png` · [상점 프롬프트](shop_labels_rgb_ko_v7_prompt.md)
 
 `atlas_patches_v6.json`과 `atlas_patches_v7.json`에 생성 이미지의 잘라낼 좌표와 게임의 배치 좌표를 기록했습니다. 카드·표지는 스프라이트 크기로 리샘플하고 능력치 문구는 원래 각 줄에 맞춥니다. RGB 중간 이미지를 사용해 투명 경계의 색 번짐을 피하고 최종 아틀라스에는 원래 알파를 유지합니다. 주차 대형 카드와 상점 검정 소지금 문구는 글자·밑줄 영역만 적용합니다. 밝은 나가기 버튼은 실제 이미지 문구 위치를 사용합니다. 원본 아틀라스와 적용 바이너리는 로컬에만 보관합니다. 게임 화면 확인은 사용자 대기입니다.
+
+
+## v8・v9 추가 이미지
+
+모드 도구 로고·버튼 3종과 이벤트 소품 8종을 내장 image_gen으로 생성했습니다. 정확한 프롬프트는 `modtool_buttons_v8_prompt.md`, `modtool_logo_v8_prompt.md`, `items_a_v9_prompt.md`, `items_b_v9_prompt.md`에 있습니다. 생성 원본은 `generated/`, 재현 좌표는 `modtool_v8.json`과 `items_v9.json`에 보관했습니다. RGB 검정 배경 중간 이미지를 잘라 원래 크기로 맞추고 최초 게임 텍스처의 알파 채널을 복원했습니다. 소품은 태국어 모드의 번역 대상과 대응 영어 원본을 대조해 선정했습니다. 게임 화면 확인은 사용자 대기입니다.

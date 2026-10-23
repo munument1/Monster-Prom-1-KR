@@ -1,0 +1,181 @@
+{
+  "revision": "item_images_v9",
+  "patches": [
+    {
+      "file": "resources.assets",
+      "texture_id": 655,
+      "source": "artwork/ui/generated/items_a_v9.png",
+      "placements": [
+        {
+          "source_box": [
+            0,
+            0,
+            627,
+            627
+          ],
+          "target_box": [
+            0,
+            0,
+            600,
+            600
+          ],
+          "preserve_target_alpha": true
+        }
+      ]
+    },
+    {
+      "file": "resources.assets",
+      "texture_id": 1588,
+      "source": "artwork/ui/generated/items_a_v9.png",
+      "placements": [
+        {
+          "source_box": [
+            627,
+            0,
+            1254,
+            627
+          ],
+          "target_box": [
+            0,
+            0,
+            600,
+            600
+          ],
+          "preserve_target_alpha": true
+        }
+      ]
+    },
+    {
+      "file": "resources.assets",
+      "texture_id": 227,
+      "source": "artwork/ui/generated/items_a_v9.png",
+      "placements": [
+        {
+          "source_box": [
+            0,
+            627,
+            627,
+            1254
+          ],
+          "target_box": [
+            0,
+            0,
+            600,
+            600
+          ],
+          "preserve_target_alpha": true
+        }
+      ]
+    },
+    {
+      "file": "resources.assets",
+      "texture_id": 1173,
+      "source": "artwork/ui/generated/items_a_v9.png",
+      "placements": [
+        {
+          "source_box": [
+            627,
+            627,
+            1254,
+            1254
+          ],
+          "target_box": [
+            0,
+            0,
+            600,
+            600
+          ],
+          "preserve_target_alpha": true
+        }
+      ]
+    },
+    {
+      "file": "resources.assets",
+      "texture_id": 1340,
+      "source": "artwork/ui/generated/items_b_v9.png",
+      "placements": [
+        {
+          "source_box": [
+            0,
+            0,
+            627,
+            627
+          ],
+          "target_box": [
+            0,
+            0,
+            600,
+            600
+          ],
+          "preserve_target_alpha": true
+        }
+      ]
+    },
+    {
+      "file": "resources.assets",
+      "texture_id": 898,
+      "source": "artwork/ui/generated/items_b_v9.png",
+      "placements": [
+        {
+          "source_box": [
+            627,
+            0,
+            1254,
+            627
+          ],
+          "target_box": [
+            0,
+            0,
+            600,
+            600
+          ],
+          "preserve_target_alpha": true
+        }
+      ]
+    },
+    {
+      "file": "resources.assets",
+      "texture_id": 1002,
+      "source": "artwork/ui/generated/items_b_v9.png",
+      "placements": [
+        {
+          "source_box": [
+            0,
+            627,
+            627,
+            1254
+          ],
+          "target_box": [
+            0,
+            0,
+            600,
+            600
+          ],
+          "preserve_target_alpha": true
+        }
+      ]
+    },
+    {
+      "file": "resources.assets",
+      "texture_id": 1555,
+      "source": "artwork/ui/generated/items_b_v9.png",
+      "placements": [
+        {
+          "source_box": [
+            627,
+            627,
+            1254,
+            1254
+          ],
+          "target_box": [
+            0,
+            0,
+            644,
+            836
+          ],
+          "preserve_target_alpha": true
+        }
+      ]
+    }
+  ]
+}

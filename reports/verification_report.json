@@ -1,12 +1,12 @@
 {
   "asset_read_errors": 0,
-  "visual_verification": "v2 font user-confirmed; newest translations, school and shop images pending user",
+  "visual_verification": "v2 font user-confirmed; newest translations and images pending user",
   "files": [
     {
       "file": "resources.assets",
       "installed_hash_ok": true,
       "backup_hash_ok": true,
-      "changed_objects": 45
+      "changed_objects": 53
     },
     {
       "file": "level0",
@@ -109,38 +109,15 @@
       "installed_hash_ok": true,
       "backup_hash_ok": true,
       "changed_objects": 5
+    },
+    {
+      "file": "sharedassets15.assets",
+      "installed_hash_ok": true,
+      "backup_hash_ok": true,
+      "changed_objects": 4
     }
   ],
-  "hangul_syllables": 11172,
-  "dialogue_and_localized_text": {
-    "count": 34208,
-    "unique_ids": 34208
-  },
-  "scene_labels": {
-    "count": 818,
-    "unique_ids": 818
-  },
-  "ui_tables": {
-    "count": 686,
-    "unique_ids": 686
-  },
-  "managed_strings_review": {
-    "count": 4509,
-    "unique_ids": 4509
-  },
-  "logo_verification": "artwork/logo/patch_v1/verification.json",
-  "scene_roundtrip_verified_objects": 16,
-  "ngui_dynamic_font_connections": 8,
-  "second_term_logo": "replaced",
-  "main_menu_image_buttons": 6,
-  "localized_setup_image_labels": 8,
-  "voice_popup_layout": "explicit line breaks and bounded sizes; estimated glyph widths fit",
-  "localized_school_sign_variants": 30,
-  "grammar_adaptation_sources": 18,
-  "restore_reapply": "all 18 files verified; left patched",
-  "installed_localized_occurrences": 5066,
-  "school_image_validation": "reports/school_images_v6.json",
-  "shop_image_validation": "reports/shop_images_v7.json",
-  "catalog_validation": "reports/translation_catalog_validation.json",
-  "semantic_review": "reports/translation_semantic_review.json"
+  "file_count": 19,
+  "changed_object_count": 437,
+  "restore_reapply": "passed"
 }

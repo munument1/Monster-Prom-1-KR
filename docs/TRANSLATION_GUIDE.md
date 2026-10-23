@@ -8,11 +8,14 @@
 
 ## 표현과 용어
 
+JSON 작업 묶음의 준비·가져오기 방식은 [JSON 작업 안내](JSON_WORKFLOW.md)를 따릅니다. `story_` 번역 파일도 이벤트 파일과 같은 능력치 검사를 받습니다.
+
 - SMARTS 지능 / BOLDNESS 대담함 / CREATIVITY 창의력 / CHARM 매력 / FUN 재미 / MONEY 돈
 - Liam 리암 / Damien 데미안 / Scott 스콧 / Polly 폴리 / Polina 폴리나 / Miranda 미란다 / Vera 베라
 - Interdimensional Prince 차원 왕자 / Coven 코번 / Univertica 유니버티카 / Rabbaroo 래버루
 - Momentgram 모먼트그램 / Horny Dating App(tm) 발정난 데이팅 앱(tm) / CrowdSerfs 크라우드서프
 - Slayer는 괴물 사냥꾼. 밴드명 Slayer는 슬레이어.
+- Crazy Martin the Were-Bear Janitor는 곰인간 관리인 미치광이 마틴.
 
 캐릭터별 말투와 원문의 욕설·말장난을 살립니다. 이름 치환자와 게임 변수, 서식 태그를 보존합니다. 능력치 결과는 `지능 +2, 재미 -1`처럼 부호와 수치를 명시합니다. 고유명사를 바꿀 때는 연결된 조사도 확인합니다.
 

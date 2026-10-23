@@ -1,0 +1,8 @@
+{
+  "I mean, if I was, would I be punching %HIMHER% so much?": {
+    "omitted_tokens": {
+      "%HIMHER%": 1
+    },
+    "reason": "영어 성별 대명사 대신 한국어 문맥상 명확한 목적어를 생략해 자연스럽게 표현함."
+  }
+}

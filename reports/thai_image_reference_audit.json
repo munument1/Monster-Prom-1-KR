@@ -1,0 +1,114 @@
+{
+  "source": "user-supplied Thai mod, read-only local reference",
+  "cached_changed_resources_textures": 21,
+  "bundle_texture_inventory_count": 129,
+  "bundle_count": 6,
+  "comparison": [
+    {
+      "english_texture_id": 655,
+      "name": "lorecoupon",
+      "status": "applied v9"
+    },
+    {
+      "english_texture_id": 104,
+      "name": "MPF_promo_button",
+      "status": "pending localization review"
+    },
+    {
+      "english_texture_id": 146,
+      "name": "Monster Prom UI_MagazinePage1",
+      "status": "decorative background; no readable copy"
+    },
+    {
+      "english_texture_id": 1588,
+      "name": "nobletitle",
+      "status": "applied v9"
+    },
+    {
+      "english_texture_id": 227,
+      "name": "thankyounote",
+      "status": "applied v9"
+    },
+    {
+      "english_texture_id": 283,
+      "name": "InfoSheet_MonsterRoadtrip",
+      "status": "pending localization review"
+    },
+    {
+      "english_texture_id": 349,
+      "name": "InfoSheet_Camp",
+      "status": "pending localization review"
+    },
+    {
+      "english_texture_id": 486,
+      "name": "MR_promo_button",
+      "status": "pending localization review"
+    },
+    {
+      "english_texture_id": 1555,
+      "name": "Monster Prom UI_PopQuiz_Magazine",
+      "status": "applied v9"
+    },
+    {
+      "english_texture_id": 1173,
+      "name": "fanfic",
+      "status": "applied v9"
+    },
+    {
+      "english_texture_id": 1340,
+      "name": "guide",
+      "status": "applied v9"
+    },
+    {
+      "english_texture_id": 895,
+      "name": "polaroid14_pm",
+      "status": "pending localization review"
+    },
+    {
+      "english_texture_id": 1092,
+      "name": "MC_promo_button",
+      "status": "pending localization review"
+    },
+    {
+      "english_texture_id": 898,
+      "name": "card",
+      "status": "applied v9"
+    },
+    {
+      "english_texture_id": 1363,
+      "name": "0_pm",
+      "status": "pending localization review"
+    },
+    {
+      "english_texture_id": 1358,
+      "name": "14_pm",
+      "status": "pending localization review"
+    },
+    {
+      "english_texture_id": 224,
+      "name": "logo",
+      "status": "previous logo work or non-English slot"
+    },
+    {
+      "english_texture_id": 1802,
+      "name": "0",
+      "status": "pending localization review"
+    },
+    {
+      "english_texture_id": 340,
+      "name": "notebook",
+      "status": "pending localization review"
+    },
+    {
+      "english_texture_id": 1002,
+      "name": "policereport",
+      "status": "applied v9"
+    },
+    {
+      "english_texture_id": 1865,
+      "name": "logo_small_CH",
+      "status": "previous logo work or non-English slot"
+    }
+  ],
+  "limitation": "Changed textures are not equivalent to remaining translatable images; additional English atlases require separate inspection."
+}
