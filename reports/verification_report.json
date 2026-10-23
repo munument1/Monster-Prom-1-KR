@@ -1,0 +1,67 @@
+{
+  "asset_read_errors": 0,
+  "visual_verification": "pending user",
+  "files": [
+    {
+      "file": "resources.assets",
+      "installed_hash_ok": true,
+      "backup_hash_ok": true,
+      "changed_objects": 24
+    },
+    {
+      "file": "level0",
+      "installed_hash_ok": true,
+      "backup_hash_ok": true,
+      "changed_objects": 1
+    },
+    {
+      "file": "level1",
+      "installed_hash_ok": true,
+      "backup_hash_ok": true,
+      "changed_objects": 12
+    },
+    {
+      "file": "level2",
+      "installed_hash_ok": true,
+      "backup_hash_ok": true,
+      "changed_objects": 1
+    },
+    {
+      "file": "level3",
+      "installed_hash_ok": true,
+      "backup_hash_ok": true,
+      "changed_objects": 1
+    },
+    {
+      "file": "level7",
+      "installed_hash_ok": true,
+      "backup_hash_ok": true,
+      "changed_objects": 1
+    },
+    {
+      "file": "sharedassets0.assets",
+      "installed_hash_ok": true,
+      "backup_hash_ok": true,
+      "changed_objects": 2
+    }
+  ],
+  "hangul_syllables": 11172,
+  "dialogue_and_localized_text": {
+    "count": 34208,
+    "unique_ids": 34208
+  },
+  "scene_labels": {
+    "count": 818,
+    "unique_ids": 818
+  },
+  "ui_tables": {
+    "count": 686,
+    "unique_ids": 686
+  },
+  "managed_strings_review": {
+    "count": 4509,
+    "unique_ids": 4509
+  },
+  "logo_verification": "artwork/logo/patch_v1/verification.json",
+  "scene_roundtrip_verified_objects": 16
+}

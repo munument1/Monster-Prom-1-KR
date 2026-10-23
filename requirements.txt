@@ -1,0 +1,5 @@
+UnityPy==1.25.2
+TypeTreeGeneratorAPI==0.0.10
+fontTools==4.63.0
+dnfile==0.18.0
+Pillow==12.2.0

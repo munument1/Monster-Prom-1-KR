@@ -1,0 +1,20 @@
+{
+  "localized_entries": 34208,
+  "unique_localized_english": 30822,
+  "localized_english_words": 510702,
+  "scene_label_entries": 818,
+  "ui_table_entries": 686,
+  "auxiliary_review_entries": 546,
+  "asset_read_errors": [],
+  "by_file": {
+    "level10": 11,
+    "level11": 101,
+    "level2": 36,
+    "level4": 6,
+    "level5": 243,
+    "level6": 33692,
+    "level8": 81,
+    "level9": 14,
+    "resources.assets": 24
+  }
+}
