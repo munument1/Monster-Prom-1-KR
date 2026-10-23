@@ -1,0 +1,40 @@
+{
+  "Scott, this idiot is just trying to fool us into doing all kinds of menial tasks for %HIMHER%.": {
+    "omitted_tokens": {
+      "%HIMHER%": 1
+    },
+    "reason": "영어의 성별 대명사와 동사 활용을 한국어 중립 지시어·서술어로 자연화함."
+  },
+  "...hacking %CURRENTPLAYERNAME%'s phone and sexting %HISHER% grandpa on %HISHER% behalf?": {
+    "omitted_tokens": {
+      "%HISHER%": 2
+    },
+    "reason": "영어의 성별 대명사와 동사 활용을 한국어 중립 지시어·서술어로 자연화함."
+  },
+  "Wut? Lemme check that list... burning %CURRENTPLAYERNAME%'s house down? Stabbing %CURRENTPLAYERNAME% while %HESHE% %VERB_IS_ARE% asleep? Stabbing the burnt remains of %CURRENTPLAYERNAME%'s house?": {
+    "omitted_tokens": {
+      "%HESHE%": 1,
+      "%VERB_IS_ARE%": 1
+    },
+    "reason": "영어의 성별 대명사와 동사 활용을 한국어 중립 지시어·서술어로 자연화함."
+  },
+  "%HIMHER%!": {
+    "omitted_tokens": {
+      "%HIMHER%": 1
+    },
+    "reason": "영어의 성별 대명사와 동사 활용을 한국어 중립 지시어·서술어로 자연화함."
+  },
+  "There's no way SHE can race in this condition, and there's no offspring to race... now I have no car at all! What am I supposed to do now, Vera?! Just race down on %CURRENTPLAYERNAME%'s corpse after I've killed %HIMHER%? Because I totally will.": {
+    "omitted_tokens": {
+      "%HIMHER%": 1
+    },
+    "reason": "영어의 성별 대명사와 동사 활용을 한국어 중립 지시어·서술어로 자연화함."
+  },
+  "That's why we need you to choose which club is the best one! Because %CURRENTPLAYERNAME% always seems to choose based on who %HESHE% %VERB_WANTS_WANT% to ask to prom...": {
+    "omitted_tokens": {
+      "%HESHE%": 1,
+      "%VERB_WANTS_WANT%": 1
+    },
+    "reason": "영어의 성별 대명사와 동사 활용을 한국어 중립 지시어·서술어로 자연화함."
+  }
+}

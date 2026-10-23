@@ -1,6 +1,6 @@
 {
   "asset_read_errors": 0,
-  "visual_verification": "v2 Korean font output user-confirmed; newest text and school signs pending user",
+  "visual_verification": "v2 font user-confirmed; newest translations, school and shop images pending user",
   "files": [
     {
       "file": "resources.assets",
@@ -108,7 +108,7 @@
       "file": "sharedassets6.assets",
       "installed_hash_ok": true,
       "backup_hash_ok": true,
-      "changed_objects": 1
+      "changed_objects": 5
     }
   ],
   "hangul_syllables": 11172,
@@ -135,7 +135,12 @@
   "main_menu_image_buttons": 6,
   "localized_setup_image_labels": 8,
   "voice_popup_layout": "explicit line breaks and bounded sizes; estimated glyph widths fit",
-  "localized_school_sign_variants": 13,
-  "grammar_adaptation_sources": 3,
-  "restore_reapply": "all 18 files verified; left patched"
+  "localized_school_sign_variants": 30,
+  "grammar_adaptation_sources": 18,
+  "restore_reapply": "all 18 files verified; left patched",
+  "installed_localized_occurrences": 5066,
+  "school_image_validation": "reports/school_images_v6.json",
+  "shop_image_validation": "reports/shop_images_v7.json",
+  "catalog_validation": "reports/translation_catalog_validation.json",
+  "semantic_review": "reports/translation_semantic_review.json"
 }

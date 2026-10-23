@@ -1,0 +1,29 @@
+{
+  "unique_sources": 4302,
+  "source_files": {
+    "club_event_ko.json": 40,
+    "events_139_141_ko.json": 125,
+    "events_142_145_ko.json": 176,
+    "events_146_150_ko.json": 213,
+    "events_151_155_ko.json": 190,
+    "events_156_160_ko.json": 221,
+    "events_161_165_ko.json": 249,
+    "events_166_170_ko.json": 242,
+    "events_171_185_ko.json": 821,
+    "events_186_200_ko.json": 576,
+    "events_201_215_ko.json": 638,
+    "locations_ko.json": 145,
+    "modtool_ko.json": 143,
+    "prologue_ko.json": 32,
+    "quiz_intro_ko.json": 6,
+    "quiz_ko.json": 242,
+    "shop_ko.json": 110,
+    "ui_ko.json": 149
+  },
+  "explicit_grammar_adaptations": 18,
+  "signed_stat_deltas_checked": 603,
+  "duplicate_source_consistency": "passed",
+  "placeholder_and_formatting_tokens": "passed",
+  "line_break_preservation": "passed",
+  "unicode_replacement_characters": "none"
+}

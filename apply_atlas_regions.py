@@ -21,8 +21,20 @@ def main():
   e=UnityPy.load(str(GAME_DATA/fn));objects={o.path_id:o for o in e.objects};original={pid:o.get_raw_data() for pid,o in objects.items()};expected={};images={}
   for item in items:
    pid=item['texture_id'];o=objects[pid];assert o.type.name=='Texture2D';d=o.read();canvas=d.image.convert('RGBA');source=(BASE/item['source']).resolve();assert source.is_relative_to(BASE)
-   generated=Image.open(source).convert('RGBA').resize(canvas.size,Image.Resampling.LANCZOS)
-   for box in item['regions']:canvas.paste(generated.crop(box),tuple(box[:2]))
+   source_image=Image.open(source).convert('RGBA')
+   generated=source_image.resize(canvas.size,Image.Resampling.LANCZOS)
+   def valid_box(box,size):
+    assert len(box)==4 and all(isinstance(v,int) for v in box)
+    assert 0<=box[0]<box[2]<=size[0] and 0<=box[1]<box[3]<=size[1],box
+   for box in item.get('regions',[]):
+    valid_box(box,canvas.size);canvas.paste(generated.crop(box),tuple(box[:2]))
+   for placement in item.get('placements',[]):
+    src=placement['source_box'];dst=placement['target_box']
+    valid_box(src,source_image.size);valid_box(dst,canvas.size)
+    fragment=source_image.crop(src).resize((dst[2]-dst[0],dst[3]-dst[1]),Image.Resampling.LANCZOS)
+    if placement.get('preserve_target_alpha'):
+     fragment.putalpha(canvas.crop(dst).getchannel('A'))
+    canvas.paste(fragment,tuple(dst[:2]))
    d.set_image(canvas,target_format=4,mipmap_count=d.m_MipCount);d.save();expected[pid]=o.data;images[pid]=canvas
    canvas.save(stage/(fn+'_'+str(pid)+'.png'))
   out=stage/fn;out.write_bytes(e.file.save());check=UnityPy.load(str(out));assert len(check.objects)==len(original)

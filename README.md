@@ -2,7 +2,7 @@
 
 몬스터 프롬 1편 한글화 작업 저장소입니다. 원문 추출과 한글 폰트·일부 텍스트·이미지 패치 제작 및 로컬 적용까지 진행했습니다. **전체 번역은 미완료이며, v2 한글 출력은 사용자 화면으로 확인했습니다. 최신 변경의 화면 재확인은 대기 중입니다.**
 
-## 작업 현황 · 2026-10-23
+## 작업 현황 · 2026-10-24
 
 | 작업 | 상태 |
 | --- | --- |
@@ -11,12 +11,12 @@
 | UI 표 / 씬 라벨 추출 | 686개 / 818개 · 상호 중복 포함 |
 | 코드 문자열 추출 | 검토 대상 4,509개 · 로그와 내부 식별자 포함 |
 | 한글 폰트 테스트 | 내장 폰트의 한글 11,172자 확인 및 테스트 패치 제작 |
-| 번역 데이터 | 영어 문구 1,167개 · 언어 사전 1,687개 위치에 대응 |
+| 번역 데이터 | 영어 문구 4,302개 · 언어 사전 5,066개 위치에 대응 |
 | 퀴즈 | 42문항·선택지 201개 및 도입부 번역 |
 | 상점 | 아이템 이름·설명·상인 대사 110개 위치 번역 |
-| 공통 장소 / 이벤트 | 초반 이벤트 1~145번 연결 확인 · 반복 장소 이벤트와 클럽 선택지·네 갈래 결과 |
+| 공통 장소 / 이벤트 | 이벤트 1~215번 연결 확인 · 최신 146~215번의 대사·선택지·결과 3,290개 위치 |
 | 폰트 수정 v2 | NGUI 비트맵 폰트 8개를 한글 동적 폰트에 연결 · 사용자 출력 확인 |
-| 한글 이미지 | 로고, 메인 메뉴 6개, 학기 선택판 2개, 인원 1~4명, 뒤로·신규 표시, 학교 장소 표지 13개 |
+| 한글 이미지 | 로고, 메인 메뉴 6개, 학기 선택판 2개, 인원 1~4명, 뒤로·신규 표시, 학교 장소 표지 30개, 능력치 4종·안내 카드·상점 14개 |
 | 줄바꿈 v3 | 음성 설정 창 문구 축약·명시적 개행·글자 크기 조정 |
 | 적용·복원 | 로컬에서 해시 검증 완료 |
 | 게임 화면 확인 | v2 출력 확인 · 최신 이미지·번역·개행 재확인 대기 |
@@ -44,7 +44,8 @@ v1에서 한글 폰트가 나오지 않는다는 피드백을 받아 v2에서 �
 - 한글 로고 테스트 적용: `apply_logo_patch.py`
 - Second Term·메뉴 이미지와 NGUI 폰트 연결 수정: `apply_ui_font_v2.py`
 - 선택 화면 이미지·음성 창 조정: `apply_layout_images_v3.py`
-- 지정 영역 이미지 교체: `apply_atlas_regions.py`, `artwork/ui/atlas_patches_v4.json`, `artwork/ui/atlas_patches_v5.json`
+- 지정 영역 이미지 교체: `apply_atlas_regions.py`, `artwork/ui/atlas_patches_v4.json`, `artwork/ui/atlas_patches_v5.json`, `artwork/ui/atlas_patches_v6.json`, `artwork/ui/atlas_patches_v7.json`
+- 사전·능력치 자동 검사와 진도 집계: `validate_translation_catalog.py`, `report_progress.py`
 - 설치 후 번역·게임 진행 데이터 검증: `verify_translation_state.py`
 - 번역 데이터와 주입: `translations/`, `apply_translation_batch.py`
 - 적용·복원: `manage_test_patch.py`, `manage_logo_patch.py`, PowerShell 실행 스크립트
@@ -84,9 +85,11 @@ python .\apply_translation_batch.py --batch translation_batch01
 python .\apply_layout_images_v3.py
 python .\apply_atlas_regions.py artwork/ui/atlas_patches_v4.json
 python .\apply_atlas_regions.py artwork/ui/atlas_patches_v5.json
+python .\apply_atlas_regions.py artwork/ui/atlas_patches_v6.json
+python .\apply_atlas_regions.py artwork/ui/atlas_patches_v7.json
 ```
 
-이미 해당 수정이 적용된 로컬 작업 폴더에서는 다시 실행할 필요가 없습니다. 번역 파일을 추가한 뒤에는 새로운 `--batch translation_batch07`처럼 미사용 번호를 지정할 수 있습니다. 전체 복원은 `manage_test_patch.py restore`를 사용합니다. 과거 `manage_logo_patch.py`는 v1 상태만 지원하므로 v2 이후에는 사용하지 마세요.
+이미 해당 수정이 적용된 로컬 작업 폴더에서는 다시 실행할 필요가 없습니다. 번역 파일을 추가한 뒤에는 새로운 `--batch translation_batch09`처럼 미사용 번호를 지정할 수 있습니다. 전체 복원은 `manage_test_patch.py restore`를 사용합니다. 과거 `manage_logo_patch.py`는 v1 상태만 지원하므로 v2 이후에는 사용하지 마세요.
 
 게임 언어를 **ENGLISH**로 두고 확인합니다. 한국어 항목을 새로 추가한 방식이 아니라 영어 슬롯의 일부를 번역한 상태입니다. 테스트 폰트는 영문 서체도 변경합니다.
 
@@ -99,6 +102,12 @@ python .\apply_atlas_regions.py artwork/ui/atlas_patches_v5.json
 3. 미번역 본문·선택지·퀴즈 번역 및 변수·태그 검증 확대
 4. 본 번역, 이미지 UI 번역 및 배포 패키징
 
-`translations/*_ko.json`의 영어 원문과 한국어 번역을 `apply_translation_batch.py`가 원본 추출 ID에 연결해 주입합니다. `%WEEKS%`, 숫자 치환자와 주요 서식 태그 보존을 검사하고, 레이아웃을 위한 추가 개행은 허용합니다. 현재 언어 사전 기준 34,208개 위치 중 1,687개에 번역이 있으며 32,521개는 남아 있습니다. UI 표·씬 라벨은 중복이 많으므로 이 진도에 합산하지 않습니다. 전체 본문 번역과 이미지 전체 교체는 아직 완료되지 않았습니다.
+`translations/*_ko.json`의 영어 원문과 한국어 번역을 `apply_translation_batch.py`가 원본 추출 ID에 연결해 주입합니다. `%WEEKS%`, 숫자 치환자와 주요 서식 태그 보존을 검사하고, 레이아웃을 위한 추가 개행은 허용합니다. 현재 언어 사전 기준 34,208개 위치 중 5,066개에 번역이 있으며 29,142개는 남아 있습니다. UI 표·씬 라벨은 중복이 많으므로 이 진도에 합산하지 않습니다. 전체 본문 번역과 이미지 전체 교체는 아직 완료되지 않았습니다.
 
-이벤트 139~145번은 선택지와 성공·실패 결과를 포함해 305개 위치를 추가 번역했습니다. 영어 대명사·계사는 세 원문에 한해 `translations/grammar_adaptations.json`에 명시하여 한국어 표현으로 대체합니다. 이름·게임 변수와 서식 태그 검증은 유지합니다. 학교 표지는 도서관 5색, 화장실 5색, 체육관 2색, 야외 파랑만 적용했으며 다른 장소·색상과 시간 표시는 남아 있습니다.
+이번 작업은 146~215번 70개 이벤트의 대사·선택지·모든 결과 3,290개 위치이며, 서브 에이전트 3명이 병렬 번역과 교차 검수에 참여했습니다. 전체 언어 사전 위치 기준 14.81%입니다. 남은 29,142개 위치에는 본문·엔딩 등이 포함되며, 미완료 메인 이벤트는 761개입니다.
+
+학교 지도 6개 장소 × 5색 표지 30개를 한글화했습니다. 최신 이미지 추가분은 표지 17개, 능력치 목록 4종(24개 이름), 안내 카드 6개, 무작위·도전 버튼 3개, 상점 문구 14개입니다. 숫자 값과 장식·대상 밖 픽셀 및 원래 투명도는 보존합니다. 다른 시간 표시·장식·엔딩 이미지 등은 아직 남아 있습니다.
+
+[병렬 번역·검수 지침](docs/TRANSLATION_GUIDE.md) · [사전 자동 검사](reports/translation_catalog_validation.json) · [의미 교정 기록](reports/translation_semantic_review.json)
+
+영어 문법 태그를 한국어 표현으로 바꾸는 예외 18개 원문은 `translations/grammar_adaptations.json`에 생략 토큰과 개수를 명시했습니다. 이름·게임 변수와 서식 태그 검증은 유지합니다.

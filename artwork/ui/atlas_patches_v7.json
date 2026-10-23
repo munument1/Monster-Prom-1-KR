@@ -1,0 +1,250 @@
+{
+  "revision": "shop_images_v7_final",
+  "patches": [
+    {
+      "file": "sharedassets6.assets",
+      "texture_id": 5,
+      "source": "artwork/ui/generated/shop_labels_rgb_ko_v7.png",
+      "placements": [
+        {
+          "sprite_id": 128,
+          "source_box": [
+            0,
+            573,
+            134,
+            698
+          ],
+          "target_box": [
+            0,
+            661,
+            155,
+            806
+          ],
+          "preserve_target_alpha": true,
+          "label": "Shop_TagMod"
+        },
+        {
+          "sprite_id": 229,
+          "source_box": [
+            473,
+            741,
+            607,
+            866
+          ],
+          "target_box": [
+            546,
+            855,
+            701,
+            1000
+          ],
+          "preserve_target_alpha": true,
+          "label": "Shop_TagNarrative"
+        },
+        {
+          "sprite_id": 34,
+          "source_box": [
+            0,
+            705,
+            151,
+            819
+          ],
+          "target_box": [
+            0,
+            814,
+            174,
+            946
+          ],
+          "preserve_target_alpha": true,
+          "label": "Shop_TagSoldOut"
+        },
+        {
+          "sprite_id": 90,
+          "source_box": [
+            315,
+            752,
+            466,
+            866
+          ],
+          "target_box": [
+            364,
+            868,
+            538,
+            1000
+          ],
+          "preserve_target_alpha": true,
+          "label": "Shop_TagExpensive"
+        },
+        {
+          "sprite_id": 114,
+          "source_box": [
+            0,
+            826,
+            208,
+            942
+          ],
+          "target_box": [
+            0,
+            954,
+            240,
+            1088
+          ],
+          "preserve_target_alpha": true,
+          "label": "Shop_Exit_Green"
+        },
+        {
+          "sprite_id": 118,
+          "source_box": [
+            569,
+            951,
+            777,
+            1067
+          ],
+          "target_box": [
+            657,
+            1098,
+            897,
+            1232
+          ],
+          "preserve_target_alpha": true,
+          "label": "Shop_Exit_Red"
+        },
+        {
+          "sprite_id": 126,
+          "source_box": [
+            354,
+            873,
+            562,
+            989
+          ],
+          "target_box": [
+            409,
+            1008,
+            649,
+            1142
+          ],
+          "preserve_target_alpha": true,
+          "label": "Shop_Exit_Blue"
+        },
+        {
+          "sprite_id": 148,
+          "source_box": [
+            354,
+            996,
+            562,
+            1112
+          ],
+          "target_box": [
+            409,
+            1150,
+            649,
+            1284
+          ],
+          "preserve_target_alpha": true,
+          "label": "Shop_Exit_Yellow"
+        },
+        {
+          "sprite_id": 180,
+          "source_box": [
+            569,
+            1070,
+            778,
+            1191
+          ],
+          "target_box": [
+            657,
+            1235,
+            898,
+            1375
+          ],
+          "preserve_target_alpha": true,
+          "label": "Shop Exit ivory: verified lettering region",
+          "note": "Use visible atlas region; stored textureRect points to blank paper."
+        },
+        {
+          "sprite_id": 245,
+          "source_box": [
+            197,
+            949,
+            347,
+            1154
+          ],
+          "target_box": [
+            227,
+            1096,
+            401,
+            1332
+          ],
+          "preserve_target_alpha": true,
+          "label": "Shop_Cash_Green"
+        },
+        {
+          "sprite_id": 161,
+          "source_box": [
+            381,
+            1119,
+            532,
+            1324
+          ],
+          "target_box": [
+            440,
+            1292,
+            614,
+            1528
+          ],
+          "preserve_target_alpha": true,
+          "label": "Shop_Cash_Yellow"
+        },
+        {
+          "sprite_id": 37,
+          "source_box": [
+            381,
+            1330,
+            532,
+            1535
+          ],
+          "target_box": [
+            440,
+            1536,
+            614,
+            1772
+          ],
+          "preserve_target_alpha": true,
+          "label": "Shop_Cash_Red"
+        },
+        {
+          "sprite_id": 26,
+          "source_box": [
+            539,
+            1330,
+            690,
+            1535
+          ],
+          "target_box": [
+            622,
+            1536,
+            796,
+            1772
+          ],
+          "preserve_target_alpha": true,
+          "label": "Shop_Cash_Blue"
+        },
+        {
+          "source_box": [
+            706,
+            1373,
+            859,
+            1486
+          ],
+          "target_box": [
+            815,
+            1585,
+            992,
+            1715
+          ],
+          "preserve_target_alpha": true,
+          "label": "Cash black lettering and underline"
+        }
+      ]
+    }
+  ]
+}

@@ -49,3 +49,14 @@ Use case text-localization. Edit this exact Monster Prom Second Term expansion l
 ## 메인 메뉴 프롬프트
 
 Use case text-localization. Edit the supplied game menu texture ATLAS. Output landscape 2048x1024 exactly with the SAME pixel placement, size, silhouettes and spacing of ALL arrow-shaped buttons and small decorations. It is a packed sprite atlas, not a newly arranged sheet: DO NOT move, scale, rotate or redesign any element. Change ONLY the lettering: SETTINGS -> "설정"; MODTOOL -> "모드 도구"; QUIT -> "종료"; PLAY -> "시작"; GALLERY -> "갤러리"; ONLINE -> "온라인". Match the original ivory hand-drawn narrow irregular lettering but with complete readable Hangul. Keep arrow plates black or hot pink exactly as reference, ivory thin borders, subtle geometric shading and original orientations. Keep every blank patch and small decoration exactly in its original location. True transparent background. No English letters or added captions. All lettering must remain strictly inside its original arrow button bounds.
+
+## 학교·상점 v6·v7 최종 적용
+
+내장 image_gen으로 생성했습니다. 최종 생성 파일과 정확한 프롬프트:
+
+- `generated/school_cards_rgb_ko_v6.png` · [카드·표지 프롬프트](school_cards_rgb_ko_v6_prompt.md)
+- `generated/school_stats_rgb_ko_v6.png` · [능력치·표지·카드 프롬프트](school_stats_rgb_ko_v6_prompt.md)
+- `generated/school_buttons_ko_v6.png` · [선택 버튼 프롬프트](school_buttons_ko_v6_prompt.md)
+- `generated/shop_labels_rgb_ko_v7.png` · [상점 프롬프트](shop_labels_rgb_ko_v7_prompt.md)
+
+`atlas_patches_v6.json`과 `atlas_patches_v7.json`에 생성 이미지의 잘라낼 좌표와 게임의 배치 좌표를 기록했습니다. 카드·표지는 스프라이트 크기로 리샘플하고 능력치 문구는 원래 각 줄에 맞춥니다. RGB 중간 이미지를 사용해 투명 경계의 색 번짐을 피하고 최종 아틀라스에는 원래 알파를 유지합니다. 주차 대형 카드와 상점 검정 소지금 문구는 글자·밑줄 영역만 적용합니다. 밝은 나가기 버튼은 실제 이미지 문구 위치를 사용합니다. 원본 아틀라스와 적용 바이너리는 로컬에만 보관합니다. 게임 화면 확인은 사용자 대기입니다.

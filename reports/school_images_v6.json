@@ -1,0 +1,33 @@
+{
+  "revision": "school_images_v6_final",
+  "textures": [
+    {
+      "texture_id": 3,
+      "alpha_unchanged": true,
+      "pixels_outside_target_regions_unchanged": true
+    },
+    {
+      "texture_id": 6,
+      "alpha_unchanged": true,
+      "pixels_outside_target_regions_unchanged": true
+    },
+    {
+      "texture_id": 10,
+      "alpha_unchanged": true,
+      "pixels_outside_target_regions_unchanged": true
+    },
+    {
+      "texture_id": 8,
+      "alpha_unchanged": true,
+      "pixels_outside_target_regions_unchanged": true
+    }
+  ],
+  "new_sign_variants": 17,
+  "total_localized_school_sign_variants": 30,
+  "localized_cards": 6,
+  "stat_lists": 4,
+  "stat_labels": 24,
+  "random_buttons": 2,
+  "challenge_buttons": 1,
+  "visual_verification": "pending user"
+}

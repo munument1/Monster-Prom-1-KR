@@ -4,6 +4,7 @@ import json,re,collections,hashlib,shutil,subprocess,argparse
 import UnityPy
 from config import GAME_DATA
 from unity_support import generator
+from validate_translation_catalog import validate_catalog
 BASE=Path(__file__).parent
 def sha(p):return hashlib.sha256(p.read_bytes()).hexdigest()
 def readrows(name):return [json.loads(l) for l in (BASE/'extracted'/name).read_text(encoding='utf-8').splitlines()]
@@ -15,24 +16,7 @@ def main():
  parser=argparse.ArgumentParser();parser.add_argument('--batch',default='translation_batch01');args=parser.parse_args()
  assert re.fullmatch(r'translation_batch[0-9]+',args.batch)
  if 'MonsterProm.exe' in subprocess.run(['tasklist','/FI','IMAGENAME eq MonsterProm.exe','/FO','CSV','/NH'],capture_output=True,text=True).stdout:raise SystemExit('Close Monster Prom first.')
- tr={}
- for p in sorted((BASE/'translations').glob('*_ko.json')):
-  for en,ko in json.loads(p.read_text(encoding='utf-8')).items():
-   if en in tr:assert tr[en]==ko,en
-   tr[en]=ko
- token=re.compile(r'%[^%]+%|\[\d+\]|\[(?:/?[biusc]|n|[0-9a-fA-F]{6,8}|-)\]')
- adaptations=json.loads((BASE/'translations/grammar_adaptations.json').read_text(encoding='utf-8'))
- for en,item in adaptations.items():
-  assert en in tr and item['reason']
-  counts=item['omitted_tokens']
-  assert counts and set(counts)<= {'%HESHE%','%HISHER%','%VERB_IS_ARE%'}
-  source=collections.Counter(token.findall(en))
-  assert all(isinstance(n,int) and n>0 and source[t]==n for t,n in counts.items()),en
- for en,ko in tr.items():
-  expected=collections.Counter(x for x in token.findall(en) if x!='[n]')
-  expected.subtract(adaptations.get(en,{}).get('omitted_tokens',{}))
-  assert +expected==collections.Counter(x for x in token.findall(ko) if x!='[n]'),en
-  assert ko.count('[n]')+ko.count('\n')>=en.count('[n]')+en.count('\n'),en
+ tr,validation=validate_catalog()
  rows=readrows('dialogue_and_localized_text.jsonl');labels=readrows('scene_labels.jsonl');ui=readrows('ui_tables.jsonl')
  targets=collections.defaultdict(lambda:collections.defaultdict(list))
  for kind,items in [('dict',rows),('label',labels)]:

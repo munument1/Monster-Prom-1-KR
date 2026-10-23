@@ -1,0 +1,20 @@
+{
+  "revision": "shop_images_v7_final",
+  "textures": [
+    {
+      "texture_id": 5,
+      "alpha_unchanged": true,
+      "pixels_outside_target_regions_unchanged": true
+    }
+  ],
+  "cash_labels": 5,
+  "exit_labels": 5,
+  "other_labels": [
+    "MOD",
+    "EVENT",
+    "SOLD OUT",
+    "TOO POOR 4 THIS"
+  ],
+  "total_labels": 14,
+  "visual_verification": "pending user"
+}

@@ -1,0 +1,854 @@
+{
+  "revision": "school_images_v6_final",
+  "patches": [
+    {
+      "file": "sharedassets6.assets",
+      "texture_id": 3,
+      "source": "artwork/ui/generated/school_cards_rgb_ko_v6.png",
+      "placements": [
+        {
+          "sprite_id": 238,
+          "source_box": [
+            0,
+            138,
+            167,
+            233
+          ],
+          "target_box": [
+            0,
+            234,
+            264,
+            378
+          ],
+          "preserve_target_alpha": true,
+          "label": "Monster Prom UI_Location_Gym_Red"
+        },
+        {
+          "sprite_id": 54,
+          "source_box": [
+            704,
+            651,
+            890,
+            749
+          ],
+          "target_box": [
+            1147,
+            1073,
+            1443,
+            1213
+          ],
+          "preserve_target_alpha": true,
+          "label": "Monster Prom UI_LocationClass_Blue"
+        },
+        {
+          "sprite_id": 66,
+          "source_box": [
+            704,
+            1073,
+            891,
+            1167
+          ],
+          "target_box": [
+            1149,
+            1760,
+            1445,
+            1900
+          ],
+          "preserve_target_alpha": true,
+          "label": "Monster Prom UI_LocationClass_Yellow"
+        },
+        {
+          "sprite_id": 55,
+          "source_box": [
+            704,
+            1170,
+            891,
+            1254
+          ],
+          "target_box": [
+            1149,
+            1908,
+            1445,
+            2048
+          ],
+          "preserve_target_alpha": true,
+          "label": "Monster Prom UI_LocationClass_Green"
+        },
+        {
+          "sprite_id": 246,
+          "source_box": [
+            0,
+            236,
+            703,
+            744
+          ],
+          "target_box": [
+            0,
+            386,
+            1139,
+            1213
+          ],
+          "preserve_target_alpha": true,
+          "label": "Monster Prom UI_Ending_Box"
+        },
+        {
+          "sprite_id": 100,
+          "source_box": [
+            0,
+            746,
+            703,
+            1254
+          ],
+          "target_box": [
+            0,
+            1221,
+            1141,
+            2048
+          ],
+          "preserve_target_alpha": true,
+          "label": "Monster Prom UI_InteractiveLocked_Box"
+        }
+      ]
+    },
+    {
+      "file": "sharedassets6.assets",
+      "texture_id": 6,
+      "source": "artwork/ui/generated/school_stats_rgb_ko_v6.png",
+      "placements": [
+        {
+          "sprite_id": 95,
+          "source_box": [
+            270,
+            45,
+            500,
+            135
+          ],
+          "target_box": [
+            436,
+            82,
+            812,
+            226
+          ],
+          "preserve_target_alpha": true,
+          "label": "Monster Prom UI_Location_Auditorium_Black"
+        },
+        {
+          "sprite_id": 230,
+          "source_box": [
+            269,
+            144,
+            501,
+            232
+          ],
+          "target_box": [
+            436,
+            234,
+            816,
+            378
+          ],
+          "preserve_target_alpha": true,
+          "label": "Monster Prom UI_Location_Auditorium_Yellow"
+        },
+        {
+          "sprite_id": 178,
+          "source_box": [
+            498,
+            3,
+            712,
+            96
+          ],
+          "target_box": [
+            820,
+            15,
+            1164,
+            155
+          ],
+          "preserve_target_alpha": true,
+          "label": "Monster Prom UI_Location_Outdoors_Red"
+        },
+        {
+          "sprite_id": 228,
+          "source_box": [
+            718,
+            7,
+            932,
+            95
+          ],
+          "target_box": [
+            1172,
+            15,
+            1516,
+            155
+          ],
+          "preserve_target_alpha": true,
+          "label": "Monster Prom UI_Location_Outdoors_Green"
+        },
+        {
+          "sprite_id": 188,
+          "source_box": [
+            507,
+            101,
+            738,
+            190
+          ],
+          "target_box": [
+            824,
+            163,
+            1204,
+            307
+          ],
+          "preserve_target_alpha": true,
+          "label": "Monster Prom UI_Location_Auditorium_Green"
+        },
+        {
+          "sprite_id": 140,
+          "source_box": [
+            742,
+            101,
+            974,
+            190
+          ],
+          "target_box": [
+            1212,
+            163,
+            1592,
+            307
+          ],
+          "preserve_target_alpha": true,
+          "label": "Monster Prom UI_Location_Auditorium_Blue"
+        },
+        {
+          "sprite_id": 241,
+          "source_box": [
+            974,
+            41,
+            1166,
+            134
+          ],
+          "target_box": [
+            1600,
+            75,
+            1896,
+            215
+          ],
+          "preserve_target_alpha": true,
+          "label": "Monster Prom UI_LocationClass_Black"
+        },
+        {
+          "sprite_id": 50,
+          "source_box": [
+            975,
+            136,
+            1195,
+            226
+          ],
+          "target_box": [
+            1600,
+            223,
+            1940,
+            363
+          ],
+          "preserve_target_alpha": true,
+          "label": "Monster Prom UI_Location_Outdoors_Black"
+        },
+        {
+          "sprite_id": 247,
+          "source_box": [
+            973,
+            228,
+            1181,
+            313
+          ],
+          "target_box": [
+            1583,
+            371,
+            1927,
+            511
+          ],
+          "preserve_target_alpha": true,
+          "label": "Monster Prom UI_Location_Outdoors_Yellow"
+        },
+        {
+          "sprite_id": 138,
+          "source_box": [
+            973,
+            317,
+            1206,
+            405
+          ],
+          "target_box": [
+            1583,
+            519,
+            1959,
+            663
+          ],
+          "preserve_target_alpha": true,
+          "label": "Monster Prom UI_Location_Auditorium_Red"
+        },
+        {
+          "sprite_id": 198,
+          "source_box": [
+            1054,
+            1071,
+            1217,
+            1164
+          ],
+          "target_box": [
+            1724,
+            1752,
+            1988,
+            1896
+          ],
+          "preserve_target_alpha": true,
+          "label": "Monster Prom UI_Location_Gym_Blue"
+        },
+        {
+          "sprite_id": 103,
+          "source_box": [
+            1055,
+            1166,
+            1218,
+            1254
+          ],
+          "target_box": [
+            1724,
+            1904,
+            1988,
+            2048
+          ],
+          "preserve_target_alpha": true,
+          "label": "Monster Prom UI_Location_Gym_Yellow"
+        },
+        {
+          "sprite_id": 232,
+          "source_box": [
+            0,
+            236,
+            700,
+            744
+          ],
+          "target_box": [
+            0,
+            386,
+            1139,
+            1213
+          ],
+          "preserve_target_alpha": true,
+          "label": "Monster Prom UI_Weekend_Box"
+        },
+        {
+          "sprite_id": 58,
+          "source_box": [
+            0,
+            746,
+            700,
+            1254
+          ],
+          "target_box": [
+            0,
+            1221,
+            1139,
+            2048
+          ],
+          "preserve_target_alpha": true,
+          "label": "Monster Prom UI_PlayerOrder_Box"
+        },
+        {
+          "sprite_id": 205,
+          "source_box": [
+            700,
+            630,
+            1072,
+            895
+          ],
+          "target_box": [
+            1147,
+            1027,
+            1739,
+            1459
+          ],
+          "preserve_target_alpha": true,
+          "label": "Monster Prom UI_Time_Box"
+        },
+        {
+          "source_box": [
+            45,
+            25,
+            160,
+            58
+          ],
+          "target_box": [
+            85,
+            53,
+            330,
+            95
+          ],
+          "preserve_target_alpha": true,
+          "label": "blue stat row 1"
+        },
+        {
+          "source_box": [
+            45,
+            59,
+            160,
+            94
+          ],
+          "target_box": [
+            85,
+            104,
+            330,
+            143
+          ],
+          "preserve_target_alpha": true,
+          "label": "blue stat row 2"
+        },
+        {
+          "source_box": [
+            45,
+            92,
+            160,
+            125
+          ],
+          "target_box": [
+            85,
+            153,
+            330,
+            199
+          ],
+          "preserve_target_alpha": true,
+          "label": "blue stat row 3"
+        },
+        {
+          "source_box": [
+            45,
+            125,
+            160,
+            156
+          ],
+          "target_box": [
+            85,
+            200,
+            330,
+            237
+          ],
+          "preserve_target_alpha": true,
+          "label": "blue stat row 4"
+        },
+        {
+          "source_box": [
+            45,
+            159,
+            160,
+            186
+          ],
+          "target_box": [
+            85,
+            249,
+            330,
+            285
+          ],
+          "preserve_target_alpha": true,
+          "label": "blue stat row 5"
+        },
+        {
+          "source_box": [
+            45,
+            188,
+            160,
+            219
+          ],
+          "target_box": [
+            85,
+            295,
+            330,
+            343
+          ],
+          "preserve_target_alpha": true,
+          "label": "blue stat row 6"
+        },
+        {
+          "source_box": [
+            750,
+            202,
+            865,
+            235
+          ],
+          "target_box": [
+            1230,
+            338,
+            1505,
+            380
+          ],
+          "preserve_target_alpha": true,
+          "label": "green stat row 1"
+        },
+        {
+          "source_box": [
+            750,
+            234,
+            865,
+            269
+          ],
+          "target_box": [
+            1230,
+            388,
+            1505,
+            428
+          ],
+          "preserve_target_alpha": true,
+          "label": "green stat row 2"
+        },
+        {
+          "source_box": [
+            750,
+            267,
+            865,
+            300
+          ],
+          "target_box": [
+            1230,
+            438,
+            1505,
+            484
+          ],
+          "preserve_target_alpha": true,
+          "label": "green stat row 3"
+        },
+        {
+          "source_box": [
+            750,
+            299,
+            865,
+            329
+          ],
+          "target_box": [
+            1230,
+            485,
+            1505,
+            522
+          ],
+          "preserve_target_alpha": true,
+          "label": "green stat row 4"
+        },
+        {
+          "source_box": [
+            750,
+            332,
+            865,
+            359
+          ],
+          "target_box": [
+            1230,
+            534,
+            1505,
+            570
+          ],
+          "preserve_target_alpha": true,
+          "label": "green stat row 5"
+        },
+        {
+          "source_box": [
+            750,
+            361,
+            865,
+            393
+          ],
+          "target_box": [
+            1230,
+            580,
+            1505,
+            628
+          ],
+          "preserve_target_alpha": true,
+          "label": "green stat row 6"
+        },
+        {
+          "source_box": [
+            750,
+            423,
+            865,
+            455
+          ],
+          "target_box": [
+            1230,
+            694,
+            1505,
+            736
+          ],
+          "preserve_target_alpha": true,
+          "label": "yellow stat row 1"
+        },
+        {
+          "source_box": [
+            750,
+            455,
+            865,
+            489
+          ],
+          "target_box": [
+            1230,
+            745,
+            1505,
+            784
+          ],
+          "preserve_target_alpha": true,
+          "label": "yellow stat row 2"
+        },
+        {
+          "source_box": [
+            750,
+            487,
+            865,
+            520
+          ],
+          "target_box": [
+            1230,
+            794,
+            1505,
+            840
+          ],
+          "preserve_target_alpha": true,
+          "label": "yellow stat row 3"
+        },
+        {
+          "source_box": [
+            750,
+            521,
+            865,
+            550
+          ],
+          "target_box": [
+            1230,
+            841,
+            1505,
+            878
+          ],
+          "preserve_target_alpha": true,
+          "label": "yellow stat row 4"
+        },
+        {
+          "source_box": [
+            750,
+            554,
+            865,
+            581
+          ],
+          "target_box": [
+            1230,
+            890,
+            1505,
+            926
+          ],
+          "preserve_target_alpha": true,
+          "label": "yellow stat row 5"
+        },
+        {
+          "source_box": [
+            750,
+            582,
+            865,
+            613
+          ],
+          "target_box": [
+            1230,
+            936,
+            1505,
+            984
+          ],
+          "preserve_target_alpha": true,
+          "label": "yellow stat row 6"
+        },
+        {
+          "source_box": [
+            1018,
+            422,
+            1133,
+            454
+          ],
+          "target_box": [
+            1665,
+            694,
+            1940,
+            736
+          ],
+          "preserve_target_alpha": true,
+          "label": "red stat row 1"
+        },
+        {
+          "source_box": [
+            1018,
+            454,
+            1133,
+            488
+          ],
+          "target_box": [
+            1665,
+            744,
+            1940,
+            784
+          ],
+          "preserve_target_alpha": true,
+          "label": "red stat row 2"
+        },
+        {
+          "source_box": [
+            1018,
+            487,
+            1133,
+            520
+          ],
+          "target_box": [
+            1665,
+            794,
+            1940,
+            840
+          ],
+          "preserve_target_alpha": true,
+          "label": "red stat row 3"
+        },
+        {
+          "source_box": [
+            1018,
+            520,
+            1133,
+            550
+          ],
+          "target_box": [
+            1665,
+            841,
+            1940,
+            878
+          ],
+          "preserve_target_alpha": true,
+          "label": "red stat row 4"
+        },
+        {
+          "source_box": [
+            1018,
+            554,
+            1133,
+            581
+          ],
+          "target_box": [
+            1665,
+            890,
+            1940,
+            926
+          ],
+          "preserve_target_alpha": true,
+          "label": "red stat row 5"
+        },
+        {
+          "source_box": [
+            1018,
+            582,
+            1133,
+            613
+          ],
+          "target_box": [
+            1665,
+            936,
+            1940,
+            984
+          ],
+          "preserve_target_alpha": true,
+          "label": "red stat row 6"
+        }
+      ]
+    },
+    {
+      "file": "sharedassets6.assets",
+      "texture_id": 10,
+      "source": "artwork/ui/generated/school_buttons_ko_v6.png",
+      "placements": [
+        {
+          "source_box": [
+            113,
+            68,
+            275,
+            142
+          ],
+          "target_box": [
+            157,
+            115,
+            440,
+            221
+          ],
+          "preserve_target_alpha": true,
+          "label": "random big"
+        },
+        {
+          "source_box": [
+            459,
+            69,
+            611,
+            142
+          ],
+          "target_box": [
+            749,
+            115,
+            1008,
+            221
+          ],
+          "preserve_target_alpha": true,
+          "label": "random small"
+        },
+        {
+          "source_box": [
+            836,
+            451,
+            968,
+            524
+          ],
+          "target_box": [
+            1295,
+            735,
+            1680,
+            842
+          ],
+          "preserve_target_alpha": true,
+          "label": "challenge"
+        },
+        {
+          "source_box": [
+            1095,
+            473,
+            1193,
+            530
+          ],
+          "target_box": [
+            1770,
+            780,
+            1935,
+            853
+          ],
+          "preserve_target_alpha": true,
+          "label": "class red"
+        }
+      ]
+    },
+    {
+      "file": "sharedassets6.assets",
+      "texture_id": 8,
+      "source": "artwork/ui/generated/school_stats_rgb_ko_v6.png",
+      "placements": [
+        {
+          "source_box": [
+            750,
+            675,
+            1025,
+            815
+          ],
+          "target_box": [
+            130,
+            1420,
+            990,
+            1790
+          ],
+          "preserve_target_alpha": true,
+          "label": "Week large: lettering and underline only"
+        }
+      ]
+    }
+  ]
+}

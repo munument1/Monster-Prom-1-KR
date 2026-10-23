@@ -1,0 +1,146 @@
+{
+  "scope": "146-215",
+  "review_method": "Cross-review of choices, outcomes and suspected semantic errors for 146-200; parent sampled choices and outcomes of 201-215. All positions, placeholders and signed stat deltas checked mechanically.",
+  "corrections": [
+    {
+      "file": "events_146_150_ko.json",
+      "english": "Damien's fists are pretty terrible, but the only dumb one here is you. You lose -2 SMARTS and -1 CREATIVITY.",
+      "before": "데미안의 주먹은 꽤 형편없지만, 여기서 멍청한 건 당신뿐이다. 지능 -2, 창의력 -1을 잃는다.",
+      "after": "데미안의 주먹은 꽤 끔찍하지만, 여기서 멍청한 건 당신뿐이다. 지능 -2, 창의력 -1을 잃는다."
+    },
+    {
+      "file": "events_146_150_ko.json",
+      "english": "You run off to the bathroom to cry, and hope you don't accidentally end up in an art exhibit. You lose -2 CHARM and -1 SMARTS.",
+      "before": "화장실로 달려가 울면서, 실수로 전시장에 들어간 건 아니길 빈다. 매력 -2, 지능 -1을 잃는다.",
+      "after": "화장실로 달려가 울면서, 뜻하지 않게 예술 전시에 휘말리지는 않길 빈다. 매력 -2, 지능 -1을 잃는다."
+    },
+    {
+      "file": "events_201_215_ko.json",
+      "english": "...which sounds AMAZING, but from the unimpressed looks she's shooting you, you'll have to be your own cuddly pal. You lose -2 CHARM and -1 FUN.",
+      "before": "...정말 끝내주겠지만, 당신을 못마땅하게 쳐다보는 걸 보니 포옹 상대는 스스로 구해야겠다. 매력 -2, 재미 -1을 잃는다.",
+      "after": "...정말 끝내주겠지만, 당신을 못마땅하게 쳐다보는 걸 보니 혼자 스스로를 껴안아야겠다. 매력 -2, 재미 -1을 잃는다."
+    },
+    {
+      "file": "events_186_200_ko.json",
+      "english": "You're walking with Liam later, when suddenly a holy crossbow bolt slams into the wall next to you. It's the Slayer!",
+      "before": "나중에 리암과 함께 걷던 중, 갑자기 신성한 쇠뇌 화살이 바로 옆 벽에 박힌다. 괴물 사냥꾼다!",
+      "after": "나중에 리암과 함께 걷던 중, 갑자기 신성한 쇠뇌 화살이 바로 옆 벽에 박힌다. 괴물 사냥꾼이다!"
+    },
+    {
+      "file": "events_186_200_ko.json",
+      "english": "You have so much fun you forget you're even hiding from the murderous Slayer!",
+      "before": "너무 즐거워서 살인마 괴물 사냥꾼를 피해 숨고 있다는 사실조차 잊는다!",
+      "after": "너무 즐거워서 살인마 괴물 사냥꾼을 피해 숨고 있다는 사실조차 잊는다!"
+    },
+    {
+      "file": "events_186_200_ko.json",
+      "english": "It's about then that the Slayer catches up to you, gives you both wedgies, and posts pictures of it on Momentgram. You lose -2 FUN and -1 SMARTS.",
+      "before": "바로 그때 괴물 사냥꾼가 따라잡는다. 둘의 팬티를 힘껏 잡아 올리고는 그 사진을 모먼트그램에 올린다. 재미 -2, 지능 -1을 잃는다.",
+      "after": "바로 그때 괴물 사냥꾼이 따라잡는다. 둘의 팬티를 힘껏 잡아 올리고는 그 사진을 모먼트그램에 올린다. 재미 -2, 지능 -1을 잃는다."
+    },
+    {
+      "file": "events_186_200_ko.json",
+      "english": "Suddenly, the Slayer bursts in! She takes one step towards you, then stops.",
+      "before": "갑자기 괴물 사냥꾼가 들이닥친다! 너를 향해 한 걸음 다가오더니 멈춘다.",
+      "after": "갑자기 괴물 사냥꾼이 들이닥친다! 당신을 향해 한 걸음 다가오더니 멈춘다."
+    },
+    {
+      "file": "events_186_200_ko.json",
+      "english": "The Slayer flees to check on her stove. Liam turns back into a vampire, and you immediately feel better.",
+      "before": "괴물 사냥꾼가 가스레인지를 확인하러 달려간다. 리암이 다시 뱀파이어로 돌아오자 네 기분도 바로 나아진다.",
+      "after": "괴물 사냥꾼이 가스레인지를 확인하러 달려간다. 리암이 다시 뱀파이어로 돌아오자 당신의 기분도 바로 나아진다."
+    },
+    {
+      "file": "events_186_200_ko.json",
+      "english": "The Slayer bursts into the room, locks eyes with you, and gives you the sickest high five EVER.",
+      "before": "괴물 사냥꾼가 방 안으로 뛰어들어 너와 눈을 맞추더니, 세상에서 가장 끝내주는 하이파이브를 한다.",
+      "after": "괴물 사냥꾼이 방 안으로 뛰어들어 당신과 눈을 맞추더니, 세상에서 가장 끝내주는 하이파이브를 한다."
+    },
+    {
+      "file": "events_186_200_ko.json",
+      "english": "And don't get me started about last last last year ...",
+      "before": "그 재작년의 재작년 얘기는 꺼내지도 마...",
+      "after": "그리고 작년의 작년의 작년 얘기는 꺼내지도 마..."
+    },
+    {
+      "file": "events_186_200_ko.json",
+      "english": "...And last last last last year, it was ...",
+      "before": "...그리고 그 재작년의 재작년의 재작년에는...",
+      "after": "...그리고 작년의 작년의 작년의 작년에는..."
+    },
+    {
+      "file": "events_186_200_ko.json",
+      "english": "Okay... I'm not the funny type for sure, so I might need your help down the road for this to really take off. You'll be my assistant executive producer or whatever fancy title you want.",
+      "before": "좋아... 내가 웃기는 쪽에는 영 재능이 없으니까, 이걸 제대로 키우려면 앞으로 네 도움이 필요하겠어. 공동 총괄 프로듀서로 삼아 줄게. 아니면 네가 원하는 그럴듯한 직함이든.",
+      "after": "좋아... 내가 웃기는 쪽에는 영 재능이 없으니까, 이걸 제대로 키우려면 앞으로 네 도움이 필요하겠어. 보조 총괄 프로듀서로 삼아 줄게. 아니면 네가 원하는 그럴듯한 직함이든."
+    },
+    {
+      "file": "events_186_200_ko.json",
+      "english": "Sweet move! You gain +1 FUN and +1 SMARTS. You also earn +2 MONEY as an advance for your salary as assistant executive producer!",
+      "before": "멋진 수였다! 재미 +1, 지능 +1을 얻는다. 공동 총괄 프로듀서 급여 선금으로 돈 +2도 받는다!",
+      "after": "멋진 수였다! 재미 +1, 지능 +1을 얻는다. 보조 총괄 프로듀서 급여 선금으로 돈 +2도 받는다!"
+    },
+    {
+      "file": "events_171_185_ko.json",
+      "english": "I need a mount for the prom, because walking is for losers.",
+      "before": "프롬 타고 갈 짐승이 필요해. 걷는 건 찌질이들이나 하는 거니까.",
+      "after": "프롬에 타고 갈 짐승이 필요해. 걷는 건 찌질이들이나 하는 거니까."
+    },
+    {
+      "file": "events_171_185_ko.json",
+      "english": "(And also because I lost my driver's license after I drove my motorcycle through another Sunday school picnic...)",
+      "before": "(그리고 또 일요학교 소풍 한가운데로 오토바이를 몰고 들어가서 면허를 뺏겼기도 하고...)",
+      "after": "(그리고 또 일요학교 소풍 한가운데로 오토바이를 몰고 들어갔다가 면허를 뺏기기도 했고...)"
+    },
+    {
+      "file": "events_186_200_ko.json",
+      "english": "Ugh, it's the Interdimensional Prince, and he's apparently here to block your metaphorical cock.",
+      "before": "아, 차원을 넘나드는 왕자다. 아무래도 네 연애 사업을 훼방 놓으러 온 모양이다.",
+      "after": "아, 차원 왕자다. 아무래도 네 연애 사업을 훼방 놓으러 온 모양이다.",
+      "reason": "Character name consistency: Interdimensional Prince"
+    },
+    {
+      "file": "events_186_200_ko.json",
+      "english": "You now pronounce yourself married to the Interdimensional Prince!",
+      "before": "너는 지금부터 자신과 차원을 넘나드는 왕자가 부부임을 선언한다!",
+      "after": "너는 지금부터 자신과 차원 왕자가 부부임을 선언한다!",
+      "reason": "Character name consistency: Interdimensional Prince"
+    },
+    {
+      "file": "events_186_200_ko.json",
+      "english": "The Interdimensional Prince! Muscling in on my territory, are you?",
+      "before": "차원을 넘나드는 왕자! 내 구역에 끼어들려는 거야?",
+      "after": "차원 왕자! 내 구역에 끼어들려는 거야?",
+      "reason": "Character name consistency: Interdimensional Prince"
+    },
+    {
+      "file": "events_186_200_ko.json",
+      "english": "Not even... marrying an interdimensional prince?",
+      "before": "차원을 넘나드는 왕자와... 결혼하는 것도?",
+      "after": "차원 왕자와... 결혼하는 것도?",
+      "reason": "Character name consistency: Interdimensional Prince"
+    },
+    {
+      "file": "events_186_200_ko.json",
+      "english": "What about marrying an interdimensional prince... ironically?",
+      "before": "그럼 차원을 넘나드는 왕자와... 반어적으로 결혼하는 건?",
+      "after": "그럼 차원 왕자와... 반어적으로 결혼하는 건?",
+      "reason": "Character name consistency: Interdimensional Prince"
+    },
+    {
+      "file": "events_186_200_ko.json",
+      "english": "Wait, are you saying that you, as an Interdimensional Prince, aren't up to date on disruptive ironic marriages?",
+      "before": "잠깐, 차원을 넘나드는 왕자라는 사람이 파격적이고 반어적인 결혼의 최신 동향도 모른다는 거야?",
+      "after": "잠깐, 차원 왕자라는 사람이 파격적이고 반어적인 결혼의 최신 동향도 모른다는 거야?",
+      "reason": "Character name consistency: Interdimensional Prince"
+    },
+    {
+      "file": "events_186_200_ko.json",
+      "english": "I can't marry a broken man! It would be catastrophic for my image! Interdimensional Prince... AWAY!",
+      "before": "망가진 남자와 결혼할 수는 없소! 내 이미지에 재앙이 될 테니! 차원을 넘나드는 왕자... 퇴장!",
+      "after": "망가진 남자와 결혼할 수는 없소! 내 이미지에 재앙이 될 테니! 차원 왕자... 퇴장!",
+      "reason": "Character name consistency: Interdimensional Prince"
+    }
+  ],
+  "term_normalizations": 7
+}

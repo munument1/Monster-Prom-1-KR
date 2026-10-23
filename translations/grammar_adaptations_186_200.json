@@ -1,0 +1,14 @@
+{
+  "I suggest you pay %HIMHER% a backhanded backhand!": {
+    "omitted_tokens": {
+      "%HIMHER%": 1
+    },
+    "reason": "영어 성별 대명사를 중립 지시어 또는 문맥상 명확한 명사로 자연화하고 불필요한 반복 주어를 생략함."
+  },
+  "I think %HESHE% did, m'lady.": {
+    "omitted_tokens": {
+      "%HESHE%": 1
+    },
+    "reason": "영어 성별 대명사를 중립 지시어 또는 문맥상 명확한 명사로 자연화하고 불필요한 반복 주어를 생략함."
+  }
+}

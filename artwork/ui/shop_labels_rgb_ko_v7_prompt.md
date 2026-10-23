@@ -1,0 +1,5 @@
+# 상점 이미지 v7
+
+내장 image_gen 사용. 생성 파일: generated/shop_labels_rgb_ko_v7.png. 적용 좌표는 atlas_patches_v7.json에 기록합니다. RGB 이미지의 필요한 영역을 리샘플하고 최종 게임 텍스처에서 원래 알파 채널을 복원합니다.
+
+Use case text-localization. Edit target supplied portrait 1024x2048 packed Monster Prom SHOP sprite atlas. Preserve the exact placement, dimensions, paper backgrounds, colored ink and silhouettes of every element. Replace only lettering: turquoise MOD pennant -> "모드"; red EVENT pennant -> "이벤트"; SOLD OUT price tag -> "품절" on one or two lines; TOO POOR 4 THIS! price tag -> "돈이\n부족해!" on two lines; ALL FIVE EXIT arrow labels -> "나가기", keeping the original left-pointing arrow icon separate and every green/blue/orange/red/ivory ink color; ALL FIVE CASH paper labels -> "소지금", keeping each original underline and ink color. Preserve original blank price tag, blank paper areas, bars and black geometric panels. Handwritten complete legible Hangul fitted inside the original text regions. NO extra text or rearrangement. Unused atlas space solid BLACK #000000. RGB intermediate: original game alpha will be restored later. Clean edges, absolutely no scattered speckles or colored fringes.
