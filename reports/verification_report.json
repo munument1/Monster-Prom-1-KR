@@ -1,6 +1,6 @@
 {
   "asset_read_errors": 0,
-  "visual_verification": "v2 Korean font output confirmed in user screenshot; new v3/v4 images, translations and wrapping pending user",
+  "visual_verification": "v2 Korean font output user-confirmed; newest text and school signs pending user",
   "files": [
     {
       "file": "resources.assets",
@@ -103,6 +103,12 @@
       "installed_hash_ok": true,
       "backup_hash_ok": true,
       "changed_objects": 2
+    },
+    {
+      "file": "sharedassets6.assets",
+      "installed_hash_ok": true,
+      "backup_hash_ok": true,
+      "changed_objects": 1
     }
   ],
   "hangul_syllables": 11172,
@@ -128,5 +134,8 @@
   "second_term_logo": "replaced",
   "main_menu_image_buttons": 6,
   "localized_setup_image_labels": 8,
-  "voice_popup_layout": "explicit line breaks and bounded sizes; estimated glyph widths fit"
+  "voice_popup_layout": "explicit line breaks and bounded sizes; estimated glyph widths fit",
+  "localized_school_sign_variants": 13,
+  "grammar_adaptation_sources": 3,
+  "restore_reapply": "all 18 files verified; left patched"
 }

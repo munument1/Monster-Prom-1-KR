@@ -1,0 +1,22 @@
+{
+  "Did %HESHE% just...": {
+    "omitted_tokens": {
+      "%HESHE%": 1
+    },
+    "reason": "영어 대명사와 계사 대신 성별 중립 한국어 지시어 및 한국어 서술어를 사용."
+  },
+  "%HESHE% just hid %HISHER% phone behind %HISHER% back, made a whooshing noise, and then pointed at a car in the parking lot.": {
+    "omitted_tokens": {
+      "%HESHE%": 1,
+      "%HISHER%": 2
+    },
+    "reason": "영어 대명사와 계사 대신 성별 중립 한국어 지시어 및 한국어 서술어를 사용."
+  },
+  "Nope, %HESHE% really %VERB_IS_ARE% that stupid.": {
+    "omitted_tokens": {
+      "%HESHE%": 1,
+      "%VERB_IS_ARE%": 1
+    },
+    "reason": "영어 대명사와 계사 대신 성별 중립 한국어 지시어 및 한국어 서술어를 사용."
+  }
+}

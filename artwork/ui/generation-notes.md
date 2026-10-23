@@ -36,7 +36,13 @@ Use case text-localization. Edit the supplied landscape 2048x1024 packed game te
 - 메인 메뉴 생성 아틀라스: `generated/main_menu_ko_v2.png`
 - 실제 적용 시 원본 텍스처 크기에 맞춰 리샘플하고 대상 버튼 영역만 교체합니다. 레이아웃과 스프라이트 영역은 게임 원본 기준입니다.
 
-## Second Term 프롬프트
+## 학교 장소 표지 v5 · 내장 image_gen
+
+생성 원본: `generated/school_locations_ko_v5.png`. 적용용: `generated/school_locations_packed_ko_v5.png`. 생성 결과에서 화살표 13개를 잘라 원래 스프라이트 크기로 리샘플하고, `atlas_patches_v5.json`의 위치에 배치했습니다. 도서관 5색, 화장실 5색, 체육관 2색, 야외 파랑입니다. 해당 영역 밖의 픽셀과 다른 오브젝트는 보존했습니다. 생성 결과의 주차 카드는 이번 적용에서 제외했습니다. 나머지 색상·장소와 시간 표시는 미완료입니다. 원본의 타이트 메시가 유지되므로 게임 내 테두리와 글자 가장자리는 사용자 확인 대기입니다.
+
+Use case: text-localization. Edit target: the supplied square 2048x2048 packed Monster Prom game sprite atlas. Preserve the EXACT layout, sizes, colors, arrow shapes, ivory borders, dark geometric backgrounds, blank panels and transparency. Change ONLY lettering in its existing location. All five LIBRARY arrows at the top must say exactly "도서관". All five BATHROOMS arrows (four across the second row and one red near bottom right) must say exactly "화장실". The blue OUTDOORS arrow near bottom right must say exactly "야외". Both GYM arrows at the bottom right must say exactly "체육관". The large Week card at bottom left must say exactly "주차", retaining its underline. Match original ivory irregular hand-drawn lettering, legible complete Hangul, fitting each original arrow. Do not move or redesign any sprite. Keep blank paper and panels unchanged. True transparent background, no extra words, no English.
+
+## Second Term 프롬프트 (기존)
 
 Use case text-localization. Edit this exact Monster Prom Second Term expansion logo. Keep its original gray shield, gray clasped skeletal hands, black outlines, purple ribbon with ivory border, flat angular comic artwork and full composition. Replace MONSTER with exactly "몬스터" in bold black angular Hangul, PROM with exactly "프롬" in hot pink angular Hangul. Replace the ribbon SECOND TERM with Korean "두 번째 학기": put exactly "두 번째" on the left ribbon and exactly "학기" on the right ribbon. All Korean must be clearly spelled and legible. Keep the logo square 1024x1024 with matching placement and safe transparent padding. The purple ribbon must have clean fully transparent outer background, no white or beige rectangular blocks. Preserve the ivory ribbon edging only. No English letters, extra ornaments, backdrop, or watermark. This is a localized game texture, not a mockup.
 

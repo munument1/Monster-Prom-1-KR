@@ -1,13 +1,13 @@
 {
-  "translation_sources": 867,
+  "translation_sources": 1167,
   "localized_occurrences": 34208,
-  "translated_localized_occurrences": 1073,
-  "remaining_localized_occurrences": 33135,
+  "translated_localized_occurrences": 1687,
+  "remaining_localized_occurrences": 32521,
   "by_file": {
     "level2": 36,
     "level4": 6,
     "level5": 243,
-    "level6": 787,
+    "level6": 1401,
     "resources.assets": 1
   },
   "quiz_questions": 42,
@@ -154,7 +154,29 @@
     135,
     136,
     137,
-    138
+    138,
+    139,
+    140,
+    141,
+    142,
+    143,
+    144,
+    145
   ],
-  "total_main_events_with_english_text": 976
+  "total_main_events_with_english_text": 976,
+  "latest_event_batch": {
+    "event_indices": [
+      139,
+      140,
+      141,
+      142,
+      143,
+      144,
+      145
+    ],
+    "source_occurrences": 305,
+    "new_unique_sources": 300,
+    "all_options_and_outcomes": "translated"
+  },
+  "localized_school_sign_variants": 13
 }

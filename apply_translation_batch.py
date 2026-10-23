@@ -21,8 +21,17 @@ def main():
    if en in tr:assert tr[en]==ko,en
    tr[en]=ko
  token=re.compile(r'%[^%]+%|\[\d+\]|\[(?:/?[biusc]|n|[0-9a-fA-F]{6,8}|-)\]')
+ adaptations=json.loads((BASE/'translations/grammar_adaptations.json').read_text(encoding='utf-8'))
+ for en,item in adaptations.items():
+  assert en in tr and item['reason']
+  counts=item['omitted_tokens']
+  assert counts and set(counts)<= {'%HESHE%','%HISHER%','%VERB_IS_ARE%'}
+  source=collections.Counter(token.findall(en))
+  assert all(isinstance(n,int) and n>0 and source[t]==n for t,n in counts.items()),en
  for en,ko in tr.items():
-  assert collections.Counter(x for x in token.findall(en) if x!='[n]')==collections.Counter(x for x in token.findall(ko) if x!='[n]'),en
+  expected=collections.Counter(x for x in token.findall(en) if x!='[n]')
+  expected.subtract(adaptations.get(en,{}).get('omitted_tokens',{}))
+  assert +expected==collections.Counter(x for x in token.findall(ko) if x!='[n]'),en
   assert ko.count('[n]')+ko.count('\n')>=en.count('[n]')+en.count('\n'),en
  rows=readrows('dialogue_and_localized_text.jsonl');labels=readrows('scene_labels.jsonl');ui=readrows('ui_tables.jsonl')
  targets=collections.defaultdict(lambda:collections.defaultdict(list))
