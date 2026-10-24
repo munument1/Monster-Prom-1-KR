@@ -1,5 +1,5 @@
 {
-  "unique_sources": 11275,
+  "unique_sources": 13052,
   "source_files": {
     "additional_ui_ko.json": 127,
     "club_event_ko.json": 40,
@@ -31,10 +31,13 @@
     "story_261_976_006_ko.json": 625,
     "story_261_976_007_ko.json": 615,
     "story_261_976_008_ko.json": 557,
+    "story_261_976_009_ko.json": 534,
+    "story_261_976_010_ko.json": 653,
+    "story_261_976_011_ko.json": 590,
     "ui_ko.json": 149
   },
-  "explicit_grammar_adaptations": 51,
-  "signed_stat_deltas_checked": 1739,
+  "explicit_grammar_adaptations": 82,
+  "signed_stat_deltas_checked": 1947,
   "duplicate_source_consistency": "passed",
   "placeholder_and_formatting_tokens": "passed",
   "line_break_preservation": "passed",

@@ -1,0 +1,573 @@
+{
+  "revision": "crowdfunding_images_v14",
+  "patches": [
+    {
+      "file": "resources.assets",
+      "texture_id": 183,
+      "source": "artwork/ui/generated/fund_green14.png",
+      "placements": [
+        {
+          "source_box": [
+            0,
+            0,
+            1126,
+            203
+          ],
+          "target_box": [
+            0,
+            0,
+            1052,
+            190
+          ],
+          "preserve_target_alpha": true
+        },
+        {
+          "source_box": [
+            0,
+            203,
+            795,
+            379
+          ],
+          "target_box": [
+            0,
+            190,
+            743,
+            354
+          ],
+          "preserve_target_alpha": true
+        },
+        {
+          "source_box": [
+            958,
+            482,
+            1188,
+            535
+          ],
+          "target_box": [
+            895,
+            450,
+            1110,
+            500
+          ],
+          "preserve_target_alpha": true
+        },
+        {
+          "source_box": [
+            963,
+            680,
+            1188,
+            739
+          ],
+          "target_box": [
+            900,
+            635,
+            1110,
+            690
+          ],
+          "preserve_target_alpha": true
+        },
+        {
+          "source_box": [
+            953,
+            870,
+            1188,
+            926
+          ],
+          "target_box": [
+            890,
+            813,
+            1110,
+            865
+          ],
+          "preserve_target_alpha": true
+        },
+        {
+          "source_box": [
+            840,
+            950,
+            1092,
+            1058
+          ],
+          "target_box": [
+            785,
+            887,
+            1020,
+            988
+          ],
+          "preserve_target_alpha": true
+        },
+        {
+          "source_box": [
+            1113,
+            953,
+            1349,
+            1055
+          ],
+          "target_box": [
+            1040,
+            890,
+            1260,
+            985
+          ],
+          "preserve_target_alpha": true
+        },
+        {
+          "source_box": [
+            11,
+            487,
+            776,
+            926
+          ],
+          "target_box": [
+            10,
+            455,
+            725,
+            865
+          ],
+          "preserve_target_alpha": true
+        }
+      ]
+    },
+    {
+      "file": "resources.assets",
+      "texture_id": 884,
+      "source": "artwork/ui/generated/fund_red14.png",
+      "placements": [
+        {
+          "source_box": [
+            0,
+            0,
+            1126,
+            203
+          ],
+          "target_box": [
+            0,
+            0,
+            1052,
+            190
+          ],
+          "preserve_target_alpha": true
+        },
+        {
+          "source_box": [
+            0,
+            203,
+            795,
+            379
+          ],
+          "target_box": [
+            0,
+            190,
+            743,
+            354
+          ],
+          "preserve_target_alpha": true
+        },
+        {
+          "source_box": [
+            958,
+            482,
+            1188,
+            535
+          ],
+          "target_box": [
+            895,
+            450,
+            1110,
+            500
+          ],
+          "preserve_target_alpha": true
+        },
+        {
+          "source_box": [
+            963,
+            680,
+            1188,
+            739
+          ],
+          "target_box": [
+            900,
+            635,
+            1110,
+            690
+          ],
+          "preserve_target_alpha": true
+        },
+        {
+          "source_box": [
+            953,
+            870,
+            1188,
+            926
+          ],
+          "target_box": [
+            890,
+            813,
+            1110,
+            865
+          ],
+          "preserve_target_alpha": true
+        },
+        {
+          "source_box": [
+            840,
+            950,
+            1092,
+            1058
+          ],
+          "target_box": [
+            785,
+            887,
+            1020,
+            988
+          ],
+          "preserve_target_alpha": true
+        },
+        {
+          "source_box": [
+            1113,
+            953,
+            1349,
+            1055
+          ],
+          "target_box": [
+            1040,
+            890,
+            1260,
+            985
+          ],
+          "preserve_target_alpha": true
+        },
+        {
+          "source_box": [
+            0,
+            923,
+            155,
+            985
+          ],
+          "target_box": [
+            0,
+            862,
+            145,
+            920
+          ],
+          "preserve_target_alpha": true
+        },
+        {
+          "source_box": [
+            155,
+            923,
+            291,
+            985
+          ],
+          "target_box": [
+            145,
+            862,
+            272,
+            920
+          ],
+          "preserve_target_alpha": true
+        },
+        {
+          "source_box": [
+            450,
+            923,
+            612,
+            985
+          ],
+          "target_box": [
+            420,
+            862,
+            572,
+            920
+          ],
+          "preserve_target_alpha": true
+        }
+      ]
+    },
+    {
+      "file": "resources.assets",
+      "texture_id": 1644,
+      "source": "artwork/ui/generated/fund_blue14.png",
+      "placements": [
+        {
+          "source_box": [
+            0,
+            0,
+            1126,
+            203
+          ],
+          "target_box": [
+            0,
+            0,
+            1052,
+            190
+          ],
+          "preserve_target_alpha": true
+        },
+        {
+          "source_box": [
+            0,
+            203,
+            795,
+            379
+          ],
+          "target_box": [
+            0,
+            190,
+            743,
+            354
+          ],
+          "preserve_target_alpha": true
+        },
+        {
+          "source_box": [
+            958,
+            482,
+            1188,
+            535
+          ],
+          "target_box": [
+            895,
+            450,
+            1110,
+            500
+          ],
+          "preserve_target_alpha": true
+        },
+        {
+          "source_box": [
+            963,
+            680,
+            1188,
+            739
+          ],
+          "target_box": [
+            900,
+            635,
+            1110,
+            690
+          ],
+          "preserve_target_alpha": true
+        },
+        {
+          "source_box": [
+            953,
+            870,
+            1188,
+            926
+          ],
+          "target_box": [
+            890,
+            813,
+            1110,
+            865
+          ],
+          "preserve_target_alpha": true
+        },
+        {
+          "source_box": [
+            840,
+            950,
+            1092,
+            1058
+          ],
+          "target_box": [
+            785,
+            887,
+            1020,
+            988
+          ],
+          "preserve_target_alpha": true
+        },
+        {
+          "source_box": [
+            1113,
+            953,
+            1349,
+            1055
+          ],
+          "target_box": [
+            1040,
+            890,
+            1260,
+            985
+          ],
+          "preserve_target_alpha": true
+        },
+        {
+          "source_box": [
+            0,
+            406,
+            212,
+            460
+          ],
+          "target_box": [
+            0,
+            379,
+            198,
+            430
+          ],
+          "preserve_target_alpha": true
+        },
+        {
+          "source_box": [
+            455,
+            621,
+            658,
+            674
+          ],
+          "target_box": [
+            425,
+            580,
+            615,
+            630
+          ],
+          "preserve_target_alpha": true
+        },
+        {
+          "source_box": [
+            0,
+            787,
+            373,
+            966
+          ],
+          "target_box": [
+            0,
+            735,
+            348,
+            902
+          ],
+          "preserve_target_alpha": true
+        },
+        {
+          "source_box": [
+            396,
+            794,
+            765,
+            964
+          ],
+          "target_box": [
+            370,
+            742,
+            715,
+            900
+          ],
+          "preserve_target_alpha": true
+        }
+      ]
+    },
+    {
+      "file": "resources.assets",
+      "texture_id": 1943,
+      "source": "artwork/ui/generated/fund_yellow14.png",
+      "placements": [
+        {
+          "source_box": [
+            0,
+            0,
+            1126,
+            203
+          ],
+          "target_box": [
+            0,
+            0,
+            1052,
+            190
+          ],
+          "preserve_target_alpha": true
+        },
+        {
+          "source_box": [
+            0,
+            203,
+            795,
+            379
+          ],
+          "target_box": [
+            0,
+            190,
+            743,
+            354
+          ],
+          "preserve_target_alpha": true
+        },
+        {
+          "source_box": [
+            958,
+            482,
+            1188,
+            535
+          ],
+          "target_box": [
+            895,
+            450,
+            1110,
+            500
+          ],
+          "preserve_target_alpha": true
+        },
+        {
+          "source_box": [
+            963,
+            680,
+            1188,
+            739
+          ],
+          "target_box": [
+            900,
+            635,
+            1110,
+            690
+          ],
+          "preserve_target_alpha": true
+        },
+        {
+          "source_box": [
+            953,
+            870,
+            1188,
+            926
+          ],
+          "target_box": [
+            890,
+            813,
+            1110,
+            865
+          ],
+          "preserve_target_alpha": true
+        },
+        {
+          "source_box": [
+            840,
+            950,
+            1092,
+            1058
+          ],
+          "target_box": [
+            785,
+            887,
+            1020,
+            988
+          ],
+          "preserve_target_alpha": true
+        },
+        {
+          "source_box": [
+            1113,
+            953,
+            1349,
+            1055
+          ],
+          "target_box": [
+            1040,
+            890,
+            1260,
+            985
+          ],
+          "preserve_target_alpha": true
+        }
+      ]
+    }
+  ]
+}

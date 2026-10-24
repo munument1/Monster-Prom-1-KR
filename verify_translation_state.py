@@ -5,9 +5,10 @@ import UnityPy
 from config import GAME_DATA
 from unity_support import generator
 from apply_translation_batch import pointer
+from translation_snapshot import load_catalog
 BASE=Path(__file__).parent
 def main():
- tr={k:v for p in (BASE/'translations').glob('*_ko.json') for k,v in json.loads(p.read_text(encoding='utf-8')).items()}
+ tr,basis=load_catalog(BASE)
  rows=[json.loads(x) for x in (BASE/'extracted/dialogue_and_localized_text.jsonl').read_text(encoding='utf-8').splitlines()]
  groups=collections.defaultdict(list)
  for r in rows:
@@ -39,6 +40,6 @@ def main():
     for child in value:strip_english(child)
   strip_english(a);strip_english(b);assert a==b,(fn,pid)
   comparisons.append({'file':fn,'path_id':pid,'non_english_text_and_gameplay_fields':'unchanged'})
- report={'verified_localized_occurrences':verified,'gameplay_comparisons':comparisons,'visual_verification':'v2 font output user-confirmed; new changes pending user'}
+ report={'verified_localized_occurrences':verified,'catalog_basis':basis,'gameplay_comparisons':comparisons,'visual_verification':'v2 font output user-confirmed; new changes pending user'}
  (BASE/'reports/translation_state.json').write_text(json.dumps(report,ensure_ascii=False,indent=2),encoding='utf-8');print(json.dumps(report,ensure_ascii=False,indent=2))
 if __name__=='__main__':main()

@@ -1,0 +1,23 @@
+{
+  "Val, did you tell %currentplayername% %heshe% should try and become part of our family in order to become friends with me?": {
+    "omitted_tokens": {
+      "%heshe%": 1
+    },
+    "reason": "영어 성별 대명사 또는 동사 활용 대신 한국어의 중립 지시어·문맥상 생략·한국어 서술어를 사용해 자연스럽게 표현함."
+  },
+  "I mean, I told %himher% we were friends basically BECAUSE we're family.": {
+    "omitted_tokens": {
+      "%himher%": 1
+    },
+    "reason": "영어 성별 대명사 또는 동사 활용 대신 한국어의 중립 지시어·문맥상 생략·한국어 서술어를 사용해 자연스럽게 표현함."
+  },
+  "The rest is all %hisher% own merit. I must admit, %heshe% always %verb_finds_find% a way to outperform %himselfherself%. You must give credit where it's due!": {
+    "omitted_tokens": {
+      "%hisher%": 1,
+      "%heshe%": 1,
+      "%verb_finds_find%": 1,
+      "%himselfherself%": 1
+    },
+    "reason": "영어 성별 대명사 또는 동사 활용 대신 한국어의 중립 지시어·문맥상 생략·한국어 서술어를 사용해 자연스럽게 표현함."
+  }
+}

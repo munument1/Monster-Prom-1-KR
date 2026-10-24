@@ -1,0 +1,29 @@
+{
+  "%HESHE% %VERB_IS_ARE% stupid and %VERB_HAS_HAVE% weak arms that can't throw computers through windows.": {
+    "omitted_tokens": {
+      "%HESHE%": 1,
+      "%VERB_IS_ARE%": 1,
+      "%VERB_HAS_HAVE%": 1
+    },
+    "reason": "영어 성별 대명사 또는 동사 활용 대신 한국어의 중립 지시어·문맥상 생략·한국어 서술어를 사용해 자연스럽게 표현함."
+  },
+  "I especially like how %HESHE% always %VERB_SEEMS_SEEM% to consider two very wacky options before doing or saying almost anything!": {
+    "omitted_tokens": {
+      "%HESHE%": 1,
+      "%VERB_SEEMS_SEEM%": 1
+    },
+    "reason": "영어 성별 대명사 또는 동사 활용 대신 한국어의 중립 지시어·문맥상 생략·한국어 서술어를 사용해 자연스럽게 표현함."
+  },
+  "Don't worry, we'll pin this murder on %CURRENTPLAYERNAME%. It was %HISHER% idea after all.": {
+    "omitted_tokens": {
+      "%HISHER%": 1
+    },
+    "reason": "영어 성별 대명사 또는 동사 활용 대신 한국어의 중립 지시어·문맥상 생략·한국어 서술어를 사용해 자연스럽게 표현함."
+  },
+  "Not just %HIMHER%, us too!": {
+    "omitted_tokens": {
+      "%HIMHER%": 1
+    },
+    "reason": "영어 성별 대명사 또는 동사 활용 대신 한국어의 중립 지시어·문맥상 생략·한국어 서술어를 사용해 자연스럽게 표현함."
+  }
+}

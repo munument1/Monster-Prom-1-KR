@@ -1,0 +1,129 @@
+{
+  "You're alive, no thanks to %CURRENTPLAYERNAME%. That's %HISHER% snot all over you, by the way.": {
+    "omitted_tokens": {
+      "%HISHER%": 1
+    },
+    "reason": "English grammatical pronouns and verb conjugations are rendered as natural gender-neutral Korean wording."
+  },
+  "...You can clearly see how %HESHE% %VERB_IS_ARE% grabbing it with %HISHER% hands.": {
+    "omitted_tokens": {
+      "%HESHE%": 1,
+      "%VERB_IS_ARE%": 1,
+      "%HISHER%": 1
+    },
+    "reason": "English grammatical pronouns and verb conjugations are rendered as natural gender-neutral Korean wording."
+  },
+  "%HESHE% just ran at them while booing! I could literally do that!": {
+    "omitted_tokens": {
+      "%HESHE%": 1
+    },
+    "reason": "English grammatical pronouns and verb conjugations are rendered as natural gender-neutral Korean wording."
+  },
+  "You do realize %HESHE% just ran at them while booing, right?": {
+    "omitted_tokens": {
+      "%HESHE%": 1
+    },
+    "reason": "English grammatical pronouns and verb conjugations are rendered as natural gender-neutral Korean wording."
+  },
+  "...%HESHE% just said \"boo.\" Can you stop all this stupidity?": {
+    "omitted_tokens": {
+      "%HESHE%": 1
+    },
+    "reason": "English grammatical pronouns and verb conjugations are rendered as natural gender-neutral Korean wording."
+  },
+  "%HESHE% %VERB_IS_ARE% NOT a ghost, goddammit!": {
+    "omitted_tokens": {
+      "%HESHE%": 1,
+      "%VERB_IS_ARE%": 1
+    },
+    "reason": "English grammatical pronouns and verb conjugations are rendered as natural gender-neutral Korean wording."
+  },
+  "%HESHE% just threw a rock at him...": {
+    "omitted_tokens": {
+      "%HESHE%": 1
+    },
+    "reason": "English grammatical pronouns and verb conjugations are rendered as natural gender-neutral Korean wording."
+  },
+  "%HESHE% %VERB_IS_ARE% NOT a ghost!": {
+    "omitted_tokens": {
+      "%HESHE%": 1,
+      "%VERB_IS_ARE%": 1
+    },
+    "reason": "English grammatical pronouns and verb conjugations are rendered as natural gender-neutral Korean wording."
+  },
+  "I'm just saying, %HISHER% story has more holes than the actual holes cut out of the blanket %HESHE% %VERB_IS_ARE% clearly wearing.": {
+    "omitted_tokens": {
+      "%HISHER%": 1,
+      "%HESHE%": 1,
+      "%VERB_IS_ARE%": 1
+    },
+    "reason": "English grammatical pronouns and verb conjugations are rendered as natural gender-neutral Korean wording."
+  },
+  "Wait, so... you think %HESHE% %VERB_IS_ARE% a ghost... wearing a sheet?": {
+    "omitted_tokens": {
+      "%HESHE%": 1,
+      "%VERB_IS_ARE%": 1
+    },
+    "reason": "English grammatical pronouns and verb conjugations are rendered as natural gender-neutral Korean wording."
+  },
+  "...Or none of that, since %HESHE% %VERB_IS_ARE% just %CURRENTPLAYERNAME% wearing a blanket?": {
+    "omitted_tokens": {
+      "%HESHE%": 1,
+      "%VERB_IS_ARE%": 1
+    },
+    "reason": "English grammatical pronouns and verb conjugations are rendered as natural gender-neutral Korean wording."
+  },
+  "I think it's cool how %HESHE% %VERB_IS_ARE% wearing a corpse on %HISHER% head and %HESHE% %VERB_IS_ARE% still, like, really cool about it.": {
+    "omitted_tokens": {
+      "%HESHE%": 2,
+      "%VERB_IS_ARE%": 2,
+      "%HISHER%": 1
+    },
+    "reason": "English grammatical pronouns and verb conjugations are rendered as natural gender-neutral Korean wording."
+  },
+  "Fuuuuck, I'm like big time drunk. Like tomorrow my hangover will have a hangover... eh, wait, am I tripping or is %CURRENTPLAYERNAME% wearing a corpse on %HISHER% head?": {
+    "omitted_tokens": {
+      "%HISHER%": 1
+    },
+    "reason": "English grammatical pronouns and verb conjugations are rendered as natural gender-neutral Korean wording."
+  },
+  "You're not tripping, Polly. Well, you are tripping, but also %CURRENTPLAYERNAME% is in fact wearing a corpse on %HISHER% head.": {
+    "omitted_tokens": {
+      "%HISHER%": 1
+    },
+    "reason": "English grammatical pronouns and verb conjugations are rendered as natural gender-neutral Korean wording."
+  },
+  "And you know what... %HESHE% %VERB_IS_ARE% doing it in such a confident way, I hereby conclude that a corpse counts as a very hot fashion accessory.": {
+    "omitted_tokens": {
+      "%HESHE%": 1,
+      "%VERB_IS_ARE%": 1
+    },
+    "reason": "English grammatical pronouns and verb conjugations are rendered as natural gender-neutral Korean wording."
+  },
+  "%MRMRS% %CURRENTPLAYERNAME%! We have a problem!": {
+    "omitted_tokens": {
+      "%MRMRS%": 1
+    },
+    "reason": "English grammatical pronouns and verb conjugations are rendered as natural gender-neutral Korean wording."
+  },
+  "You keep Scott out of the murder because he's too pure for that. You take care of it yourself because you're a responsible young adult that can take care of %HISHER% own murders.": {
+    "omitted_tokens": {
+      "%HISHER%": 1
+    },
+    "reason": "English grammatical pronouns and verb conjugations are rendered as natural gender-neutral Korean wording."
+  },
+  "\"So unoriginal! It seems %HESHE% %VERB_THINKS_THINK% corpses are the solution to everything. It's no surprise %HISHER% fashion is starting to get old.\"": {
+    "omitted_tokens": {
+      "%HESHE%": 1,
+      "%VERB_THINKS_THINK%": 1,
+      "%HISHER%": 1
+    },
+    "reason": "English grammatical pronouns and verb conjugations are rendered as natural gender-neutral Korean wording."
+  },
+  "NO! You're woke enough to acknowledge your corpse doesn't need a %KNIGHTKNIGHTESS% in shining armor to protect it, it can protect itself!": {
+    "omitted_tokens": {
+      "%KNIGHTKNIGHTESS%": 1
+    },
+    "reason": "English grammatical pronouns and verb conjugations are rendered as natural gender-neutral Korean wording."
+  }
+}

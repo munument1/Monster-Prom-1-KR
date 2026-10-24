@@ -1,0 +1,168 @@
+{
+  "revision": "ending_images_v15",
+  "patches": [
+    {
+      "file": "resources.assets",
+      "texture_id": 895,
+      "source": "artwork/ui/generated/polaroid15.png",
+      "placements": [
+        {
+          "source_box": [
+            651,
+            65,
+            1209,
+            558
+          ],
+          "target_box": [
+            700,
+            70,
+            1300,
+            600
+          ],
+          "preserve_target_alpha": true
+        },
+        {
+          "source_box": [
+            930,
+            558,
+            1162,
+            618
+          ],
+          "target_box": [
+            1000,
+            600,
+            1250,
+            665
+          ],
+          "preserve_target_alpha": true
+        }
+      ]
+    },
+    {
+      "file": "resources.assets",
+      "texture_id": 1358,
+      "source": "artwork/ui/generated/photo15.png",
+      "placements": [
+        {
+          "source_box": [
+            1067,
+            219,
+            1370,
+            499
+          ],
+          "target_box": [
+            1390,
+            285,
+            1785,
+            650
+          ],
+          "preserve_target_alpha": true
+        }
+      ]
+    },
+    {
+      "file": "resources.assets",
+      "texture_id": 1802,
+      "source": "artwork/ui/generated/chalk_day15.png",
+      "placements": [
+        {
+          "source_box": [
+            331,
+            0,
+            1450,
+            93
+          ],
+          "target_box": [
+            420,
+            0,
+            1840,
+            118
+          ],
+          "preserve_target_alpha": true
+        },
+        {
+          "source_box": [
+            1249,
+            138,
+            1614,
+            773
+          ],
+          "target_box": [
+            1585,
+            175,
+            2048,
+            980
+          ],
+          "preserve_target_alpha": true
+        },
+        {
+          "source_box": [
+            0,
+            694,
+            363,
+            789
+          ],
+          "target_box": [
+            0,
+            880,
+            460,
+            1000
+          ],
+          "preserve_target_alpha": true
+        }
+      ]
+    },
+    {
+      "file": "resources.assets",
+      "texture_id": 1363,
+      "source": "artwork/ui/generated/chalk_night15.png",
+      "placements": [
+        {
+          "source_box": [
+            331,
+            0,
+            1450,
+            93
+          ],
+          "target_box": [
+            420,
+            0,
+            1840,
+            118
+          ],
+          "preserve_target_alpha": true
+        },
+        {
+          "source_box": [
+            1249,
+            138,
+            1614,
+            772
+          ],
+          "target_box": [
+            1585,
+            175,
+            2048,
+            980
+          ],
+          "preserve_target_alpha": true
+        },
+        {
+          "source_box": [
+            0,
+            693,
+            363,
+            788
+          ],
+          "target_box": [
+            0,
+            880,
+            460,
+            1000
+          ],
+          "preserve_target_alpha": true
+        }
+      ]
+    }
+  ]
+}

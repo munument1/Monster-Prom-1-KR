@@ -1,0 +1,51 @@
+{
+  "Psh, we're clearly safe with %HIMHER% -- a fellow dracophile can always be trusted.": {
+    "omitted_tokens": {
+      "%HIMHER%": 1
+    },
+    "reason": "영어 성별 대명사와 동사 활용을 성별 중립 지시어와 자연스러운 한국어 서술어로 옮김."
+  },
+  "We can assume %HESHE% just wanted to play cool and edgy to impress us... and %HESHE% failed.": {
+    "omitted_tokens": {
+      "%HESHE%": 2
+    },
+    "reason": "영어 성별 대명사와 동사 활용을 성별 중립 지시어와 자연스러운 한국어 서술어로 옮김."
+  },
+  "%CURRENTPLAYERNAME% here is the Dostoyevsky of cheap erotic dragon fanfic, sweetheart. You should post it; you'll be %KINGQUEEN% of AO4 in no time!": {
+    "omitted_tokens": {
+      "%KINGQUEEN%": 1
+    },
+    "reason": "영어 성별 대명사와 동사 활용을 성별 중립 지시어와 자연스러운 한국어 서술어로 옮김."
+  },
+  "It's perfect! Right, Liam? I liked the part where %HESHE% said the three of us were very cool and very nice.": {
+    "omitted_tokens": {
+      "%HESHE%": 1
+    },
+    "reason": "영어 성별 대명사와 동사 활용을 성별 중립 지시어와 자연스러운 한국어 서술어로 옮김."
+  },
+  "I think %CURRENTPLAYERNAME% was just trying to fool us into reading %HISHER% extremely dirty centaurification fic. So not cool.": {
+    "omitted_tokens": {
+      "%HISHER%": 1
+    },
+    "reason": "영어 성별 대명사와 동사 활용을 성별 중립 지시어와 자연스러운 한국어 서술어로 옮김."
+  },
+  "Ooooooh, %HESHE% almost fooled me by saying we were very cool and very nice. That was... very not cool and very not nice!": {
+    "omitted_tokens": {
+      "%HESHE%": 1
+    },
+    "reason": "영어 성별 대명사와 동사 활용을 성별 중립 지시어와 자연스러운 한국어 서술어로 옮김."
+  },
+  "Dmitri! Let %HIMHER% go!": {
+    "omitted_tokens": {
+      "%HIMHER%": 1
+    },
+    "reason": "영어 성별 대명사와 동사 활용을 성별 중립 지시어와 자연스러운 한국어 서술어로 옮김."
+  },
+  "Or that %CURRENTPLAYERNAME% has the power to make all those memories -- some of which %HESHE% %VERB_WAS_WERE%n't there for -- randomly visible to everyone?": {
+    "omitted_tokens": {
+      "%HESHE%": 1,
+      "%VERB_WAS_WERE%": 1
+    },
+    "reason": "영어 성별 대명사와 동사 활용을 성별 중립 지시어와 자연스러운 한국어 서술어로 옮김."
+  }
+}

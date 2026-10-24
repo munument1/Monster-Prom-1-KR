@@ -1,0 +1,1 @@
+Edit this Monster Prom game texture. Change ONLY pink lettering PROM star NIGHT heart SOON!! on top white cloth banner into Korean "프롬 ★ 무도회 ♥ 곧 시작!!". Match original hand-painted pink text, curved banner perspective and muted original colors. Keep star and heart decorative shapes and every banner fold and background paint texture unchanged. Do not crop, pad, or shift image.

@@ -1,0 +1,210 @@
+{
+  "images": [
+    {
+      "file": "resources.assets",
+      "texture_id": 380,
+      "revision": "library_images_v13b",
+      "dimensions": [
+        1276,
+        1076
+      ],
+      "outside_patch_pixels": "identical",
+      "alpha_policy": "original alpha identical",
+      "saved_decode": "passed"
+    },
+    {
+      "file": "resources.assets",
+      "texture_id": 1012,
+      "revision": "library_images_v13b",
+      "dimensions": [
+        1276,
+        1076
+      ],
+      "outside_patch_pixels": "identical",
+      "alpha_policy": "original alpha identical",
+      "saved_decode": "passed"
+    },
+    {
+      "file": "resources.assets",
+      "texture_id": 1724,
+      "revision": "library_images_v13b",
+      "dimensions": [
+        1276,
+        1076
+      ],
+      "outside_patch_pixels": "identical",
+      "alpha_policy": "original alpha identical",
+      "saved_decode": "passed"
+    },
+    {
+      "file": "resources.assets",
+      "texture_id": 1784,
+      "revision": "library_images_v13b",
+      "dimensions": [
+        1276,
+        1076
+      ],
+      "outside_patch_pixels": "identical",
+      "alpha_policy": "original alpha identical",
+      "saved_decode": "passed"
+    },
+    {
+      "file": "resources.assets",
+      "texture_id": 1008,
+      "revision": "library_images_v13b",
+      "dimensions": [
+        1276,
+        1076
+      ],
+      "outside_patch_pixels": "identical",
+      "alpha_policy": "original alpha identical",
+      "saved_decode": "passed"
+    },
+    {
+      "file": "resources.assets",
+      "texture_id": 1094,
+      "revision": "library_images_v13b",
+      "dimensions": [
+        1276,
+        1076
+      ],
+      "outside_patch_pixels": "identical",
+      "alpha_policy": "original alpha identical",
+      "saved_decode": "passed"
+    },
+    {
+      "file": "resources.assets",
+      "texture_id": 1194,
+      "revision": "library_images_v13b",
+      "dimensions": [
+        1276,
+        1076
+      ],
+      "outside_patch_pixels": "identical",
+      "alpha_policy": "original alpha identical",
+      "saved_decode": "passed"
+    },
+    {
+      "file": "resources.assets",
+      "texture_id": 1688,
+      "revision": "library_images_v13b",
+      "dimensions": [
+        1276,
+        1076
+      ],
+      "outside_patch_pixels": "identical",
+      "alpha_policy": "original alpha identical",
+      "saved_decode": "passed"
+    },
+    {
+      "file": "resources.assets",
+      "texture_id": 340,
+      "revision": "library_images_v13",
+      "dimensions": [
+        1276,
+        1076
+      ],
+      "outside_patch_pixels": "identical",
+      "alpha_policy": "original alpha identical",
+      "saved_decode": "passed"
+    },
+    {
+      "file": "resources.assets",
+      "texture_id": 183,
+      "revision": "crowdfunding_images_v14",
+      "dimensions": [
+        1276,
+        1076
+      ],
+      "outside_patch_pixels": "identical",
+      "alpha_policy": "original alpha identical",
+      "saved_decode": "passed"
+    },
+    {
+      "file": "resources.assets",
+      "texture_id": 884,
+      "revision": "crowdfunding_images_v14",
+      "dimensions": [
+        1276,
+        1076
+      ],
+      "outside_patch_pixels": "identical",
+      "alpha_policy": "original alpha identical",
+      "saved_decode": "passed"
+    },
+    {
+      "file": "resources.assets",
+      "texture_id": 1644,
+      "revision": "crowdfunding_images_v14",
+      "dimensions": [
+        1276,
+        1076
+      ],
+      "outside_patch_pixels": "identical",
+      "alpha_policy": "original alpha identical",
+      "saved_decode": "passed"
+    },
+    {
+      "file": "resources.assets",
+      "texture_id": 1943,
+      "revision": "crowdfunding_images_v14",
+      "dimensions": [
+        1276,
+        1076
+      ],
+      "outside_patch_pixels": "identical",
+      "alpha_policy": "original alpha identical",
+      "saved_decode": "passed"
+    },
+    {
+      "file": "resources.assets",
+      "texture_id": 895,
+      "revision": "ending_images_v15",
+      "dimensions": [
+        1400,
+        1300
+      ],
+      "outside_patch_pixels": "identical",
+      "alpha_policy": "original alpha identical",
+      "saved_decode": "passed"
+    },
+    {
+      "file": "resources.assets",
+      "texture_id": 1358,
+      "revision": "ending_images_v15",
+      "dimensions": [
+        2048,
+        1304
+      ],
+      "outside_patch_pixels": "identical",
+      "alpha_policy": "original alpha identical",
+      "saved_decode": "passed"
+    },
+    {
+      "file": "resources.assets",
+      "texture_id": 1802,
+      "revision": "chalk_images_v15b",
+      "dimensions": [
+        2048,
+        1236
+      ],
+      "outside_patch_pixels": "identical",
+      "alpha_policy": "original alpha identical",
+      "saved_decode": "passed"
+    },
+    {
+      "file": "resources.assets",
+      "texture_id": 1363,
+      "revision": "chalk_images_v15b",
+      "dimensions": [
+        2048,
+        1236
+      ],
+      "outside_patch_pixels": "identical",
+      "alpha_policy": "original alpha identical",
+      "saved_decode": "passed"
+    }
+  ],
+  "unique_textures": 17,
+  "game_screen_check": "pending user"
+}

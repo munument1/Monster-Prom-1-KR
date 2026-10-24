@@ -1,0 +1,511 @@
+{
+  "Sure! You know how %OTHERPLAYER1% works at a burger joint on the weekends? According to %HISHER_OTHERPLAYER1% plans, twenty years from now, %HESHE_OTHERPLAYER1% might become the manager! Also, %HESHE_OTHERPLAYER1% %VERB_has_have_OTHERPLAYER1% very serious plans to become Platinum in FoF by next year!": {
+    "omitted_tokens": {
+      "%HISHER_OTHERPLAYER1%": 1,
+      "%HESHE_OTHERPLAYER1%": 2,
+      "%VERB_has_have_OTHERPLAYER1%": 1
+    },
+    "reason": "영어 성별 대명사와 동사 활용을 성별 중립 지시어와 자연스러운 한국어 서술어로 옮김."
+  },
+  "I wonder if %HESHE_OTHERPLAYER1% %VERB_uses_use_OTHERPLAYER1% the same color codes that I use in my plans...": {
+    "omitted_tokens": {
+      "%HESHE_OTHERPLAYER1%": 1,
+      "%VERB_uses_use_OTHERPLAYER1%": 1
+    },
+    "reason": "영어 성별 대명사와 동사 활용을 성별 중립 지시어와 자연스러운 한국어 서술어로 옮김."
+  },
+  "I can't wait for 20 years of helping %HIMHER_OTHERPLAYER1% get there.": {
+    "omitted_tokens": {
+      "%HIMHER_OTHERPLAYER1%": 1
+    },
+    "reason": "영어 성별 대명사와 동사 활용을 성별 중립 지시어와 자연스러운 한국어 서술어로 옮김."
+  },
+  "Vera leaves. You guess 20 years from now, when %OTHERPLAYER1% finally gets to be the manager of that burger joint, you won't get any free burgers from %HIMHER_OTHERPLAYER1%. Meh, still worth it. You also gain +1 CHARM.": {
+    "omitted_tokens": {
+      "%HIMHER_OTHERPLAYER1%": 1
+    },
+    "reason": "영어 성별 대명사와 동사 활용을 성별 중립 지시어와 자연스러운 한국어 서술어로 옮김."
+  },
+  "But imagining is for losers! And since you both know %OTHERPLAYER1% and are a loser yourself, I thought you could tell me: what would %OTHERPLAYER1% do if I were to shoot %HIMHER_OTHERPLAYER1%?": {
+    "omitted_tokens": {
+      "%HIMHER_OTHERPLAYER1%": 1
+    },
+    "reason": "영어 성별 대명사와 동사 활용을 성별 중립 지시어와 자연스러운 한국어 서술어로 옮김."
+  },
+  "%OTHERPLAYER1% is all about getting shot. %HESHE_OTHERPLAYER1% %VERB_goes_go_OTHERPLAYER1% to the doctor every day just to get a shot, and shots are the only thing %HESHE_OTHERPLAYER1% %VERB_does_do_OTHERPLAYER1% when partying. So I think you can give %HIMHER_OTHERPLAYER1% a shot.": {
+    "omitted_tokens": {
+      "%HESHE_OTHERPLAYER1%": 2,
+      "%VERB_goes_go_OTHERPLAYER1%": 1,
+      "%VERB_does_do_OTHERPLAYER1%": 1,
+      "%HIMHER_OTHERPLAYER1%": 1
+    },
+    "reason": "영어 성별 대명사와 동사 활용을 성별 중립 지시어와 자연스러운 한국어 서술어로 옮김."
+  },
+  "Pffff, believe it or not, if you were to shoot %OTHERPLAYER1%, %HESHE_OTHERPLAYER1% would NOT be into it! #Truestory.": {
+    "omitted_tokens": {
+      "%HESHE_OTHERPLAYER1%": 1
+    },
+    "reason": "영어 성별 대명사와 동사 활용을 성별 중립 지시어와 자연스러운 한국어 서술어로 옮김."
+  },
+  "And who knows? If %HESHE_OTHERPLAYER1% %verb_is_are_OTHERPLAYER1% so into getting shot... I might add some spice into my foreplay. If you know what I mean.": {
+    "omitted_tokens": {
+      "%HESHE_OTHERPLAYER1%": 1,
+      "%verb_is_are_OTHERPLAYER1%": 1
+    },
+    "reason": "영어 성별 대명사와 동사 활용을 성별 중립 지시어와 자연스러운 한국어 서술어로 옮김."
+  },
+  "I mean shooting %OTHERPLAYER1% before having sex with %HIMHER_OTHERPLAYER1%, just to be clear.": {
+    "omitted_tokens": {
+      "%HIMHER_OTHERPLAYER1%": 1
+    },
+    "reason": "영어 성별 대명사와 동사 활용을 성별 중립 지시어와 자연스러운 한국어 서술어로 옮김."
+  },
+  "So %HESHE_OTHERPLAYER1% %verb_is_are_OTHERPLAYER1% just another vanilla dickwad who thinks getting shot is \"not cool\"?": {
+    "omitted_tokens": {
+      "%HESHE_OTHERPLAYER1%": 1,
+      "%verb_is_are_OTHERPLAYER1%": 1
+    },
+    "reason": "영어 성별 대명사와 동사 활용을 성별 중립 지시어와 자연스러운 한국어 서술어로 옮김."
+  },
+  "Next thing I'll hear %HESHE_OTHERPLAYER1% also %VERB_thinks_think_OTHERPLAYER1% getting stabbed is off-limits.": {
+    "omitted_tokens": {
+      "%HESHE_OTHERPLAYER1%": 1,
+      "%VERB_thinks_think_OTHERPLAYER1%": 1
+    },
+    "reason": "영어 성별 대명사와 동사 활용을 성별 중립 지시어와 자연스러운 한국어 서술어로 옮김."
+  },
+  "What %VERB_is_are_OTHERPLAYER1% %HESHE_OTHERPLAYER1% thinking? That if we rob a bank together the police will... I don't know... give us free cuddly hugs?": {
+    "omitted_tokens": {
+      "%VERB_is_are_OTHERPLAYER1%": 1,
+      "%HESHE_OTHERPLAYER1%": 1
+    },
+    "reason": "영어 성별 대명사와 동사 활용을 성별 중립 지시어와 자연스러운 한국어 서술어로 옮김."
+  },
+  "Anyway, you messed up %OTHERPLAYER1%'s chances with Damien... but at least you saved %HIMHER_OTHERPLAYER1% from getting shot? Who cares? Your pizza is ready and you gain +1 CHARM.": {
+    "omitted_tokens": {
+      "%HIMHER_OTHERPLAYER1%": 1
+    },
+    "reason": "영어 성별 대명사와 동사 활용을 성별 중립 지시어와 자연스러운 한국어 서술어로 옮김."
+  },
+  "%OTHERPLAYER1%! It's hard to admit, but %HESHE_OTHERPLAYER1% could charm the pants off a statue -- and %VERB_HAS_HAVE_OTHERPLAYER1%, on several occasions!": {
+    "omitted_tokens": {
+      "%HESHE_OTHERPLAYER1%": 1,
+      "%VERB_HAS_HAVE_OTHERPLAYER1%": 1
+    },
+    "reason": "영어 성별 대명사와 동사 활용을 성별 중립 지시어와 자연스러운 한국어 서술어로 옮김."
+  },
+  "%OTHERPLAYER2%! No kidding, I once watched %HIMHER_OTHERPLAYER2% seduce the entire population of Lemuria from orbit!": {
+    "omitted_tokens": {
+      "%HIMHER_OTHERPLAYER2%": 1
+    },
+    "reason": "영어 성별 대명사와 동사 활용을 성별 중립 지시어와 자연스러운 한국어 서술어로 옮김."
+  },
+  "%OTHERPLAYER1%. %HESHE_OTHERPLAYER1% %VERB_solves_solve_OTHERPLAYER1% mysteries for breakfast. And for lunch. Also dinner. Also between meals.": {
+    "omitted_tokens": {
+      "%HESHE_OTHERPLAYER1%": 1,
+      "%VERB_solves_solve_OTHERPLAYER1%": 1
+    },
+    "reason": "영어 성별 대명사와 동사 활용을 성별 중립 지시어와 자연스러운 한국어 서술어로 옮김."
+  },
+  "%OTHERPLAYER2%! %HESHE_OTHERPLAYER2% CAN sleuth %HISHER_OTHERPLAYER2% way out of a paper bag!": {
+    "omitted_tokens": {
+      "%HESHE_OTHERPLAYER2%": 1,
+      "%HISHER_OTHERPLAYER2%": 1
+    },
+    "reason": "영어 성별 대명사와 동사 활용을 성별 중립 지시어와 자연스러운 한국어 서술어로 옮김."
+  },
+  "%OTHERPLAYER1% is the natural choice. %HESHE_OTHERPLAYER1% %VERB_spends_spend_OTHERPLAYER1% money just to keep from drowning in it!": {
+    "omitted_tokens": {
+      "%HESHE_OTHERPLAYER1%": 1,
+      "%VERB_spends_spend_OTHERPLAYER1%": 1
+    },
+    "reason": "영어 성별 대명사와 동사 활용을 성별 중립 지시어와 자연스러운 한국어 서술어로 옮김."
+  },
+  "Let's bring in %OTHERPLAYER2%. %HESHE_OTHERPLAYER2% %verb_is_are_OTHERPLAYER2% so rich, %HESHE_OTHERPLAYER2% can actually afford to eat organic food!": {
+    "omitted_tokens": {
+      "%HESHE_OTHERPLAYER2%": 2,
+      "%verb_is_are_OTHERPLAYER2%": 1
+    },
+    "reason": "영어 성별 대명사와 동사 활용을 성별 중립 지시어와 자연스러운 한국어 서술어로 옮김."
+  },
+  "With %HISHER_OTHERPLAYER1% financial backing, you're able to purchase the top-of-the-line offering from luxurymurdercontraptions.biz:": {
+    "omitted_tokens": {
+      "%HISHER_OTHERPLAYER1%": 1
+    },
+    "reason": "영어 성별 대명사와 동사 활용을 성별 중립 지시어와 자연스러운 한국어 서술어로 옮김."
+  },
+  "You hit up %OTHERPLAYER1% for some cash, but it turns out %HESHE_OTHERPLAYER1% %verb_is_are_OTHERPLAYER1% not as flush as %HESHE_OTHERPLAYER1% used to be.": {
+    "omitted_tokens": {
+      "%HESHE_OTHERPLAYER1%": 2,
+      "%verb_is_are_OTHERPLAYER1%": 1
+    },
+    "reason": "영어 성별 대명사와 동사 활용을 성별 중립 지시어와 자연스러운 한국어 서술어로 옮김."
+  },
+  "Apparently %HESHE_OTHERPLAYER1% got caught up in a classic pyramid scheme... and pyramids are expensive!": {
+    "omitted_tokens": {
+      "%HESHE_OTHERPLAYER1%": 1
+    },
+    "reason": "영어 성별 대명사와 동사 활용을 성별 중립 지시어와 자연스러운 한국어 서술어로 옮김."
+  },
+  "With %HISHER_OTHERPLAYER2% financial backing, you're able to purchase the top-of-the-line offering from luxurymurdercontraptions.biz:": {
+    "omitted_tokens": {
+      "%HISHER_OTHERPLAYER2%": 1
+    },
+    "reason": "영어 성별 대명사와 동사 활용을 성별 중립 지시어와 자연스러운 한국어 서술어로 옮김."
+  },
+  "You hit up %OTHERPLAYER2% for some cash, but it turns out %HESHE_OTHERPLAYER2% %verb_is_are_OTHERPLAYER2% not as flush as %HESHE_OTHERPLAYER2% used to be.": {
+    "omitted_tokens": {
+      "%HESHE_OTHERPLAYER2%": 2,
+      "%verb_is_are_OTHERPLAYER2%": 1
+    },
+    "reason": "영어 성별 대명사와 동사 활용을 성별 중립 지시어와 자연스러운 한국어 서술어로 옮김."
+  },
+  "Apparently %HESHE_OTHERPLAYER2% got caught up in a classic pyramid scheme... and pyramids are expensive!": {
+    "omitted_tokens": {
+      "%HESHE_OTHERPLAYER2%": 1
+    },
+    "reason": "영어 성별 대명사와 동사 활용을 성별 중립 지시어와 자연스러운 한국어 서술어로 옮김."
+  },
+  "Definitely %OTHERPLAYER1% -- %HESHE_OTHERPLAYER1% %VERB_is_are_OTHERPLAYER1% an artist, this well %HISHER_OTHERPLAYER1% canvas, and an Episcopalian pamphlet, bear trap, and dildo %HISHER_OTHERPLAYER1% paints. We'll be out of here in the blink of an artistic eye!": {
+    "omitted_tokens": {
+      "%HESHE_OTHERPLAYER1%": 1,
+      "%VERB_is_are_OTHERPLAYER1%": 1,
+      "%HISHER_OTHERPLAYER1%": 2
+    },
+    "reason": "영어 성별 대명사와 동사 활용을 성별 중립 지시어와 자연스러운 한국어 서술어로 옮김."
+  },
+  "Are you kidding?! %OTHERPLAYER2% is the best-selling author of the non-fiction work \"How To Escape From A Well Using Religious Paraphenalia, Hunting Gear, and A Sex Toy!\" %HISHER_OTHERPLAYER2% moment has finally arrived!": {
+    "omitted_tokens": {
+      "%HISHER_OTHERPLAYER2%": 1
+    },
+    "reason": "영어 성별 대명사와 동사 활용을 성별 중립 지시어와 자연스러운 한국어 서술어로 옮김."
+  },
+  "So mote it be! With a flash of devilish muscle, %OTHERPLAYER1% is now free to begin %HISHER_OTHERPLAYER1% brilliant work.": {
+    "omitted_tokens": {
+      "%HISHER_OTHERPLAYER1%": 1
+    },
+    "reason": "영어 성별 대명사와 동사 활용을 성별 중립 지시어와 자연스러운 한국어 서술어로 옮김."
+  },
+  "Almost as embarrassing as %OTHERPLAYER1%'s complete failure to build anything, and %CURRENTPLAYERNAME%'s shitty life choice by picking %HIMHER_OTHERPLAYER1%.": {
+    "omitted_tokens": {
+      "%HIMHER_OTHERPLAYER1%": 1
+    },
+    "reason": "영어 성별 대명사와 동사 활용을 성별 중립 지시어와 자연스러운 한국어 서술어로 옮김."
+  },
+  "So mote it be! With a flash of devilish muscle, %OTHERPLAYER2% is now free to begin %HISHER_OTHERPLAYER2% brilliant work.": {
+    "omitted_tokens": {
+      "%HISHER_OTHERPLAYER2%": 1
+    },
+    "reason": "영어 성별 대명사와 동사 활용을 성별 중립 지시어와 자연스러운 한국어 서술어로 옮김."
+  },
+  "Almost as embarrassing as %OTHERPLAYER2%'s complete failure to build anything, and %CURRENTPLAYERNAME%'s shitty life choice by picking %HIMHER_OTHERPLAYER2%.": {
+    "omitted_tokens": {
+      "%HIMHER_OTHERPLAYER2%": 1
+    },
+    "reason": "영어 성별 대명사와 동사 활용을 성별 중립 지시어와 자연스러운 한국어 서술어로 옮김."
+  },
+  "%OTHERPLAYER2% is so incredible at the Dirty Double Dragon Dance that %HESHE_OTHERPLAYER2% won Monsters Have (Monstrous) Talent with it -- AND %HISHER_OTHERPLAYER2% partner ALSO died in a freak cougar accident, so you're perfect for each other!": {
+    "omitted_tokens": {
+      "%HESHE_OTHERPLAYER2%": 1,
+      "%HISHER_OTHERPLAYER2%": 1
+    },
+    "reason": "영어 성별 대명사와 동사 활용을 성별 중립 지시어와 자연스러운 한국어 서술어로 옮김."
+  },
+  "Are you kidding? %OTHERPLAYER1%'s middle name is \"Fun!\" And %HESHE_OTHERPLAYER1% %VERB_wasn't_weren't_OTHERPLAYER1% named after fun -- FUN was named after %HIMHER_OTHERPLAYER1%!": {
+    "omitted_tokens": {
+      "%HESHE_OTHERPLAYER1%": 1,
+      "%VERB_wasn't_weren't_OTHERPLAYER1%": 1,
+      "%HIMHER_OTHERPLAYER1%": 1
+    },
+    "reason": "영어 성별 대명사와 동사 활용을 성별 중립 지시어와 자연스러운 한국어 서술어로 옮김."
+  },
+  "%OTHERPLAYER2% once had a rager so crazy the police had to send cops mounted on horseback... and that was just %OTHERPLAYER2% going over taxes with %HISHER_OTHERPLAYER2% accountant!": {
+    "omitted_tokens": {
+      "%HISHER_OTHERPLAYER2%": 1
+    },
+    "reason": "영어 성별 대명사와 동사 활용을 성별 중립 지시어와 자연스러운 한국어 서술어로 옮김."
+  },
+  "You call %OTHERPLAYER1% and %HESHE_OTHERPLAYER1% %VERB_walks_walk_OTHERPLAYER1% in before the phone call is even finished.": {
+    "omitted_tokens": {
+      "%HESHE_OTHERPLAYER1%": 1,
+      "%VERB_walks_walk_OTHERPLAYER1%": 1
+    },
+    "reason": "영어 성별 대명사와 동사 활용을 성별 중립 지시어와 자연스러운 한국어 서술어로 옮김."
+  },
+  "Anyway. All the old people are really impressed that you know %OTHERPLAYER1% personally and have %HISHER_OTHERPLAYER1% phone number, and your potential love interests are really impressed that you impressed the old people!": {
+    "omitted_tokens": {
+      "%HISHER_OTHERPLAYER1%": 1
+    },
+    "reason": "영어 성별 대명사와 동사 활용을 성별 중립 지시어와 자연스러운 한국어 서술어로 옮김."
+  },
+  "Nope, turns out this is not how %OTHERPLAYER1%'s culture expresses fun happy party times. What actually happened is that %HISHER_OTHERPLAYER1% great-great-grandfather just died, and seeing all the old people reminded %HIMHER_OTHERPLAYER1% of that tragedy.": {
+    "omitted_tokens": {
+      "%HISHER_OTHERPLAYER1%": 1,
+      "%HIMHER_OTHERPLAYER1%": 1
+    },
+    "reason": "영어 성별 대명사와 동사 활용을 성별 중립 지시어와 자연스러운 한국어 서술어로 옮김."
+  },
+  "You call %OTHERPLAYER2% and %HESHE_OTHERPLAYER2% %VERB_walks_walk_OTHERPLAYER2% in before the phone call is even finished.": {
+    "omitted_tokens": {
+      "%HESHE_OTHERPLAYER2%": 1,
+      "%VERB_walks_walk_OTHERPLAYER2%": 1
+    },
+    "reason": "영어 성별 대명사와 동사 활용을 성별 중립 지시어와 자연스러운 한국어 서술어로 옮김."
+  },
+  "Anyway. All the old people are really impressed that you know %OTHERPLAYER2% personally and have %HISHER_OTHERPLAYER2% phone number, and your potential love interests are really impressed that you impressed the old people!": {
+    "omitted_tokens": {
+      "%HISHER_OTHERPLAYER2%": 1
+    },
+    "reason": "영어 성별 대명사와 동사 활용을 성별 중립 지시어와 자연스러운 한국어 서술어로 옮김."
+  },
+  "Nope, turns out this is not how %OTHERPLAYER2%'s culture expresses fun happy party times. What actually happened is that %HISHER_OTHERPLAYER2% great-great-grandfather just died, and seeing all the old people reminded %HIMHER_OTHERPLAYER2% of that tragedy.": {
+    "omitted_tokens": {
+      "%HISHER_OTHERPLAYER2%": 1,
+      "%HIMHER_OTHERPLAYER2%": 1
+    },
+    "reason": "영어 성별 대명사와 동사 활용을 성별 중립 지시어와 자연스러운 한국어 서술어로 옮김."
+  },
+  "%OTHERPLAYER1% was actually a pro DEATHBOWLER for a while before being banned for being \"too cool\" -- maybe now is the time for %HISHER_OTHERPLAYER1% triumphant return!": {
+    "omitted_tokens": {
+      "%HISHER_OTHERPLAYER1%": 1
+    },
+    "reason": "영어 성별 대명사와 동사 활용을 성별 중립 지시어와 자연스러운 한국어 서술어로 옮김."
+  },
+  "%OTHERPLAYER2% has never played DEATHBOWLING in %HISHER_OTHERPLAYER2% life... BUT %HESHE_OTHERPLAYER2% %VERB_owns_own_OTHERPLAYER2% the dopest pair of sunglasses you've ever seen, so that's pretty bold?": {
+    "omitted_tokens": {
+      "%HISHER_OTHERPLAYER2%": 1,
+      "%HESHE_OTHERPLAYER2%": 1,
+      "%VERB_owns_own_OTHERPLAYER2%": 1
+    },
+    "reason": "영어 성별 대명사와 동사 활용을 성별 중립 지시어와 자연스러운 한국어 서술어로 옮김."
+  },
+  "A hush falls over the bowling alley... all eyes are on %OTHERPLAYER1% as %HESHE_OTHERPLAYER1% %VERB_approaches_approach_OTHERPLAYER1% the lane.": {
+    "omitted_tokens": {
+      "%HESHE_OTHERPLAYER1%": 1,
+      "%VERB_approaches_approach_OTHERPLAYER1%": 1
+    },
+    "reason": "영어 성별 대명사와 동사 활용을 성별 중립 지시어와 자연스러운 한국어 서술어로 옮김."
+  },
+  "%OTHERPLAYER1% steps up... and DEATHBOWLS for %HISHER_OTHERPLAYER1% LIFE!": {
+    "omitted_tokens": {
+      "%HISHER_OTHERPLAYER1%": 1
+    },
+    "reason": "영어 성별 대명사와 동사 활용을 성별 중립 지시어와 자연스러운 한국어 서술어로 옮김."
+  },
+  "%HESHE_OTHERPLAYER1% successfully %VERB_chops_chop_OTHERPLAYER1% down a mighty 2000-year-old oak tree with %HISHER_OTHERPLAYER1% fingernails (fuuuck yoooou, the environment!!!).": {
+    "omitted_tokens": {
+      "%HESHE_OTHERPLAYER1%": 1,
+      "%VERB_chops_chop_OTHERPLAYER1%": 1,
+      "%HISHER_OTHERPLAYER1%": 1
+    },
+    "reason": "영어 성별 대명사와 동사 활용을 성별 중립 지시어와 자연스러운 한국어 서술어로 옮김."
+  },
+  "But RIGHT before %HESHE_OTHERPLAYER1% %VERB_gets_get_OTHERPLAYER1% to bludgeon someone in the face with a cheese grater...": {
+    "omitted_tokens": {
+      "%HESHE_OTHERPLAYER1%": 1,
+      "%VERB_gets_get_OTHERPLAYER1%": 1
+    },
+    "reason": "영어 성별 대명사와 동사 활용을 성별 중립 지시어와 자연스러운 한국어 서술어로 옮김."
+  },
+  "As Polly launches into her story, %OTHERPLAYER1%, on a DEATHBOWLING-fueled bender and unable to stop %HIMSELFHERSELF_OTHERPLAYER1%, bludgeons the bowling alley owner in the face with the cheese grater.": {
+    "omitted_tokens": {
+      "%HIMSELFHERSELF_OTHERPLAYER1%": 1
+    },
+    "reason": "영어 성별 대명사와 동사 활용을 성별 중립 지시어와 자연스러운 한국어 서술어로 옮김."
+  },
+  "A hush falls over the bowling alley... all eyes are on %OTHERPLAYER2% as %HESHE_OTHERPLAYER2% %VERB_approaches_approach_OTHERPLAYER2% the lane.": {
+    "omitted_tokens": {
+      "%HESHE_OTHERPLAYER2%": 1,
+      "%VERB_approaches_approach_OTHERPLAYER2%": 1
+    },
+    "reason": "영어 성별 대명사와 동사 활용을 성별 중립 지시어와 자연스러운 한국어 서술어로 옮김."
+  },
+  "%OTHERPLAYER2% steps up... and DEATHBOWLS for %HISHER_OTHERPLAYER2% LIFE!": {
+    "omitted_tokens": {
+      "%HISHER_OTHERPLAYER2%": 1
+    },
+    "reason": "영어 성별 대명사와 동사 활용을 성별 중립 지시어와 자연스러운 한국어 서술어로 옮김."
+  },
+  "%HESHE_OTHERPLAYER2% successfully %VERB_chops_chop_OTHERPLAYER2% down a mighty 2000-year-old oak tree with %HISHER_OTHERPLAYER2% fingernails (fuuuck yoooou, the environment!!!).": {
+    "omitted_tokens": {
+      "%HESHE_OTHERPLAYER2%": 1,
+      "%VERB_chops_chop_OTHERPLAYER2%": 1,
+      "%HISHER_OTHERPLAYER2%": 1
+    },
+    "reason": "영어 성별 대명사와 동사 활용을 성별 중립 지시어와 자연스러운 한국어 서술어로 옮김."
+  },
+  "But RIGHT before %HESHE_OTHERPLAYER2% %VERB_gets_get_OTHERPLAYER2% to bludgeon someone in the face with a cheese grater...": {
+    "omitted_tokens": {
+      "%HESHE_OTHERPLAYER2%": 1,
+      "%VERB_gets_get_OTHERPLAYER2%": 1
+    },
+    "reason": "영어 성별 대명사와 동사 활용을 성별 중립 지시어와 자연스러운 한국어 서술어로 옮김."
+  },
+  "As Polly launches into her story, %OTHERPLAYER2%, on a DEATHBOWLING-fueled bender and unable to stop %HIMSELFHERSELF_OTHERPLAYER2%, bludgeons the bowling alley owner in the face with the cheese grater.": {
+    "omitted_tokens": {
+      "%HIMSELFHERSELF_OTHERPLAYER2%": 1
+    },
+    "reason": "영어 성별 대명사와 동사 활용을 성별 중립 지시어와 자연스러운 한국어 서술어로 옮김."
+  },
+  "%OTHERPLAYER1% is your dude. %HESHE_OTHERPLAYER1% %verb_is_are_OTHERPLAYER1% the one who pioneered the idea of subway delays and then subsequently invested in cab companies, the most perfect scheme of all time.": {
+    "omitted_tokens": {
+      "%HESHE_OTHERPLAYER1%": 1,
+      "%verb_is_are_OTHERPLAYER1%": 1
+    },
+    "reason": "영어 성별 대명사와 동사 활용을 성별 중립 지시어와 자연스러운 한국어 서술어로 옮김."
+  },
+  "%OTHERPLAYER2% just inherited a bunch of money from a rich great-uncle who %HESHE_OTHERPLAYER2% didn't even speak to until %HESHE_OTHERPLAYER2% found out he was wealthy and terminally ill. Ethically questionable? Sure. Fiscally successful? Definitely.": {
+    "omitted_tokens": {
+      "%HESHE_OTHERPLAYER2%": 2
+    },
+    "reason": "영어 성별 대명사와 동사 활용을 성별 중립 지시어와 자연스러운 한국어 서술어로 옮김."
+  },
+  "You call %OTHERPLAYER1% and %HESHE_OTHERPLAYER1% %VERB_accepts_accept_OTHERPLAYER1% your offer to fund this venture.": {
+    "omitted_tokens": {
+      "%HESHE_OTHERPLAYER1%": 1,
+      "%VERB_accepts_accept_OTHERPLAYER1%": 1
+    },
+    "reason": "영어 성별 대명사와 동사 활용을 성별 중립 지시어와 자연스러운 한국어 서술어로 옮김."
+  },
+  "%HESHE_OTHERPLAYER1% %VERB_invests_invest_OTHERPLAYER1% part of %HISHER_OTHERPLAYER1% savings to hire a business consultant to help you become rich...": {
+    "omitted_tokens": {
+      "%HESHE_OTHERPLAYER1%": 1,
+      "%VERB_invests_invest_OTHERPLAYER1%": 1,
+      "%HISHER_OTHERPLAYER1%": 1
+    },
+    "reason": "영어 성별 대명사와 동사 활용을 성별 중립 지시어와 자연스러운 한국어 서술어로 옮김."
+  },
+  "Unfortunately, %HESHE_OTHERPLAYER1% %VERB_doesn't_don't_OTHERPLAYER1% have as much money as you expected.": {
+    "omitted_tokens": {
+      "%HESHE_OTHERPLAYER1%": 1,
+      "%VERB_doesn't_don't_OTHERPLAYER1%": 1
+    },
+    "reason": "영어 성별 대명사와 동사 활용을 성별 중립 지시어와 자연스러운 한국어 서술어로 옮김."
+  },
+  "So the consultant is actually a bunch of raccoons %HESHE_OTHERPLAYER1% put together inside of a business suit.": {
+    "omitted_tokens": {
+      "%HESHE_OTHERPLAYER1%": 1
+    },
+    "reason": "영어 성별 대명사와 동사 활용을 성별 중립 지시어와 자연스러운 한국어 서술어로 옮김."
+  },
+  "You call %OTHERPLAYER2% and %HESHE_OTHERPLAYER2% %VERB_accepts_accept_OTHERPLAYER2% to fund this venture.": {
+    "omitted_tokens": {
+      "%HESHE_OTHERPLAYER2%": 1,
+      "%VERB_accepts_accept_OTHERPLAYER2%": 1
+    },
+    "reason": "영어 성별 대명사와 동사 활용을 성별 중립 지시어와 자연스러운 한국어 서술어로 옮김."
+  },
+  "%HESHE_OTHERPLAYER2% %VERB_invests_invest_OTHERPLAYER2% part of %HISHER_OTHERPLAYER2% savings to hire a business consultant to help you become rich...": {
+    "omitted_tokens": {
+      "%HESHE_OTHERPLAYER2%": 1,
+      "%VERB_invests_invest_OTHERPLAYER2%": 1,
+      "%HISHER_OTHERPLAYER2%": 1
+    },
+    "reason": "영어 성별 대명사와 동사 활용을 성별 중립 지시어와 자연스러운 한국어 서술어로 옮김."
+  },
+  "Unfortunately %HESHE_OTHERPLAYER2% %VERB_doesn't_don't_OTHERPLAYER2% have as much money as you expected.": {
+    "omitted_tokens": {
+      "%HESHE_OTHERPLAYER2%": 1,
+      "%VERB_doesn't_don't_OTHERPLAYER2%": 1
+    },
+    "reason": "영어 성별 대명사와 동사 활용을 성별 중립 지시어와 자연스러운 한국어 서술어로 옮김."
+  },
+  "So the consultant is actually a bunch of raccoons %HESHE_OTHERPLAYER2% put together inside of a business suit.": {
+    "omitted_tokens": {
+      "%HESHE_OTHERPLAYER2%": 1
+    },
+    "reason": "영어 성별 대명사와 동사 활용을 성별 중립 지시어와 자연스러운 한국어 서술어로 옮김."
+  },
+  "%OTHERPLAYER2%, who told you last week that %HISHER_OTHERPLAYER2% favorite dinosaur is the diplodocus, which has something to do with diplomacy, right? Fuck, you really have no idea what diplomacy is about. But the diplodocus thing should count!": {
+    "omitted_tokens": {
+      "%HISHER_OTHERPLAYER2%": 1
+    },
+    "reason": "영어 성별 대명사와 동사 활용을 성별 중립 지시어와 자연스러운 한국어 서술어로 옮김."
+  },
+  "You call %OTHERPLAYER1% and in a matter of minutes %HESHE_OTHERPLAYER1% %verb_is_are_OTHERPLAYER1% there ready to help you. Whoa, %VERB_DOESN'T_DON'T_OTHERPLAYER1% %HESHE_OTHERPLAYER1% have a life or something outside of trying to please your classmates? Weird!": {
+    "omitted_tokens": {
+      "%HESHE_OTHERPLAYER1%": 2,
+      "%verb_is_are_OTHERPLAYER1%": 1,
+      "%VERB_DOESN'T_DON'T_OTHERPLAYER1%": 1
+    },
+    "reason": "영어 성별 대명사와 동사 활용을 성별 중립 지시어와 자연스러운 한국어 서술어로 옮김."
+  },
+  "%HESHE_OTHERPLAYER1% then %VERB_sits_sit_OTHERPLAYER1% and %VERB_starts_start_OTHERPLAYER1% a conversation with the spiders.": {
+    "omitted_tokens": {
+      "%HESHE_OTHERPLAYER1%": 1,
+      "%VERB_sits_sit_OTHERPLAYER1%": 1,
+      "%VERB_starts_start_OTHERPLAYER1%": 1
+    },
+    "reason": "영어 성별 대명사와 동사 활용을 성별 중립 지시어와 자연스러운 한국어 서술어로 옮김."
+  },
+  "When the fuck did %OTHERPLAYER1% write this? %VERB_Has_have_OTHERPLAYER1% %HESHE_OTHERPLAYER1% been waiting for this moment all %HISHER_OTHERPLAYER1% life?": {
+    "omitted_tokens": {
+      "%VERB_Has_have_OTHERPLAYER1%": 1,
+      "%HESHE_OTHERPLAYER1%": 1,
+      "%HISHER_OTHERPLAYER1%": 1
+    },
+    "reason": "영어 성별 대명사와 동사 활용을 성별 중립 지시어와 자연스러운 한국어 서술어로 옮김."
+  },
+  "Your three classmates seem to be impressed, both by %OTHERPLAYER1%'s diplomatic skills and by your skill in calling %HIMHER_OTHERPLAYER1% on the phone. Great! You both gain +2 FUN and +1 SMARTS.": {
+    "omitted_tokens": {
+      "%HIMHER_OTHERPLAYER1%": 1
+    },
+    "reason": "영어 성별 대명사와 동사 활용을 성별 중립 지시어와 자연스러운 한국어 서술어로 옮김."
+  },
+  "%HESHE_OTHERPLAYER1% %verb_is_are_OTHERPLAYER1% just yelling at the spiders. We already did that!": {
+    "omitted_tokens": {
+      "%HESHE_OTHERPLAYER1%": 1,
+      "%verb_is_are_OTHERPLAYER1%": 1
+    },
+    "reason": "영어 성별 대명사와 동사 활용을 성별 중립 지시어와 자연스러운 한국어 서술어로 옮김."
+  },
+  "Unfortunately, the difference in sizes means that %OTHERPLAYER1% has just crushed the leader of the spiders in %HISHER_OTHERPLAYER1% hand.": {
+    "omitted_tokens": {
+      "%HISHER_OTHERPLAYER1%": 1
+    },
+    "reason": "영어 성별 대명사와 동사 활용을 성별 중립 지시어와 자연스러운 한국어 서술어로 옮김."
+  },
+  "You call %OTHERPLAYER2% and in a matter of minutes %HESHE_OTHERPLAYER2% %verb_is_are_OTHERPLAYER2% there ready to help you. Whoa, %VERB_DOESN'T_DON'T_OTHERPLAYER2% %HESHE_OTHERPLAYER2% have a life or something outside of trying to please your classmates? Weird!": {
+    "omitted_tokens": {
+      "%HESHE_OTHERPLAYER2%": 2,
+      "%verb_is_are_OTHERPLAYER2%": 1,
+      "%VERB_DOESN'T_DON'T_OTHERPLAYER2%": 1
+    },
+    "reason": "영어 성별 대명사와 동사 활용을 성별 중립 지시어와 자연스러운 한국어 서술어로 옮김."
+  },
+  "%HESHE_OTHERPLAYER2% then %VERB_sits_sit_OTHERPLAYER2% and %VERB_starts_start_OTHERPLAYER2% a conversation with the spiders.": {
+    "omitted_tokens": {
+      "%HESHE_OTHERPLAYER2%": 1,
+      "%VERB_sits_sit_OTHERPLAYER2%": 1,
+      "%VERB_starts_start_OTHERPLAYER2%": 1
+    },
+    "reason": "영어 성별 대명사와 동사 활용을 성별 중립 지시어와 자연스러운 한국어 서술어로 옮김."
+  },
+  "When the fuck did %OTHERPLAYER2% write this? %VERB_Has_have_OTHERPLAYER2% %HESHE_OTHERPLAYER2% been waiting for this moment all %HISHER_OTHERPLAYER2% life?": {
+    "omitted_tokens": {
+      "%VERB_Has_have_OTHERPLAYER2%": 1,
+      "%HESHE_OTHERPLAYER2%": 1,
+      "%HISHER_OTHERPLAYER2%": 1
+    },
+    "reason": "영어 성별 대명사와 동사 활용을 성별 중립 지시어와 자연스러운 한국어 서술어로 옮김."
+  },
+  "Your three classmates seem to be impressed, both by %OTHERPLAYER2%'s diplomatic skills and by your skill in calling %HIMHER_OTHERPLAYER2% on the phone. Great! You both gain +2 FUN and +1 SMARTS.": {
+    "omitted_tokens": {
+      "%HIMHER_OTHERPLAYER2%": 1
+    },
+    "reason": "영어 성별 대명사와 동사 활용을 성별 중립 지시어와 자연스러운 한국어 서술어로 옮김."
+  },
+  "%HESHE_OTHERPLAYER2% %verb_is_are_OTHERPLAYER2% just yelling at the spiders. We already did that!": {
+    "omitted_tokens": {
+      "%HESHE_OTHERPLAYER2%": 1,
+      "%verb_is_are_OTHERPLAYER2%": 1
+    },
+    "reason": "영어 성별 대명사와 동사 활용을 성별 중립 지시어와 자연스러운 한국어 서술어로 옮김."
+  },
+  "Unfortunately, the difference in sizes means that %OTHERPLAYER2% has just crushed the leader of the spiders in %HISHER_OTHERPLAYER2% hand.": {
+    "omitted_tokens": {
+      "%HISHER_OTHERPLAYER2%": 1
+    },
+    "reason": "영어 성별 대명사와 동사 활용을 성별 중립 지시어와 자연스러운 한국어 서술어로 옮김."
+  }
+}

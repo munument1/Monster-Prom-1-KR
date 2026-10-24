@@ -1,0 +1,249 @@
+{
+  "revision": "library_images_v13b",
+  "patches": [
+    {
+      "file": "resources.assets",
+      "texture_id": 380,
+      "source": "artwork/ui/generated/poker_ko_v13b.png",
+      "baseline": "backup/before_library_images_v13/resources.assets",
+      "placements": [
+        {
+          "source_box": [
+            332,
+            621,
+            1006,
+            905
+          ],
+          "target_box": [
+            310,
+            580,
+            940,
+            845
+          ],
+          "preserve_target_alpha": true
+        },
+        {
+          "source_box": [
+            385,
+            905,
+            953,
+            1103
+          ],
+          "target_box": [
+            360,
+            845,
+            890,
+            1030
+          ],
+          "preserve_target_alpha": true
+        }
+      ]
+    },
+    {
+      "file": "resources.assets",
+      "texture_id": 1012,
+      "source": "artwork/ui/generated/poker_ko_v13b.png",
+      "baseline": "backup/before_library_images_v13/resources.assets",
+      "placements": [
+        {
+          "source_box": [
+            332,
+            621,
+            1006,
+            905
+          ],
+          "target_box": [
+            310,
+            580,
+            940,
+            845
+          ],
+          "preserve_target_alpha": true
+        },
+        {
+          "source_box": [
+            385,
+            905,
+            953,
+            1103
+          ],
+          "target_box": [
+            360,
+            845,
+            890,
+            1030
+          ],
+          "preserve_target_alpha": true
+        }
+      ]
+    },
+    {
+      "file": "resources.assets",
+      "texture_id": 1724,
+      "source": "artwork/ui/generated/poker_ko_v13b.png",
+      "baseline": "backup/before_library_images_v13/resources.assets",
+      "placements": [
+        {
+          "source_box": [
+            332,
+            621,
+            1006,
+            905
+          ],
+          "target_box": [
+            310,
+            580,
+            940,
+            845
+          ],
+          "preserve_target_alpha": true
+        },
+        {
+          "source_box": [
+            385,
+            905,
+            953,
+            1103
+          ],
+          "target_box": [
+            360,
+            845,
+            890,
+            1030
+          ],
+          "preserve_target_alpha": true
+        }
+      ]
+    },
+    {
+      "file": "resources.assets",
+      "texture_id": 1784,
+      "source": "artwork/ui/generated/poker_ko_v13b.png",
+      "baseline": "backup/before_library_images_v13/resources.assets",
+      "placements": [
+        {
+          "source_box": [
+            332,
+            621,
+            1006,
+            905
+          ],
+          "target_box": [
+            310,
+            580,
+            940,
+            845
+          ],
+          "preserve_target_alpha": true
+        },
+        {
+          "source_box": [
+            385,
+            905,
+            953,
+            1103
+          ],
+          "target_box": [
+            360,
+            845,
+            890,
+            1030
+          ],
+          "preserve_target_alpha": true
+        }
+      ]
+    },
+    {
+      "file": "resources.assets",
+      "texture_id": 1008,
+      "source": "artwork/ui/generated/bitcoin_caption_ko_v13b.png",
+      "baseline": "backup/before_library_images_v13/resources.assets",
+      "placements": [
+        {
+          "source_box": [
+            16,
+            1055,
+            557,
+            1141
+          ],
+          "target_box": [
+            15,
+            985,
+            520,
+            1066
+          ],
+          "preserve_target_alpha": true
+        }
+      ]
+    },
+    {
+      "file": "resources.assets",
+      "texture_id": 1094,
+      "source": "artwork/ui/generated/bitcoin_caption_ko_v13b.png",
+      "baseline": "backup/before_library_images_v13/resources.assets",
+      "placements": [
+        {
+          "source_box": [
+            16,
+            1055,
+            557,
+            1141
+          ],
+          "target_box": [
+            15,
+            985,
+            520,
+            1066
+          ],
+          "preserve_target_alpha": true
+        }
+      ]
+    },
+    {
+      "file": "resources.assets",
+      "texture_id": 1194,
+      "source": "artwork/ui/generated/bitcoin_caption_ko_v13b.png",
+      "baseline": "backup/before_library_images_v13/resources.assets",
+      "placements": [
+        {
+          "source_box": [
+            16,
+            1055,
+            557,
+            1141
+          ],
+          "target_box": [
+            15,
+            985,
+            520,
+            1066
+          ],
+          "preserve_target_alpha": true
+        }
+      ]
+    },
+    {
+      "file": "resources.assets",
+      "texture_id": 1688,
+      "source": "artwork/ui/generated/bitcoin_caption_ko_v13b.png",
+      "baseline": "backup/before_library_images_v13/resources.assets",
+      "placements": [
+        {
+          "source_box": [
+            16,
+            1055,
+            557,
+            1141
+          ],
+          "target_box": [
+            15,
+            985,
+            520,
+            1066
+          ],
+          "preserve_target_alpha": true
+        }
+      ]
+    }
+  ]
+}

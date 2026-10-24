@@ -1,0 +1,14 @@
+{
+  "Great move, boo! Also, a girl can't resist someone who does %HISHER% homework when it comes to orgies!": {
+    "omitted_tokens": {
+      "%HISHER%": 1
+    },
+    "reason": "영어 성별 대명사 또는 동사 활용 대신 한국어의 중립 지시어·문맥상 생략·한국어 서술어를 사용해 자연스럽게 표현함."
+  },
+  "I invite you to calculate costs and benefits and tell me which is best for you, %MRMRS% Practical Application.": {
+    "omitted_tokens": {
+      "%MRMRS%": 1
+    },
+    "reason": "영어 성별 대명사 또는 동사 활용 대신 한국어의 중립 지시어·문맥상 생략·한국어 서술어를 사용해 자연스럽게 표현함."
+  }
+}

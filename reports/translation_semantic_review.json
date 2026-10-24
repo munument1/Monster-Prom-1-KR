@@ -165,5 +165,15 @@
     },
     "term_correction": "곰인간 청소부 미친 마틴 → 곰인간 관리인 미치광이 마틴 (2 occurrences)",
     "limitation": "Sampled review; not a complete independent review of every sentence"
+  },
+  "additional_review_json_009_011": {
+    "method": "Parent sampled choices and dispersed narrative entries from jobs 009, 010 and 011",
+    "correction": {
+      "file": "story_261_976_011_ko.json",
+      "english": "Yeah! Fuck whatever Liam said!",
+      "korean": "그래! 리암이 한 말 따윈 엿 먹으라 그래!",
+      "reason": "Natural Korean phrasing; kept profanity and dismissive meaning."
+    },
+    "limitation": "Sampled review, not independent review of every sentence"
   }
 }

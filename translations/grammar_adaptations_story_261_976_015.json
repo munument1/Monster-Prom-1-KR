@@ -1,0 +1,152 @@
+{
+  "But Damien... you can't deny %HESHE% %VERB_IS_ARE% actually moving!": {
+    "omitted_tokens": {
+      "%HESHE%": 1,
+      "%VERB_IS_ARE%": 1
+    },
+    "reason": "영어 성별 대명사와 동사 활용을 성별 중립 지시어와 자연스러운 한국어 서술어로 옮김."
+  },
+  "Yeah, and quite the moves %HESHE% %VERB_HAS_HAVE%.": {
+    "omitted_tokens": {
+      "%HESHE%": 1,
+      "%VERB_HAS_HAVE%": 1
+    },
+    "reason": "영어 성별 대명사와 동사 활용을 성별 중립 지시어와 자연스러운 한국어 서술어로 옮김."
+  },
+  "Not paying any kind of attention... but we all agree %HESHE% %VERB_IS_ARE% lame, right?": {
+    "omitted_tokens": {
+      "%HESHE%": 1,
+      "%VERB_IS_ARE%": 1
+    },
+    "reason": "영어 성별 대명사와 동사 활용을 성별 중립 지시어와 자연스러운 한국어 서술어로 옮김."
+  },
+  "I think our classmate here has tried to eat the banana... but %HESHE% somehow failed.": {
+    "omitted_tokens": {
+      "%HESHE%": 1
+    },
+    "reason": "영어 성별 대명사와 동사 활용을 성별 중립 지시어와 자연스러운 한국어 서술어로 옮김."
+  },
+  "I love how %CURRENTPLAYERNAME% is displaying %HISHER% wealth in such a festive manner!": {
+    "omitted_tokens": {
+      "%HISHER%": 1
+    },
+    "reason": "영어 성별 대명사와 동사 활용을 성별 중립 지시어와 자연스러운 한국어 서술어로 옮김."
+  },
+  "And %HESHE% %VERB_IS_ARE% so generous too!": {
+    "omitted_tokens": {
+      "%HESHE%": 1,
+      "%VERB_IS_ARE%": 1
+    },
+    "reason": "영어 성별 대명사와 동사 활용을 성별 중립 지시어와 자연스러운 한국어 서술어로 옮김."
+  },
+  "We can't ignore the strength and finesse involved such skillful rain-making. %HISHER% arms are like powerful, elegant machines.": {
+    "omitted_tokens": {
+      "%HISHER%": 1
+    },
+    "reason": "영어 성별 대명사와 동사 활용을 성별 중립 지시어와 자연스러운 한국어 서술어로 옮김."
+  },
+  "I mean, %CURRENTPLAYERNAME%'s been helping you with this personal issue of yours in a selfless way. I'm sure %HESHE% %VERB_HAS_HAVE% grown on you.": {
+    "omitted_tokens": {
+      "%HESHE%": 1,
+      "%VERB_HAS_HAVE%": 1
+    },
+    "reason": "영어 성별 대명사와 동사 활용을 성별 중립 지시어와 자연스러운 한국어 서술어로 옮김."
+  },
+  "Of course I'm right! And I'll shoot %HIMHER% in the head unless you get better at hairstyling and makeup!": {
+    "omitted_tokens": {
+      "%HIMHER%": 1
+    },
+    "reason": "영어 성별 대명사와 동사 활용을 성별 중립 지시어와 자연스러운 한국어 서술어로 옮김."
+  },
+  "I mean, %CURRENTPLAYERNAME% has been helping you with this personal issue of yours in a selfless way. I'm sure %HESHE% %VERB_HAS_HAVE% grown on you.": {
+    "omitted_tokens": {
+      "%HESHE%": 1,
+      "%VERB_HAS_HAVE%": 1
+    },
+    "reason": "영어 성별 대명사와 동사 활용을 성별 중립 지시어와 자연스러운 한국어 서술어로 옮김."
+  },
+  "Yeah, sure... but I dunno... %HESHE% %verb_is_are% kinda okay I guess, but I'm not that into %HIMHER%. We're not even that close of friends, you know? %HESHE% has this weird thing...": {
+    "omitted_tokens": {
+      "%HESHE%": 2,
+      "%verb_is_are%": 1,
+      "%HIMHER%": 1
+    },
+    "reason": "영어 성별 대명사와 동사 활용을 성별 중립 지시어와 자연스러운 한국어 서술어로 옮김."
+  },
+  "Oh, yeah, you mean how %HISHER% actions always seem a bit artificial, as though %HESHE% were controlled by someone else?": {
+    "omitted_tokens": {
+      "%HISHER%": 1,
+      "%HESHE%": 1
+    },
+    "reason": "영어 성별 대명사와 동사 활용을 성별 중립 지시어와 자연스러운 한국어 서술어로 옮김."
+  },
+  "I was talking about %HISHER% funky smell. It stops me from enjoying %HISHER% company very much.": {
+    "omitted_tokens": {
+      "%HISHER%": 2
+    },
+    "reason": "영어 성별 대명사와 동사 활용을 성별 중립 지시어와 자연스러운 한국어 서술어로 옮김."
+  },
+  "Ah, yes, yes. The smell of someone who seems to focus %HISHER% entire life on the romantic pursuit of %HISHER% classmates, leaving no room for stuff like... taking a shower.": {
+    "omitted_tokens": {
+      "%HISHER%": 2
+    },
+    "reason": "영어 성별 대명사와 동사 활용을 성별 중립 지시어와 자연스러운 한국어 서술어로 옮김."
+  },
+  "At least now that smell is covered by the smell of %HISHER% blood. It's kind of an improvement actually.": {
+    "omitted_tokens": {
+      "%HISHER%": 1
+    },
+    "reason": "영어 성별 대명사와 동사 활용을 성별 중립 지시어와 자연스러운 한국어 서술어로 옮김."
+  },
+  "Anyway, we're here to help me become a better hairstylist, not to solve %CURRENTPLAYERNAME%'s hygiene issues. So selfish, always making everything about %HIMHER%.": {
+    "omitted_tokens": {
+      "%HIMHER%": 1
+    },
+    "reason": "영어 성별 대명사와 동사 활용을 성별 중립 지시어와 자연스러운 한국어 서술어로 옮김."
+  },
+  "I think %HESHE% meant for you to do a makeover using tools they understand... not patricide.": {
+    "omitted_tokens": {
+      "%HESHE%": 1
+    },
+    "reason": "영어 성별 대명사와 동사 활용을 성별 중립 지시어와 자연스러운 한국어 서술어로 옮김."
+  },
+  "Yeah, %CURRENTPLAYERNAME% seems legit, I'm sure %HESHE% can totally upgrade your sword.": {
+    "omitted_tokens": {
+      "%HESHE%": 1
+    },
+    "reason": "영어 성별 대명사와 동사 활용을 성별 중립 지시어와 자연스러운 한국어 서술어로 옮김."
+  },
+  "Yeah, %HESHE% ain't bad at all.": {
+    "omitted_tokens": {
+      "%HESHE%": 1
+    },
+    "reason": "영어 성별 대명사와 동사 활용을 성별 중립 지시어와 자연스러운 한국어 서술어로 옮김."
+  },
+  "What %VERB_IS_ARE% %HESHE% doing?": {
+    "omitted_tokens": {
+      "%VERB_IS_ARE%": 1,
+      "%HESHE%": 1
+    },
+    "reason": "영어 성별 대명사와 동사 활용을 성별 중립 지시어와 자연스러운 한국어 서술어로 옮김."
+  },
+  "I think %HESHE% might be working %HISHER% magic... or something?": {
+    "omitted_tokens": {
+      "%HESHE%": 1,
+      "%HISHER%": 1
+    },
+    "reason": "영어 성별 대명사와 동사 활용을 성별 중립 지시어와 자연스러운 한국어 서술어로 옮김."
+  },
+  "It seems like %HESHE% %verb_is_are% duct taping my sword to something.": {
+    "omitted_tokens": {
+      "%HESHE%": 1,
+      "%verb_is_are%": 1
+    },
+    "reason": "영어 성별 대명사와 동사 활용을 성별 중립 지시어와 자연스러운 한국어 서술어로 옮김."
+  },
+  "%HESHE% might well be!": {
+    "omitted_tokens": {
+      "%HESHE%": 1
+    },
+    "reason": "영어 성별 대명사와 동사 활용을 성별 중립 지시어와 자연스러운 한국어 서술어로 옮김."
+  }
+}

@@ -1,0 +1,1 @@
+Edit this Monster Prom game texture. Replace ONLY lettering Kiss the COOK on lower-left cook apron with Korean "요리사에게\n뽀뽀를!". Use same low-contrast dusty rose hand-lettering, matching original pink monochrome palette exactly. Keep creature, apron seams, countertop, pattern, texture and every unrelated detail unchanged. Same canvas.

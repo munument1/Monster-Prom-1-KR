@@ -1,0 +1,1 @@
+Edit this Monster Prom game texture. Translate ONLY the lettering PROM KING printed diagonally on the blue sash into Korean "프롬 킹", white hand-painted letters following exactly the same diagonal blue sash. Where hands overlap text preserve fingers over lettering. Do not change character, clothes, balloons, bouquet, pose or colors. Same full canvas.

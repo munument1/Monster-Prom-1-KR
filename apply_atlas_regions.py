@@ -21,6 +21,12 @@ def main():
   e=UnityPy.load(str(GAME_DATA/fn));objects={o.path_id:o for o in e.objects};original={pid:o.get_raw_data() for pid,o in objects.items()};expected={};images={}
   for item in items:
    pid=item['texture_id'];o=objects[pid];assert o.type.name=='Texture2D';d=o.read();canvas=d.image.convert('RGBA');source=(BASE/item['source']).resolve();assert source.is_relative_to(BASE)
+   if item.get('baseline'):
+    baseline=(BASE/item['baseline']).resolve();assert baseline.is_relative_to(BASE/'backup') and baseline.name==fn
+    reference=UnityPy.load(str(baseline));reference_objects={x.path_id:x for x in reference.objects}
+    if (GAME_DATA/(fn+'.resS')).exists():reference.load_file(str(GAME_DATA/(fn+'.resS')))
+    restored=reference_objects[pid].read().image.convert('RGBA');assert restored.size==canvas.size
+    canvas=restored
    source_image=Image.open(source).convert('RGBA')
    generated=source_image.resize(canvas.size,Image.Resampling.LANCZOS)
    def valid_box(box,size):

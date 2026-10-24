@@ -1,0 +1,1 @@
+Edit this Monster Prom game texture. Replace ONLY the big white PRANK MASTERZ! lettering across the upper third with exact Korean "장난의 달인들!" in the same dynamic rough white brush lettering. Keep text above characters, original orange fire-like textured backdrop, entire characters, all lines and composition unchanged. Same full-image aspect ratio.

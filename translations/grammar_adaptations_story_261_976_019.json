@@ -1,0 +1,14 @@
+{
+  "AW MAN, NO FAIR! %HESHE% ate the contract before we even got STARTED!": {
+    "omitted_tokens": {
+      "%HESHE%": 1
+    },
+    "reason": "English grammatical pronouns and verb conjugations are rendered as natural gender-neutral Korean wording."
+  },
+  "See?! Even %CURRENTPLAYERNAME%, a sensible monster with a good head on %HISHER% shoulders and at least some +SMARTS, is reading MONSTER magazine.": {
+    "omitted_tokens": {
+      "%HISHER%": 1
+    },
+    "reason": "English grammatical pronouns and verb conjugations are rendered as natural gender-neutral Korean wording."
+  }
+}

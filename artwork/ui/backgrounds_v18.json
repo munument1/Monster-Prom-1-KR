@@ -1,0 +1,310 @@
+{
+  "revision": "backgrounds_v18",
+  "patches": [
+    {
+      "file": "resources.assets",
+      "texture_id": 659,
+      "source": "artwork/ui/generated/cafeteria18.png",
+      "placements": [
+        {
+          "source_box": [
+            166,
+            733,
+            359,
+            862
+          ],
+          "target_box": [
+            155,
+            685,
+            335,
+            805
+          ],
+          "preserve_target_alpha": true
+        }
+      ]
+    },
+    {
+      "file": "resources.assets",
+      "texture_id": 775,
+      "source": "artwork/ui/generated/bathroom18.png",
+      "placements": [
+        {
+          "source_box": [
+            27,
+            321,
+            310,
+            444
+          ],
+          "target_box": [
+            25,
+            300,
+            290,
+            415
+          ],
+          "preserve_target_alpha": true
+        },
+        {
+          "source_box": [
+            1028,
+            578,
+            1226,
+            648
+          ],
+          "target_box": [
+            960,
+            540,
+            1145,
+            605
+          ],
+          "preserve_target_alpha": true
+        },
+        {
+          "source_box": [
+            37,
+            894,
+            305,
+            1022
+          ],
+          "target_box": [
+            35,
+            835,
+            285,
+            955
+          ],
+          "preserve_target_alpha": true
+        },
+        {
+          "source_box": [
+            1092,
+            980,
+            1311,
+            1079
+          ],
+          "target_box": [
+            1020,
+            915,
+            1225,
+            1008
+          ],
+          "preserve_target_alpha": true
+        },
+        {
+          "source_box": [
+            1081,
+            1103,
+            1338,
+            1152
+          ],
+          "target_box": [
+            1010,
+            1030,
+            1250,
+            1076
+          ],
+          "preserve_target_alpha": true
+        }
+      ]
+    },
+    {
+      "file": "resources.assets",
+      "texture_id": 603,
+      "source": "artwork/ui/generated/city18.png",
+      "placements": [
+        {
+          "source_box": [
+            956,
+            327,
+            1007,
+            556
+          ],
+          "target_box": [
+            1098,
+            375,
+            1156,
+            638
+          ],
+          "preserve_target_alpha": true
+        },
+        {
+          "source_box": [
+            1019,
+            139,
+            1071,
+            244
+          ],
+          "target_box": [
+            1170,
+            160,
+            1230,
+            280
+          ],
+          "preserve_target_alpha": true
+        },
+        {
+          "source_box": [
+            1106,
+            462,
+            1276,
+            536
+          ],
+          "target_box": [
+            1270,
+            530,
+            1465,
+            615
+          ],
+          "preserve_target_alpha": true
+        },
+        {
+          "source_box": [
+            492,
+            558,
+            579,
+            601
+          ],
+          "target_box": [
+            565,
+            640,
+            665,
+            690
+          ],
+          "preserve_target_alpha": true
+        },
+        {
+          "source_box": [
+            588,
+            536,
+            648,
+            588
+          ],
+          "target_box": [
+            675,
+            615,
+            744,
+            675
+          ],
+          "preserve_target_alpha": true
+        },
+        {
+          "source_box": [
+            652,
+            566,
+            703,
+            588
+          ],
+          "target_box": [
+            749,
+            650,
+            807,
+            675
+          ],
+          "preserve_target_alpha": true
+        },
+        {
+          "source_box": [
+            1245,
+            684,
+            1300,
+            716
+          ],
+          "target_box": [
+            1430,
+            785,
+            1493,
+            822
+          ],
+          "preserve_target_alpha": true
+        },
+        {
+          "source_box": [
+            1424,
+            714,
+            1537,
+            775
+          ],
+          "target_box": [
+            1635,
+            819,
+            1765,
+            890
+          ],
+          "preserve_target_alpha": true
+        }
+      ]
+    },
+    {
+      "file": "sharedassets2.assets",
+      "texture_id": 13,
+      "source": "artwork/ui/generated/prologue_banner18.png",
+      "placements": [
+        {
+          "source_box": [
+            183,
+            35,
+            1515,
+            202
+          ],
+          "target_box": [
+            210,
+            40,
+            1740,
+            232
+          ],
+          "preserve_target_alpha": true
+        }
+      ]
+    },
+    {
+      "file": "sharedassets2.assets",
+      "texture_id": 18,
+      "source": "artwork/ui/generated/prologue_school18.png",
+      "placements": [
+        {
+          "source_box": [
+            109,
+            798,
+            231,
+            919
+          ],
+          "target_box": [
+            125,
+            916,
+            265,
+            1055
+          ],
+          "preserve_target_alpha": true
+        },
+        {
+          "source_box": [
+            1116,
+            875,
+            1258,
+            941
+          ],
+          "target_box": [
+            1282,
+            1004,
+            1445,
+            1080
+          ],
+          "preserve_target_alpha": true
+        },
+        {
+          "source_box": [
+            1298,
+            762,
+            1546,
+            941
+          ],
+          "target_box": [
+            1490,
+            875,
+            1775,
+            1080
+          ],
+          "preserve_target_alpha": true
+        }
+      ]
+    }
+  ]
+}

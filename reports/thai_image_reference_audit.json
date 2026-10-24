@@ -12,7 +12,7 @@
     {
       "english_texture_id": 104,
       "name": "MPF_promo_button",
-      "status": "pending localization review"
+      "status": "applied v12b"
     },
     {
       "english_texture_id": 146,
@@ -32,17 +32,17 @@
     {
       "english_texture_id": 283,
       "name": "InfoSheet_MonsterRoadtrip",
-      "status": "pending localization review"
+      "status": "applied v12b"
     },
     {
       "english_texture_id": 349,
       "name": "InfoSheet_Camp",
-      "status": "pending localization review"
+      "status": "applied v12b"
     },
     {
       "english_texture_id": 486,
       "name": "MR_promo_button",
-      "status": "pending localization review"
+      "status": "applied v12b"
     },
     {
       "english_texture_id": 1555,
@@ -62,12 +62,12 @@
     {
       "english_texture_id": 895,
       "name": "polaroid14_pm",
-      "status": "pending localization review"
+      "status": "applied v15"
     },
     {
       "english_texture_id": 1092,
       "name": "MC_promo_button",
-      "status": "pending localization review"
+      "status": "applied v12b"
     },
     {
       "english_texture_id": 898,
@@ -77,27 +77,27 @@
     {
       "english_texture_id": 1363,
       "name": "0_pm",
-      "status": "pending localization review"
+      "status": "applied v15b"
     },
     {
       "english_texture_id": 1358,
       "name": "14_pm",
-      "status": "pending localization review"
+      "status": "applied v15"
     },
     {
       "english_texture_id": 224,
       "name": "logo",
-      "status": "previous logo work or non-English slot"
+      "status": "applied original logo localization"
     },
     {
       "english_texture_id": 1802,
       "name": "0",
-      "status": "pending localization review"
+      "status": "applied v15b"
     },
     {
       "english_texture_id": 340,
       "name": "notebook",
-      "status": "pending localization review"
+      "status": "applied v13"
     },
     {
       "english_texture_id": 1002,
@@ -107,8 +107,10 @@
     {
       "english_texture_id": 1865,
       "name": "logo_small_CH",
-      "status": "previous logo work or non-English slot"
+      "status": "Chinese-language logo; English-slot logo localized separately"
     }
   ],
-  "limitation": "Changed textures are not equivalent to remaining translatable images; additional English atlases require separate inspection."
+  "limitation": "Changed textures are not equivalent to remaining translatable images; additional English atlases require separate inspection.",
+  "cached_readable_english_targets_pending": 0,
+  "game_screen_check": "pending user"
 }

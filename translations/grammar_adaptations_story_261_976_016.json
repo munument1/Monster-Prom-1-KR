@@ -1,0 +1,43 @@
+{
+  "Oh, that's so cool of %currentplayername%. But listen, girls, I was about to invite %himher% to binge-watching some TV shows together. Things might even get a little handsy. Would that be OK?": {
+    "omitted_tokens": {
+      "%himher%": 1
+    },
+    "reason": "English grammatical pronouns and verb conjugations are rendered as natural gender-neutral Korean wording."
+  },
+  "No, Val, sorry! If %heshe% breaks character the audience could have their suspension of disbelief broken. From now on %currentplayername% should only do whatever an \"Evil Faith\" do.": {
+    "omitted_tokens": {
+      "%heshe%": 1
+    },
+    "reason": "English grammatical pronouns and verb conjugations are rendered as natural gender-neutral Korean wording."
+  },
+  "I am... underwhelmed by %HISHER% lack of interest in saving you.": {
+    "omitted_tokens": {
+      "%HISHER%": 1
+    },
+    "reason": "English grammatical pronouns and verb conjugations are rendered as natural gender-neutral Korean wording."
+  },
+  "And seeing such disinterest by %HESHE% who %VERB_WAS_WERE% supposed to be your suitor... what a turn-off!": {
+    "omitted_tokens": {
+      "%HESHE%": 1,
+      "%VERB_WAS_WERE%": 1
+    },
+    "reason": "English grammatical pronouns and verb conjugations are rendered as natural gender-neutral Korean wording."
+  },
+  "Well, if %HESHE% %VERB_WANTS_WANT% to sit with us, %HESHE% %verb_is_are% going to have to prove %HESHE% %VERB_IS_ARE% as cool as we are.": {
+    "omitted_tokens": {
+      "%HESHE%": 3,
+      "%VERB_WANTS_WANT%": 1,
+      "%verb_is_are%": 1,
+      "%VERB_IS_ARE%": 1
+    },
+    "reason": "English grammatical pronouns and verb conjugations are rendered as natural gender-neutral Korean wording."
+  },
+  "It's not. %HESHE% %verb_is_are% just gonna grab someone's phone, and --": {
+    "omitted_tokens": {
+      "%HESHE%": 1,
+      "%verb_is_are%": 1
+    },
+    "reason": "English grammatical pronouns and verb conjugations are rendered as natural gender-neutral Korean wording."
+  }
+}

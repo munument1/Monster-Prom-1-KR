@@ -1,0 +1,16 @@
+{
+  "This sounds much more satisfactory! Let's go read them right now, without %CURRENTPLAYERNAME%, since %HESHE% %VERB_FEELS_FEEL% it is acceptable to shame the natural biological processes of many species.": {
+    "omitted_tokens": {
+      "%HESHE%": 1,
+      "%VERB_FEELS_FEEL%": 1
+    },
+    "reason": "English grammatical pronouns and verb conjugations are rendered as natural gender-neutral Korean wording."
+  },
+  "Ooh! Ooh! That would be %CURRENTPLAYERNAME%! %HESHE% %VERB_WAS_WERE% doing calculations to find Calculester's one true love -": {
+    "omitted_tokens": {
+      "%HESHE%": 1,
+      "%VERB_WAS_WERE%": 1
+    },
+    "reason": "English grammatical pronouns and verb conjugations are rendered as natural gender-neutral Korean wording."
+  }
+}

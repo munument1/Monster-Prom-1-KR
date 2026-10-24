@@ -5,6 +5,7 @@ import UnityPy
 from config import GAME_DATA
 from unity_support import generator
 from validate_translation_catalog import validate_catalog
+from translation_snapshot import save_installed
 BASE=Path(__file__).parent
 def sha(p):return hashlib.sha256(p.read_bytes()).hexdigest()
 def readrows(name):return [json.loads(l) for l in (BASE/'extracted'/name).read_text(encoding='utf-8').splitlines()]
@@ -73,5 +74,6 @@ def main():
  summary={'unique_translations':len(tr),'localized_dictionary_matches':sum(r['english'] in tr for r in rows),'prologue_matches':sum(r['file']=='level2' and r['english'] in tr for r in rows),'ui_table_matches':sum(r['english'] in tr for r in ui),'scene_label_matches':sum(r['english'] in tr or r['english'].replace('\n','[n]') in tr for r in labels),'changed_files':len(records),'translated_occurrences_in_changed_files':occurrences,'tag_variable_validation':'passed','visual_verification':'pending user'}
  (BASE/'reports'/(args.batch+'.json')).write_text(json.dumps(summary,ensure_ascii=False,indent=2),encoding='utf-8')
  (stage/'verification.json').write_text(json.dumps({'summary':summary,'files':records},ensure_ascii=False,indent=2),encoding='utf-8')
+ save_installed(BASE,args.batch,tr,validation)
  print(json.dumps(summary,ensure_ascii=False,indent=2))
 if __name__=='__main__':main()

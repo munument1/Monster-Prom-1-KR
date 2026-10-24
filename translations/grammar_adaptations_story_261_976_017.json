@@ -1,0 +1,9 @@
+{
+  "You fool! %HESHE% %VERB_IS_ARE% poisoned! Run and tell the authorities, before this poor sap's face melts off or something!": {
+    "omitted_tokens": {
+      "%HESHE%": 1,
+      "%VERB_IS_ARE%": 1
+    },
+    "reason": "영어 성별 대명사 또는 동사 활용 대신 한국어의 중립 지시어·문맥상 생략·한국어 서술어를 사용해 자연스럽게 표현함."
+  }
+}

@@ -1,5 +1,9 @@
 {
-  "verified_localized_occurrences": 12625,
+  "verified_localized_occurrences": 24850,
+  "catalog_basis": {
+    "basis": "installed snapshot",
+    "batch": "translation_batch13"
+  },
   "gameplay_comparisons": [
     {
       "file": "level6",

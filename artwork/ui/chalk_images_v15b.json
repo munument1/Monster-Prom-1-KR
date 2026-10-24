@@ -1,0 +1,111 @@
+{
+  "revision": "chalk_images_v15b",
+  "patches": [
+    {
+      "file": "resources.assets",
+      "texture_id": 1802,
+      "source": "artwork/ui/generated/chalk_day15.png",
+      "placements": [
+        {
+          "source_box": [
+            331,
+            0,
+            1614,
+            93
+          ],
+          "target_box": [
+            420,
+            0,
+            2048,
+            118
+          ],
+          "preserve_target_alpha": true
+        },
+        {
+          "source_box": [
+            1249,
+            138,
+            1614,
+            773
+          ],
+          "target_box": [
+            1585,
+            175,
+            2048,
+            980
+          ],
+          "preserve_target_alpha": true
+        },
+        {
+          "source_box": [
+            0,
+            694,
+            363,
+            789
+          ],
+          "target_box": [
+            0,
+            880,
+            460,
+            1000
+          ],
+          "preserve_target_alpha": true
+        }
+      ],
+      "baseline": "backup/before_ending_images_v15/resources.assets"
+    },
+    {
+      "file": "resources.assets",
+      "texture_id": 1363,
+      "source": "artwork/ui/generated/chalk_night15.png",
+      "placements": [
+        {
+          "source_box": [
+            331,
+            0,
+            1614,
+            93
+          ],
+          "target_box": [
+            420,
+            0,
+            2048,
+            118
+          ],
+          "preserve_target_alpha": true
+        },
+        {
+          "source_box": [
+            1249,
+            138,
+            1614,
+            772
+          ],
+          "target_box": [
+            1585,
+            175,
+            2048,
+            980
+          ],
+          "preserve_target_alpha": true
+        },
+        {
+          "source_box": [
+            0,
+            693,
+            363,
+            788
+          ],
+          "target_box": [
+            0,
+            880,
+            460,
+            1000
+          ],
+          "preserve_target_alpha": true
+        }
+      ],
+      "baseline": "backup/before_ending_images_v15/resources.assets"
+    }
+  ]
+}

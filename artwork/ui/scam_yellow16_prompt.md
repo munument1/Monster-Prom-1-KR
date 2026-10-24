@@ -1,0 +1,1 @@
+Edit the lettering of this white satirical game email panel to Korean. Exact white opaque background and rectangular aspect ratio. Large clean black condensed Korean sans, four lines: "안녀엉,\n귀염둥이!\n네 프로필 봤어.\n얘기 좀 할까 <3". Preserve the heart-emoticon <3 in bright pink as in reference. Fit entire text, no English letters, no borders or padding.

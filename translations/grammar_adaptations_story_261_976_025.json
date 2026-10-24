@@ -1,0 +1,8 @@
+{
+  "GUARDS! Seize %HIMHER%!": {
+    "omitted_tokens": {
+      "%HIMHER%": 1
+    },
+    "reason": "English grammatical pronouns and verb conjugations are rendered as natural gender-neutral Korean wording."
+  }
+}

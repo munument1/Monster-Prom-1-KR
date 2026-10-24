@@ -1,0 +1,43 @@
+{
+  "revision": "promking_v17c",
+  "patches": [
+    {
+      "file": "resources.assets",
+      "texture_id": 1178,
+      "source": "artwork/ui/generated/promking17.png",
+      "placements": [
+        {
+          "source_box": [
+            551,
+            567,
+            739,
+            766
+          ],
+          "target_box": [
+            515,
+            530,
+            690,
+            715
+          ],
+          "preserve_target_alpha": true
+        },
+        {
+          "source_box": [
+            685,
+            760,
+            985,
+            1135
+          ],
+          "target_box": [
+            640,
+            710,
+            920,
+            1060
+          ],
+          "preserve_target_alpha": true
+        }
+      ],
+      "baseline": "backup/before_ending_details_v17/resources.assets"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "\"I've heard %HESHE% made a problematic statement that mixed love and violence earlier.\"": {
+    "omitted_tokens": {
+      "%HESHE%": 1
+    },
+    "reason": "영어 성별 대명사와 동사 활용을 성별 중립 지시어와 자연스러운 한국어 서술어로 옮김."
+  },
+  "\"Chickens are not meant to be in a high school, but in a chicken farm! I'm sending %CURRENTPLAYERNAME% to a chicken farm where %HESHE% belongs.\"": {
+    "omitted_tokens": {
+      "%HESHE%": 1
+    },
+    "reason": "영어 성별 대명사와 동사 활용을 성별 중립 지시어와 자연스러운 한국어 서술어로 옮김."
+  },
+  "Oooooh! %HESHE% %VERB_IS_ARE% totally asking you to prom, Joy!": {
+    "omitted_tokens": {
+      "%HESHE%": 1,
+      "%VERB_IS_ARE%": 1
+    },
+    "reason": "영어 성별 대명사와 동사 활용을 성별 중립 지시어와 자연스러운 한국어 서술어로 옮김."
+  },
+  "I was thinking of maybe going to prom with %CURRENTPLAYERNAME%. But I can't find %HIMHER%.": {
+    "omitted_tokens": {
+      "%HIMHER%": 1
+    },
+    "reason": "영어 성별 대명사와 동사 활용을 성별 중립 지시어와 자연스러운 한국어 서술어로 옮김."
+  },
+  "I think of you as a %BROTHERSISTER%.": {
+    "omitted_tokens": {
+      "%BROTHERSISTER%": 1
+    },
+    "reason": "영어 성별 대명사와 동사 활용을 성별 중립 지시어와 자연스러운 한국어 서술어로 옮김."
+  }
+}

@@ -1,0 +1,138 @@
+{
+  "revision": "ending_details_v17",
+  "patches": [
+    {
+      "file": "resources.assets",
+      "texture_id": 873,
+      "source": "artwork/ui/generated/prank17.png",
+      "placements": [
+        {
+          "source_box": [
+            0,
+            0,
+            1366,
+            337
+          ],
+          "target_box": [
+            0,
+            0,
+            1276,
+            315
+          ],
+          "preserve_target_alpha": true
+        }
+      ]
+    },
+    {
+      "file": "resources.assets",
+      "texture_id": 1178,
+      "source": "artwork/ui/generated/promking17.png",
+      "placements": [
+        {
+          "source_box": [
+            551,
+            567,
+            739,
+            766
+          ],
+          "target_box": [
+            515,
+            530,
+            690,
+            715
+          ],
+          "preserve_target_alpha": true
+        },
+        {
+          "source_box": [
+            685,
+            760,
+            985,
+            1135
+          ],
+          "target_box": [
+            640,
+            710,
+            920,
+            1060
+          ],
+          "preserve_target_alpha": true
+        }
+      ]
+    },
+    {
+      "file": "resources.assets",
+      "texture_id": 1349,
+      "source": "artwork/ui/generated/promnight17.png",
+      "placements": [
+        {
+          "source_box": [
+            0,
+            0,
+            1366,
+            466
+          ],
+          "target_box": [
+            0,
+            0,
+            1276,
+            435
+          ],
+          "preserve_target_alpha": true
+        }
+      ]
+    },
+    {
+      "file": "resources.assets",
+      "texture_id": 749,
+      "source": "artwork/ui/generated/family17.png",
+      "placements": [
+        {
+          "source_box": [
+            177,
+            321,
+            380,
+            434
+          ],
+          "target_box": [
+            165,
+            300,
+            355,
+            405
+          ],
+          "preserve_target_alpha": true
+        },
+        {
+          "source_box": [
+            546,
+            214,
+            798,
+            321
+          ],
+          "target_box": [
+            510,
+            200,
+            745,
+            300
+          ],
+          "preserve_target_alpha": true
+        },
+        {
+          "source_box": [
+            1006,
+            798,
+            1188,
+            910
+          ],
+          "target_box": [
+            940,
+            745,
+            1110,
+            850
+          ],
+          "preserve_target_alpha": true
+        }
+      ]
+    }
+  ]
+}

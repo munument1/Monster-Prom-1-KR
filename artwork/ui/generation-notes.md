@@ -74,3 +74,15 @@ Use case text-localization. Edit the supplied game menu texture ATLAS. Output la
 회상 주차 표시는 `weeks_ko_v11_prompt.md`, 편지는 `ending_letter_ko_v11_prompt.md`, 적용 좌표는 `story_images_v11.json`에 있습니다. 홍보 배너 3종과 안내 그림 2종은 `promos_ko_v12_prompt.md` 및 `promos_v12.json`을 사용합니다. 외곽은 최초 원본 알파를 유지하고 다른 이미지/오브젝트를 보존했습니다. 최종 게임 화면은 사용자 확인 대기입니다.
 
 홍보 이미지 최종본은 `promos_v12b.json`과 `generated/promo_*_ko_v12b.png`입니다. 생성물 외곽의 색 잡음을 줄이기 위해 원본 알파를 다시 사용하고 경계의 원래 RGB 픽셀을 복원했습니다(작은 배너 3px, 큰 안내 그림 12px 경계 띠).
+
+## v13~v18: 도서관·엔딩·배경 글씨
+
+포커 4색, 비트코인 작은 캡션 4색, 노트, 크라우드펀딩 4색, 엔딩 사진 2종, 칠판 2종, 광고 메일 4색, 엔딩 문구/프롬 킹 띠/가족 그림 4종, 급식실·화장실·도시·프롤로그 배경 5종을 추가했습니다. 중복 수정 제외 30개 텍스처입니다. 각각 생성 파일명에 대응하는 `*_prompt.md`에 정확한 프롬프트가 있습니다.
+
+최종 적용 순서: `library_images_v13.json` → `library_images_v13b.json` → `crowdfunding_v14.json` → `ending_images_v15.json` → `chalk_images_v15b.json` → `scam_images_v16.json` → `ending_details_v17.json` → `promking_v17c.json` → `backgrounds_v18.json`.
+
+포커·캡션은 첫 결과의 색과 여백을 고친 v13b를 사용합니다. 칠판 상단 영문 끝조각은 v15b에서 범위를 넓혀 제거했습니다. `baseline`은 지정한 로컬 단계 백업에서 해당 텍스처만 복원한 뒤 최종 생성 영역을 가져오는 옵션입니다. 다른 최신 텍스처나 대사를 되돌리지 않습니다.
+
+광고 메일은 생성한 본문 패널과 공통 메일 로고·받는 이 라벨만 조립했습니다. 원본의 가상 URL은 유지합니다. `scam_*_composite16.png`가 적용용 파일입니다. 프롬 킹 띠는 실험 마스크에서 영문 흔적이 남아 최종 v17c의 생성 영역으로 복구했습니다. 마스크 실험은 로컬 참고 폴더에만 보관합니다.
+
+`verify_image_regions.py`로 실제 설치본을 다시 읽어 치수, 원본 알파, 지정 영역 밖 픽셀이 동일한지 검사했습니다. 검증 결과는 `reports/images_v13_v15.json`, `reports/images_v16_v18.json`에 있습니다. 글씨 주변을 포함한 사각형 안에는 생성 과정의 질감·색 차이가 있을 수 있으며 게임 화면은 사용자 확인 대기입니다.

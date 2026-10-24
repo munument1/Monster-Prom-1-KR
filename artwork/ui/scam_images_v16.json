@@ -1,0 +1,213 @@
+{
+  "revision": "scam_images_v16",
+  "patches": [
+    {
+      "file": "resources.assets",
+      "texture_id": 400,
+      "source": "artwork/ui/generated/scam_red_composite16.png",
+      "placements": [
+        {
+          "source_box": [
+            0,
+            0,
+            345,
+            115
+          ],
+          "target_box": [
+            0,
+            0,
+            345,
+            115
+          ],
+          "preserve_target_alpha": true
+        },
+        {
+          "source_box": [
+            375,
+            180,
+            535,
+            225
+          ],
+          "target_box": [
+            375,
+            180,
+            535,
+            225
+          ],
+          "preserve_target_alpha": true
+        },
+        {
+          "source_box": [
+            375,
+            232,
+            1276,
+            798
+          ],
+          "target_box": [
+            375,
+            232,
+            1276,
+            798
+          ],
+          "preserve_target_alpha": true
+        }
+      ]
+    },
+    {
+      "file": "resources.assets",
+      "texture_id": 860,
+      "source": "artwork/ui/generated/scam_blue_composite16.png",
+      "placements": [
+        {
+          "source_box": [
+            0,
+            0,
+            345,
+            115
+          ],
+          "target_box": [
+            0,
+            0,
+            345,
+            115
+          ],
+          "preserve_target_alpha": true
+        },
+        {
+          "source_box": [
+            375,
+            180,
+            535,
+            225
+          ],
+          "target_box": [
+            375,
+            180,
+            535,
+            225
+          ],
+          "preserve_target_alpha": true
+        },
+        {
+          "source_box": [
+            375,
+            232,
+            1276,
+            1076
+          ],
+          "target_box": [
+            375,
+            232,
+            1276,
+            1076
+          ],
+          "preserve_target_alpha": true
+        }
+      ]
+    },
+    {
+      "file": "resources.assets",
+      "texture_id": 1380,
+      "source": "artwork/ui/generated/scam_yellow_composite16.png",
+      "placements": [
+        {
+          "source_box": [
+            0,
+            0,
+            345,
+            115
+          ],
+          "target_box": [
+            0,
+            0,
+            345,
+            115
+          ],
+          "preserve_target_alpha": true
+        },
+        {
+          "source_box": [
+            375,
+            180,
+            535,
+            225
+          ],
+          "target_box": [
+            375,
+            180,
+            535,
+            225
+          ],
+          "preserve_target_alpha": true
+        },
+        {
+          "source_box": [
+            375,
+            232,
+            1276,
+            741
+          ],
+          "target_box": [
+            375,
+            232,
+            1276,
+            741
+          ],
+          "preserve_target_alpha": true
+        }
+      ]
+    },
+    {
+      "file": "resources.assets",
+      "texture_id": 1839,
+      "source": "artwork/ui/generated/scam_green_composite16.png",
+      "placements": [
+        {
+          "source_box": [
+            0,
+            0,
+            345,
+            115
+          ],
+          "target_box": [
+            0,
+            0,
+            345,
+            115
+          ],
+          "preserve_target_alpha": true
+        },
+        {
+          "source_box": [
+            375,
+            180,
+            535,
+            225
+          ],
+          "target_box": [
+            375,
+            180,
+            535,
+            225
+          ],
+          "preserve_target_alpha": true
+        },
+        {
+          "source_box": [
+            375,
+            232,
+            1276,
+            1076
+          ],
+          "target_box": [
+            375,
+            232,
+            1276,
+            1076
+          ],
+          "preserve_target_alpha": true
+        }
+      ]
+    }
+  ]
+}

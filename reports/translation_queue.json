@@ -316,13 +316,28 @@
     "story_261_976_005",
     "story_261_976_006",
     "story_261_976_007",
-    "story_261_976_008"
+    "story_261_976_008",
+    "story_261_976_009",
+    "story_261_976_010",
+    "story_261_976_011",
+    "story_261_976_012",
+    "story_261_976_013",
+    "story_261_976_014",
+    "story_261_976_015",
+    "story_261_976_016",
+    "story_261_976_017",
+    "story_261_976_018",
+    "story_261_976_019",
+    "story_261_976_020",
+    "story_261_976_021",
+    "story_261_976_022",
+    "story_261_976_023",
+    "story_261_976_024",
+    "story_261_976_025",
+    "story_261_976_026",
+    "story_261_976_028"
   ],
-  "remaining_jobs": 35,
-  "worker_status": "stopped: subagent usage limit",
-  "partial_drafts_preserved_locally": [
-    "009",
-    "010",
-    "011"
-  ]
+  "remaining_jobs": 16,
+  "worker_status": "running: three parallel translation agents",
+  "completion_basis": "installed and verified snapshot translation_batch13"
 }
