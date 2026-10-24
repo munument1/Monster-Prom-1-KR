@@ -17,6 +17,10 @@ __pycache__/
 .venv/
 .env
 .env.*
+/release_build/
+/release_dist/
+/release_test/
+*.spec
 *.log
 *.assets
 *.resS

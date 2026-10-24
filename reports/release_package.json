@@ -1,0 +1,16 @@
+{
+  "version": "0.1.0-beta.1",
+  "archive": "Monster-Prom-1-KR-v0.1.0-beta.1.zip",
+  "archive_size": 157792375,
+  "sha256": "10c56c5034dace70d5076c40dea2d0da1ddd245dcbcc8f0efc7bf27cb16c00ed",
+  "payload_files": 25,
+  "original_game_files_in_archive": false,
+  "game_screen_check": "pending user",
+  "content_revision": "4708493",
+  "steam_app_id": 743450,
+  "steam_build_id": 20786767,
+  "installer": "MonsterPromKR-Patcher.exe",
+  "installer_sha256": "6f66a895dfb74cded3c80894f20dd277917ea1a34af1bbea962ace1d271fbb06",
+  "installation_and_restore_validation": "passed",
+  "release_url": "https://github.com/munument1/Monster-Prom-1-KR/releases/tag/v0.1.0-beta.1"
+}

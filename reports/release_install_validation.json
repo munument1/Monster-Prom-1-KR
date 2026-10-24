@@ -1,0 +1,58 @@
+{
+  "archive_sha256": "10c56c5034dace70d5076c40dea2d0da1ddd245dcbcc8f0efc7bf27cb16c00ed",
+  "zip_integrity": "passed",
+  "compiled_windows_executable": "passed",
+  "test_path_contains_korean_and_spaces": true,
+  "full_install_files": 25,
+  "full_restore_files": 25,
+  "installed_file_hashes": "all matched",
+  "restored_file_hashes": "all matched",
+  "repeat_install": "no-op passed",
+  "wrong_game_version": "rejected before writes",
+  "corrupt_payload": "rejected before writes",
+  "synthetic_safety_tests": 6,
+  "simulated_partial_commit_rollback": "passed in synthetic safety suite",
+  "actual_user_game_files": "unchanged during release tests",
+  "game_launched": false,
+  "installer_gui_screen_test": "not performed; packaged executable CLI and Tk dependencies checked",
+  "results": [
+    {
+      "action": "verify",
+      "version": "0.1.0-beta.1",
+      "state": "원본",
+      "files_checked": 25
+    },
+    {
+      "action": "install",
+      "version": "0.1.0-beta.1",
+      "state": "한글 패치 적용",
+      "changed_files": 25,
+      "all_hashes_verified": true
+    },
+    {
+      "action": "verify",
+      "version": "0.1.0-beta.1",
+      "state": "한글 패치 적용",
+      "files_checked": 25
+    },
+    {
+      "action": "install",
+      "version": "0.1.0-beta.1",
+      "state": "한글 패치 적용",
+      "changed_files": 0
+    },
+    {
+      "action": "restore",
+      "version": "0.1.0-beta.1",
+      "state": "원본",
+      "changed_files": 25,
+      "all_hashes_verified": true
+    },
+    {
+      "error": "지원 대상과 다른 파일입니다: level0\n다른 모드 또는 다른 게임 버전인지 확인하세요. 파일은 변경하지 않았습니다."
+    },
+    {
+      "error": "패치 데이터가 손상되었습니다: level0\nZIP을 다시 내려받아 압축을 풀어 주세요."
+    }
+  ]
+}
