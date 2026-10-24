@@ -9,7 +9,7 @@ def sha(p):
   for b in iter(lambda:f.read(8*1024*1024),b''):h.update(b)
  return h.hexdigest()
 def main():
- archive=BASE/'release_dist/Monster-Prom-1-KR-v0.1.0-beta.1.zip';root=BASE/'release_test/릴리즈 설치 검증';assert not root.exists(),'Use a fresh test path; existing test files are preserved.';package=root/'압축 해제';game=root/'게임 폴더';data=game/'MonsterProm_Data';data.mkdir(parents=True)
+ archive=BASE/'release_dist/Monster-Prom-1-KR-v0.1.zip';root=BASE/'release_test/릴리즈 설치 검증 v0.1';assert not root.exists(),'Use a fresh test path; existing test files are preserved.';package=root/'압축 해제';game=root/'게임 폴더';data=game/'MonsterProm_Data';data.mkdir(parents=True)
  with zipfile.ZipFile(archive) as z:
   assert z.testzip() is None
   for name in z.namelist():

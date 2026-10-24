@@ -1,5 +1,5 @@
 {
-  "archive_sha256": "10c56c5034dace70d5076c40dea2d0da1ddd245dcbcc8f0efc7bf27cb16c00ed",
+  "archive_sha256": "2f92d9b4398079c9edea7749797284dc7782b6bb648d136697e5870798dd974f",
   "zip_integrity": "passed",
   "compiled_windows_executable": "passed",
   "test_path_contains_korean_and_spaces": true,
@@ -18,32 +18,32 @@
   "results": [
     {
       "action": "verify",
-      "version": "0.1.0-beta.1",
+      "version": "0.1",
       "state": "원본",
       "files_checked": 25
     },
     {
       "action": "install",
-      "version": "0.1.0-beta.1",
+      "version": "0.1",
       "state": "한글 패치 적용",
       "changed_files": 25,
       "all_hashes_verified": true
     },
     {
       "action": "verify",
-      "version": "0.1.0-beta.1",
+      "version": "0.1",
       "state": "한글 패치 적용",
       "files_checked": 25
     },
     {
       "action": "install",
-      "version": "0.1.0-beta.1",
+      "version": "0.1",
       "state": "한글 패치 적용",
       "changed_files": 0
     },
     {
       "action": "restore",
-      "version": "0.1.0-beta.1",
+      "version": "0.1",
       "state": "원본",
       "changed_files": 25,
       "all_hashes_verified": true

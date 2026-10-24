@@ -4,7 +4,7 @@ import argparse,hashlib,json,shutil,zipfile
 import bsdiff4
 
 BASE=Path(__file__).resolve().parents[1]
-VERSION='0.1.0-beta.1'
+VERSION='0.1'
 def sha(path):
  h=hashlib.sha256()
  with path.open('rb') as f:
