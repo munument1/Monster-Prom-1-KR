@@ -1,0 +1,8 @@
+{
+  "You would have thought giving a bunch of kids amphetamines and putting them in race cars would have caused some other, more immediate health problems, but what do you know? You're just a high schooler trying to boink %HISHER% classmates. You lose -2 SMARTS and -1 BOLDNESS.": {
+    "omitted_tokens": {
+      "%HISHER%": 1
+    },
+    "reason": "영어 성별 대명사와 동사 활용을 성별 중립 지시어와 자연스러운 한국어 서술어로 옮김."
+  }
+}

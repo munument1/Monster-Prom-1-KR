@@ -1,0 +1,222 @@
+{
+  "images": [
+    {
+      "file": "resources.assets",
+      "texture_id": 947,
+      "revision": "captions_v26",
+      "dimensions": [
+        1400,
+        1300
+      ],
+      "outside_patch_pixels": "identical",
+      "alpha_policy": "original alpha identical",
+      "saved_decode": "passed"
+    },
+    {
+      "file": "resources.assets",
+      "texture_id": 1144,
+      "revision": "captions_v26",
+      "dimensions": [
+        1400,
+        1300
+      ],
+      "outside_patch_pixels": "identical",
+      "alpha_policy": "original alpha identical",
+      "saved_decode": "passed"
+    },
+    {
+      "file": "resources.assets",
+      "texture_id": 758,
+      "revision": "captions_v26",
+      "dimensions": [
+        1400,
+        1300
+      ],
+      "outside_patch_pixels": "identical",
+      "alpha_policy": "original alpha identical",
+      "saved_decode": "passed"
+    },
+    {
+      "file": "resources.assets",
+      "texture_id": 1510,
+      "revision": "captions_v26",
+      "dimensions": [
+        1400,
+        1300
+      ],
+      "outside_patch_pixels": "identical",
+      "alpha_policy": "original alpha identical",
+      "saved_decode": "passed"
+    },
+    {
+      "file": "resources.assets",
+      "texture_id": 644,
+      "revision": "captions_v26",
+      "dimensions": [
+        1400,
+        1300
+      ],
+      "outside_patch_pixels": "identical",
+      "alpha_policy": "original alpha identical",
+      "saved_decode": "passed"
+    },
+    {
+      "file": "resources.assets",
+      "texture_id": 650,
+      "revision": "captions_v26",
+      "dimensions": [
+        1400,
+        1300
+      ],
+      "outside_patch_pixels": "identical",
+      "alpha_policy": "original alpha identical",
+      "saved_decode": "passed"
+    },
+    {
+      "file": "resources.assets",
+      "texture_id": 1145,
+      "revision": "captions_v26",
+      "dimensions": [
+        1400,
+        1300
+      ],
+      "outside_patch_pixels": "identical",
+      "alpha_policy": "original alpha identical",
+      "saved_decode": "passed"
+    },
+    {
+      "file": "resources.assets",
+      "texture_id": 1565,
+      "revision": "captions_v26",
+      "dimensions": [
+        1400,
+        1300
+      ],
+      "outside_patch_pixels": "identical",
+      "alpha_policy": "original alpha identical",
+      "saved_decode": "passed"
+    },
+    {
+      "file": "resources.assets",
+      "texture_id": 1702,
+      "revision": "captions_v26",
+      "dimensions": [
+        1400,
+        1300
+      ],
+      "outside_patch_pixels": "identical",
+      "alpha_policy": "original alpha identical",
+      "saved_decode": "passed"
+    },
+    {
+      "file": "resources.assets",
+      "texture_id": 1126,
+      "revision": "captions_v26",
+      "dimensions": [
+        1400,
+        1300
+      ],
+      "outside_patch_pixels": "identical",
+      "alpha_policy": "original alpha identical",
+      "saved_decode": "passed"
+    },
+    {
+      "file": "resources.assets",
+      "texture_id": 1027,
+      "revision": "captions_v26",
+      "dimensions": [
+        1400,
+        1300
+      ],
+      "outside_patch_pixels": "identical",
+      "alpha_policy": "original alpha identical",
+      "saved_decode": "passed"
+    },
+    {
+      "file": "resources.assets",
+      "texture_id": 1575,
+      "revision": "captions_v26",
+      "dimensions": [
+        1400,
+        1300
+      ],
+      "outside_patch_pixels": "identical",
+      "alpha_policy": "original alpha identical",
+      "saved_decode": "passed"
+    },
+    {
+      "file": "resources.assets",
+      "texture_id": 130,
+      "revision": "captions_v26",
+      "dimensions": [
+        1400,
+        1300
+      ],
+      "outside_patch_pixels": "identical",
+      "alpha_policy": "original alpha identical",
+      "saved_decode": "passed"
+    },
+    {
+      "file": "resources.assets",
+      "texture_id": 1033,
+      "revision": "captions_v26",
+      "dimensions": [
+        1400,
+        1300
+      ],
+      "outside_patch_pixels": "identical",
+      "alpha_policy": "original alpha identical",
+      "saved_decode": "passed"
+    },
+    {
+      "file": "resources.assets",
+      "texture_id": 714,
+      "revision": "captions_v26",
+      "dimensions": [
+        1400,
+        1300
+      ],
+      "outside_patch_pixels": "identical",
+      "alpha_policy": "original alpha identical",
+      "saved_decode": "passed"
+    },
+    {
+      "file": "resources.assets",
+      "texture_id": 957,
+      "revision": "captions_v26",
+      "dimensions": [
+        1400,
+        1300
+      ],
+      "outside_patch_pixels": "identical",
+      "alpha_policy": "original alpha identical",
+      "saved_decode": "passed"
+    },
+    {
+      "file": "resources.assets",
+      "texture_id": 1191,
+      "revision": "captions_v26",
+      "dimensions": [
+        1400,
+        1300
+      ],
+      "outside_patch_pixels": "identical",
+      "alpha_policy": "original alpha identical",
+      "saved_decode": "passed"
+    },
+    {
+      "file": "resources.assets",
+      "texture_id": 1682,
+      "revision": "captions_v26",
+      "dimensions": [
+        1400,
+        1300
+      ],
+      "outside_patch_pixels": "identical",
+      "alpha_policy": "original alpha identical",
+      "saved_decode": "passed"
+    }
+  ],
+  "unique_textures": 18,
+  "game_screen_check": "pending user"
+}

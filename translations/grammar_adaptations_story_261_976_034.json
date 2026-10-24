@@ -1,0 +1,15 @@
+{
+  "Ooh! Ooh! Execute %HIMHER%! I love a good royal execution!": {
+    "omitted_tokens": {
+      "%HIMHER%": 1
+    },
+    "reason": "English grammatical pronouns and verb conjugations are rendered as natural gender-neutral Korean wording."
+  },
+  "If you're going to execute %HIMHER%, can I eat %HISHER% sanity? I forgot to pack a lunch today.": {
+    "omitted_tokens": {
+      "%HIMHER%": 1,
+      "%HISHER%": 1
+    },
+    "reason": "English grammatical pronouns and verb conjugations are rendered as natural gender-neutral Korean wording."
+  }
+}

@@ -1,0 +1,369 @@
+{
+  "revision": "promo_big_v22",
+  "patches": [
+    {
+      "file": "resources.assets",
+      "texture_id": 351,
+      "source": "artwork/ui/generated/promo35122.png",
+      "placements": [
+        {
+          "source_box": [
+            151,
+            33,
+            849,
+            161
+          ],
+          "target_box": [
+            65,
+            14,
+            365,
+            69
+          ],
+          "preserve_target_alpha": true
+        },
+        {
+          "source_box": [
+            675,
+            466,
+            1152,
+            792
+          ],
+          "target_box": [
+            290,
+            200,
+            495,
+            340
+          ],
+          "preserve_target_alpha": true
+        },
+        {
+          "source_box": [
+            651,
+            815,
+            1175,
+            950
+          ],
+          "target_box": [
+            280,
+            350,
+            505,
+            408
+          ],
+          "preserve_target_alpha": true
+        }
+      ]
+    },
+    {
+      "file": "resources.assets",
+      "texture_id": 394,
+      "source": "artwork/ui/generated/promo39422.png",
+      "placements": [
+        {
+          "source_box": [
+            151,
+            33,
+            849,
+            161
+          ],
+          "target_box": [
+            65,
+            14,
+            365,
+            69
+          ],
+          "preserve_target_alpha": true
+        },
+        {
+          "source_box": [
+            209,
+            384,
+            710,
+            713
+          ],
+          "target_box": [
+            90,
+            165,
+            305,
+            306
+          ],
+          "preserve_target_alpha": true
+        },
+        {
+          "source_box": [
+            198,
+            757,
+            768,
+            892
+          ],
+          "target_box": [
+            85,
+            325,
+            330,
+            383
+          ],
+          "preserve_target_alpha": true
+        }
+      ]
+    },
+    {
+      "file": "resources.assets",
+      "texture_id": 545,
+      "source": "artwork/ui/generated/promo54522.png",
+      "placements": [
+        {
+          "source_box": [
+            151,
+            33,
+            849,
+            161
+          ],
+          "target_box": [
+            65,
+            14,
+            365,
+            69
+          ],
+          "preserve_target_alpha": true
+        },
+        {
+          "source_box": [
+            209,
+            349,
+            710,
+            675
+          ],
+          "target_box": [
+            90,
+            150,
+            305,
+            290
+          ],
+          "preserve_target_alpha": true
+        },
+        {
+          "source_box": [
+            198,
+            703,
+            768,
+            834
+          ],
+          "target_box": [
+            85,
+            302,
+            330,
+            358
+          ],
+          "preserve_target_alpha": true
+        }
+      ]
+    },
+    {
+      "file": "resources.assets",
+      "texture_id": 588,
+      "source": "artwork/ui/generated/promo58822.png",
+      "placements": [
+        {
+          "source_box": [
+            151,
+            33,
+            849,
+            161
+          ],
+          "target_box": [
+            65,
+            14,
+            365,
+            69
+          ],
+          "preserve_target_alpha": true
+        },
+        {
+          "source_box": [
+            675,
+            419,
+            1152,
+            757
+          ],
+          "target_box": [
+            290,
+            180,
+            495,
+            325
+          ],
+          "preserve_target_alpha": true
+        },
+        {
+          "source_box": [
+            651,
+            773,
+            1175,
+            906
+          ],
+          "target_box": [
+            280,
+            332,
+            505,
+            389
+          ],
+          "preserve_target_alpha": true
+        }
+      ]
+    },
+    {
+      "file": "resources.assets",
+      "texture_id": 855,
+      "source": "artwork/ui/generated/promo85522.png",
+      "placements": [
+        {
+          "source_box": [
+            151,
+            33,
+            849,
+            161
+          ],
+          "target_box": [
+            65,
+            14,
+            365,
+            69
+          ],
+          "preserve_target_alpha": true
+        },
+        {
+          "source_box": [
+            675,
+            349,
+            1152,
+            680
+          ],
+          "target_box": [
+            290,
+            150,
+            495,
+            292
+          ],
+          "preserve_target_alpha": true
+        },
+        {
+          "source_box": [
+            651,
+            708,
+            1175,
+            841
+          ],
+          "target_box": [
+            280,
+            304,
+            505,
+            361
+          ],
+          "preserve_target_alpha": true
+        }
+      ]
+    },
+    {
+      "file": "resources.assets",
+      "texture_id": 890,
+      "source": "artwork/ui/generated/promo89022.png",
+      "placements": [
+        {
+          "source_box": [
+            151,
+            33,
+            849,
+            161
+          ],
+          "target_box": [
+            65,
+            14,
+            365,
+            69
+          ],
+          "preserve_target_alpha": true
+        },
+        {
+          "source_box": [
+            675,
+            489,
+            1152,
+            815
+          ],
+          "target_box": [
+            290,
+            210,
+            495,
+            350
+          ],
+          "preserve_target_alpha": true
+        },
+        {
+          "source_box": [
+            651,
+            845,
+            1175,
+            978
+          ],
+          "target_box": [
+            280,
+            363,
+            505,
+            420
+          ],
+          "preserve_target_alpha": true
+        }
+      ]
+    },
+    {
+      "file": "resources.assets",
+      "texture_id": 1420,
+      "source": "artwork/ui/generated/promo142022.png",
+      "placements": [
+        {
+          "source_box": [
+            32,
+            21,
+            784,
+            141
+          ],
+          "target_box": [
+            12,
+            8,
+            294,
+            53
+          ],
+          "preserve_target_alpha": true
+        },
+        {
+          "source_box": [
+            773,
+            306,
+            1218,
+            613
+          ],
+          "target_box": [
+            290,
+            115,
+            457,
+            230
+          ],
+          "preserve_target_alpha": true
+        },
+        {
+          "source_box": [
+            808,
+            730,
+            1258,
+            1044
+          ],
+          "target_box": [
+            303,
+            274,
+            472,
+            392
+          ],
+          "preserve_target_alpha": true
+        }
+      ]
+    }
+  ]
+}

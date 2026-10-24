@@ -1,0 +1,11 @@
+{
+  "unique_translations": 31239,
+  "localized_dictionary_matches": 34208,
+  "prologue_matches": 36,
+  "ui_table_matches": 509,
+  "scene_label_matches": 631,
+  "changed_files": 2,
+  "translated_occurrences_in_changed_files": 33763,
+  "tag_variable_validation": "passed",
+  "visual_verification": "pending user"
+}

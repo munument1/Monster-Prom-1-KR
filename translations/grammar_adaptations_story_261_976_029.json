@@ -1,0 +1,14 @@
+{
+  "%HESHE% meant that we ought to think like a royal ball! In other words, we must throw a party!": {
+    "omitted_tokens": {
+      "%HESHE%": 1
+    },
+    "reason": "영어 성별 대명사 또는 동사 활용 대신 한국어의 중립 지시어·문맥상 생략·한국어 서술어를 사용해 자연스럽게 표현함."
+  },
+  "Oh, Damien, don't be so naive. %HESHE% knew the Slayer wouldn't take the bait. It was nothing but a clever bluff!": {
+    "omitted_tokens": {
+      "%HESHE%": 1
+    },
+    "reason": "영어 성별 대명사 또는 동사 활용 대신 한국어의 중립 지시어·문맥상 생략·한국어 서술어를 사용해 자연스럽게 표현함."
+  }
+}

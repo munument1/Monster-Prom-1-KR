@@ -1,0 +1,29 @@
+{
+  "Brothers! Sisters! Bow down before %CURRENTPLAYERNAME%, for %HESHE% %VERB_IS_ARE% clearly the Prophet of Z'Gord!": {
+    "omitted_tokens": {
+      "%HESHE%": 1,
+      "%VERB_IS_ARE%": 1
+    },
+    "reason": "영어 성별 대명사 또는 동사 활용 대신 한국어의 중립 지시어·문맥상 생략·한국어 서술어를 사용해 자연스럽게 표현함."
+  },
+  "Don't worry. We'll all help you! Especially %CURRENTPLAYERNAME%. %HESHE% %VERB_IS_ARE% probably the most millennial of us all!": {
+    "omitted_tokens": {
+      "%HESHE%": 1,
+      "%VERB_IS_ARE%": 1
+    },
+    "reason": "영어 성별 대명사 또는 동사 활용 대신 한국어의 중립 지시어·문맥상 생략·한국어 서술어를 사용해 자연스럽게 표현함."
+  },
+  "Speaking of which, I think %HESHE% %VERB_DESERVES_DESERVE% +2 SMARTS and +1 CREATIVITY, don't you?": {
+    "omitted_tokens": {
+      "%HESHE%": 1,
+      "%VERB_DESERVES_DESERVE%": 1
+    },
+    "reason": "영어 성별 대명사 또는 동사 활용 대신 한국어의 중립 지시어·문맥상 생략·한국어 서술어를 사용해 자연스럽게 표현함."
+  },
+  "Oh, that reminds me! You also have to be in charge of giving %CURRENTPLAYERNAME% %HISHER% stat bonuses. Like right now, for example!": {
+    "omitted_tokens": {
+      "%HISHER%": 1
+    },
+    "reason": "영어 성별 대명사 또는 동사 활용 대신 한국어의 중립 지시어·문맥상 생략·한국어 서술어를 사용해 자연스럽게 표현함."
+  }
+}

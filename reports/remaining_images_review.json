@@ -1,0 +1,37 @@
+{
+  "reviewed_remaining_candidates": 42,
+  "newly_localized_and_installed": 41,
+  "couple_photo_captions": 32,
+  "gallery_and_item_images": 9,
+  "known_targets_pending": 0,
+  "intentionally_unchanged": [
+    {
+      "file": "resources.assets",
+      "texture_id": 654,
+      "reason": "User requested decorative background signs remain in English."
+    }
+  ],
+  "decorative_text_policy": "Background signage, book/game titles, artist signatures, proper brands and numbers remain original. Only captions and handwritten photo comments are patched in the couple photos.",
+  "scope": "Known remaining candidates from Thai reference and expanded UI/gallery/couple-photo texture review; this is not a claim that every decorative pixel in every game texture was translated.",
+  "game_screen_check": "pending user",
+  "reproduction_specs": [
+    "artwork/ui/gallery_v24_v25.json",
+    "artwork/ui/captions_v26.json",
+    "artwork/ui/photos_v27.json"
+  ],
+  "checks": [
+    "Korean caption text reviewed against requested copy",
+    "Original texture dimensions and alpha preserved",
+    "Pixels outside declared lettering regions identical",
+    "Saved Unity assets reloaded and decoded successfully",
+    "All41 installed images equal the final composited source bytes after decode",
+    "Selected decorative signs and badges pixel-identical to original"
+  ],
+  "decorative_pixel_checks_passed": [
+    654,
+    100,
+    968,
+    1831,
+    497
+  ]
+}

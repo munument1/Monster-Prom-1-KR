@@ -1,0 +1,1 @@
+Edit this Monster Prom game texture. Change ONLY bottom-right black brush caption MONSTER PROM 20XX on white photo border into exactly "몬스터 프롬 20XX" using same compact black hand-painted lettering. Keep entire photograph and all characters and blank space exactly. Same canvas and composition.

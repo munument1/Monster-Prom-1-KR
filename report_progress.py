@@ -41,6 +41,11 @@ def main():
         remaining_main_events=len(events) - len(complete),
         remaining_english_word_occurrences=sum(len(row['english'].split()) for row in remaining),
         completion_percent=round(100 * len(translated) / len(rows), 2),
+        remaining_scope=(
+            'All extracted language-dictionary positions translated and installed; independent full semantic review, user screen checks and distribution packaging remain.'
+            if not remaining else
+            'Untranslated dictionary positions remain; image progress and user screen checks are tracked separately.'
+        ),
     )
     if args.first_event is not None or args.last_event is not None:
         assert args.first_event is not None and args.last_event is not None

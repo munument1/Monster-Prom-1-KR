@@ -1,0 +1,1 @@
+Edit this Monster Prom game image for Korean localization. Change ONLY black NARRATOR word on the light hat band to Korean "해설자", matching same handwritten dark lettering tilted along hat band. Preserve original hat, band, grayscale character art and pose, every body/clothing detail and composition exactly. Full canvas unchanged, opaque black interim background. No other text.

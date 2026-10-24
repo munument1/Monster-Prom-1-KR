@@ -1,0 +1,114 @@
+{
+  "images": [
+    {
+      "file": "resources.assets",
+      "texture_id": 1848,
+      "revision": "photo_election_v19",
+      "dimensions": [
+        2048,
+        1304
+      ],
+      "outside_patch_pixels": "identical",
+      "alpha_policy": "original alpha identical",
+      "saved_decode": "passed"
+    },
+    {
+      "file": "resources.assets",
+      "texture_id": 782,
+      "revision": "photo_election_v19",
+      "dimensions": [
+        1276,
+        1076
+      ],
+      "outside_patch_pixels": "identical",
+      "alpha_policy": "original alpha identical",
+      "saved_decode": "passed"
+    },
+    {
+      "file": "sharedassets2.assets",
+      "texture_id": 6,
+      "revision": "election_v19b",
+      "dimensions": [
+        2048,
+        2048
+      ],
+      "outside_patch_pixels": "identical",
+      "alpha_policy": "original alpha identical",
+      "saved_decode": "passed"
+    },
+    {
+      "file": "resources.assets",
+      "texture_id": 169,
+      "revision": "photo_election_v19",
+      "dimensions": [
+        2048,
+        2048
+      ],
+      "outside_patch_pixels": "identical",
+      "alpha_policy": "original alpha identical",
+      "saved_decode": "passed"
+    },
+    {
+      "file": "resources.assets",
+      "texture_id": 582,
+      "revision": "photo_election_v19",
+      "dimensions": [
+        2048,
+        2048
+      ],
+      "outside_patch_pixels": "identical",
+      "alpha_policy": "original alpha identical",
+      "saved_decode": "passed"
+    },
+    {
+      "file": "resources.assets",
+      "texture_id": 1344,
+      "revision": "photo_election_v19",
+      "dimensions": [
+        2048,
+        2048
+      ],
+      "outside_patch_pixels": "identical",
+      "alpha_policy": "original alpha identical",
+      "saved_decode": "passed"
+    },
+    {
+      "file": "resources.assets",
+      "texture_id": 1471,
+      "revision": "photo_election_v19",
+      "dimensions": [
+        2048,
+        2048
+      ],
+      "outside_patch_pixels": "identical",
+      "alpha_policy": "original alpha identical",
+      "saved_decode": "passed"
+    },
+    {
+      "file": "resources.assets",
+      "texture_id": 1599,
+      "revision": "photo_election_v19",
+      "dimensions": [
+        2048,
+        2048
+      ],
+      "outside_patch_pixels": "identical",
+      "alpha_policy": "original alpha identical",
+      "saved_decode": "passed"
+    },
+    {
+      "file": "resources.assets",
+      "texture_id": 33,
+      "revision": "avatars_v20",
+      "dimensions": [
+        2048,
+        2048
+      ],
+      "outside_patch_pixels": "identical",
+      "alpha_policy": "original alpha identical",
+      "saved_decode": "passed"
+    }
+  ],
+  "unique_textures": 9,
+  "game_screen_check": "pending user"
+}

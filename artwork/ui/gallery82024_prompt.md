@@ -1,0 +1,1 @@
+Localize lettering in this user-supplied game gallery image. Replace ONLY bottom white subtitle Is this a love interest? with Korean "이게 연애 상대인가?" in matching white sans with black outline, same bottom-centered position. Keep meme background photo, character, butterfly, every illustration and composition exactly unchanged. Same full canvas and aspect ratio. No other edits.

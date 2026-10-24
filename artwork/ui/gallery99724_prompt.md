@@ -1,0 +1,1 @@
+Localize lettering in this user-supplied game gallery image. Change ONLY black handwritten messages on bottom white photo border: Best Prom! -> "최고의 프롬!"; Thank you! -> "고마워!". Preserve hearts, border angle, entire photo, characters, all colors and corkboard background exactly. Same full canvas and aspect ratio. No other edits.

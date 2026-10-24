@@ -1,0 +1,1 @@
+Localize lettering in this user-supplied game gallery image. Replace ONLY PREPARE TO DIE!! inside upper-left speech balloon with exact Korean "죽을 준비나 해!!" on two lines in matching dark hand-lettering. Keep entire sepia comic illustration, character, daggers, balloon shape, frame, and artist signature vanripper exactly unchanged. Same full canvas and aspect ratio. No other edits.

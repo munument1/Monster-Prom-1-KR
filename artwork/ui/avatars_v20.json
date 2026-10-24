@@ -1,0 +1,462 @@
+{
+  "revision": "avatars_v20",
+  "patches": [
+    {
+      "file": "resources.assets",
+      "texture_id": 33,
+      "source": "artwork/ui/generated/avatars20.png",
+      "placements": [
+        {
+          "source_box": [
+            62,
+            204,
+            173,
+            255
+          ],
+          "target_box": [
+            102,
+            333,
+            282,
+            416
+          ],
+          "preserve_target_alpha": true
+        },
+        {
+          "source_box": [
+            0,
+            376,
+            110,
+            427
+          ],
+          "target_box": [
+            0,
+            614,
+            179,
+            698
+          ],
+          "preserve_target_alpha": true
+        },
+        {
+          "source_box": [
+            341,
+            212,
+            439,
+            263
+          ],
+          "target_box": [
+            557,
+            346,
+            717,
+            429
+          ],
+          "preserve_target_alpha": true
+        },
+        {
+          "source_box": [
+            239,
+            353,
+            325,
+            404
+          ],
+          "target_box": [
+            390,
+            576,
+            531,
+            659
+          ],
+          "preserve_target_alpha": true
+        },
+        {
+          "source_box": [
+            509,
+            317,
+            686,
+            361
+          ],
+          "target_box": [
+            832,
+            518,
+            1120,
+            589
+          ],
+          "preserve_target_alpha": true
+        },
+        {
+          "source_box": [
+            709,
+            317,
+            795,
+            380
+          ],
+          "target_box": [
+            1158,
+            518,
+            1299,
+            621
+          ],
+          "preserve_target_alpha": true
+        },
+        {
+          "source_box": [
+            815,
+            490,
+            905,
+            552
+          ],
+          "target_box": [
+            1331,
+            800,
+            1478,
+            902
+          ],
+          "preserve_target_alpha": true
+        },
+        {
+          "source_box": [
+            1027,
+            325,
+            1140,
+            415
+          ],
+          "target_box": [
+            1677,
+            531,
+            1862,
+            678
+          ],
+          "preserve_target_alpha": true
+        },
+        {
+          "source_box": [
+            1003,
+            482,
+            1133,
+            549
+          ],
+          "target_box": [
+            1638,
+            787,
+            1850,
+            896
+          ],
+          "preserve_target_alpha": true
+        },
+        {
+          "source_box": [
+            0,
+            431,
+            129,
+            529
+          ],
+          "target_box": [
+            0,
+            704,
+            211,
+            864
+          ],
+          "preserve_target_alpha": true
+        },
+        {
+          "source_box": [
+            153,
+            431,
+            243,
+            529
+          ],
+          "target_box": [
+            250,
+            704,
+            397,
+            864
+          ],
+          "preserve_target_alpha": true
+        },
+        {
+          "source_box": [
+            294,
+            427,
+            443,
+            486
+          ],
+          "target_box": [
+            480,
+            698,
+            723,
+            794
+          ],
+          "preserve_target_alpha": true
+        },
+        {
+          "source_box": [
+            356,
+            619,
+            474,
+            670
+          ],
+          "target_box": [
+            582,
+            1011,
+            774,
+            1094
+          ],
+          "preserve_target_alpha": true
+        },
+        {
+          "source_box": [
+            482,
+            529,
+            658,
+            584
+          ],
+          "target_box": [
+            787,
+            864,
+            1075,
+            954
+          ],
+          "preserve_target_alpha": true
+        },
+        {
+          "source_box": [
+            913,
+            557,
+            1027,
+            611
+          ],
+          "target_box": [
+            1491,
+            909,
+            1677,
+            998
+          ],
+          "preserve_target_alpha": true
+        },
+        {
+          "source_box": [
+            866,
+            729,
+            964,
+            776
+          ],
+          "target_box": [
+            1414,
+            1190,
+            1574,
+            1267
+          ],
+          "preserve_target_alpha": true
+        },
+        {
+          "source_box": [
+            43,
+            682,
+            129,
+            741
+          ],
+          "target_box": [
+            70,
+            1114,
+            211,
+            1210
+          ],
+          "preserve_target_alpha": true
+        },
+        {
+          "source_box": [
+            145,
+            666,
+            255,
+            748
+          ],
+          "target_box": [
+            237,
+            1088,
+            416,
+            1222
+          ],
+          "preserve_target_alpha": true
+        },
+        {
+          "source_box": [
+            110,
+            835,
+            223,
+            885
+          ],
+          "target_box": [
+            179,
+            1363,
+            365,
+            1446
+          ],
+          "preserve_target_alpha": true
+        },
+        {
+          "source_box": [
+            506,
+            768,
+            607,
+            843
+          ],
+          "target_box": [
+            826,
+            1254,
+            992,
+            1376
+          ],
+          "preserve_target_alpha": true
+        },
+        {
+          "source_box": [
+            396,
+            878,
+            591,
+            999
+          ],
+          "target_box": [
+            646,
+            1434,
+            966,
+            1632
+          ],
+          "preserve_target_alpha": true
+        },
+        {
+          "source_box": [
+            627,
+            976,
+            803,
+            1031
+          ],
+          "target_box": [
+            1024,
+            1594,
+            1312,
+            1683
+          ],
+          "preserve_target_alpha": true
+        },
+        {
+          "source_box": [
+            827,
+            784,
+            921,
+            843
+          ],
+          "target_box": [
+            1350,
+            1280,
+            1504,
+            1376
+          ],
+          "preserve_target_alpha": true
+        },
+        {
+          "source_box": [
+            933,
+            803,
+            1019,
+            866
+          ],
+          "target_box": [
+            1523,
+            1312,
+            1664,
+            1414
+          ],
+          "preserve_target_alpha": true
+        },
+        {
+          "source_box": [
+            423,
+            991,
+            591,
+            1038
+          ],
+          "target_box": [
+            691,
+            1619,
+            966,
+            1696
+          ],
+          "preserve_target_alpha": true
+        },
+        {
+          "source_box": [
+            435,
+            1207,
+            576,
+            1254
+          ],
+          "target_box": [
+            710,
+            1971,
+            941,
+            2048
+          ],
+          "preserve_target_alpha": true
+        },
+        {
+          "source_box": [
+            663,
+            1027,
+            760,
+            1086
+          ],
+          "target_box": [
+            1082,
+            1677,
+            1242,
+            1773
+          ],
+          "preserve_target_alpha": true
+        },
+        {
+          "source_box": [
+            741,
+            1172,
+            858,
+            1254
+          ],
+          "target_box": [
+            1210,
+            1914,
+            1402,
+            2048
+          ],
+          "preserve_target_alpha": true
+        },
+        {
+          "source_box": [
+            917,
+            1011,
+            1058,
+            1081
+          ],
+          "target_box": [
+            1498,
+            1651,
+            1728,
+            1766
+          ],
+          "preserve_target_alpha": true
+        },
+        {
+          "source_box": [
+            948,
+            1192,
+            1058,
+            1254
+          ],
+          "target_box": [
+            1549,
+            1946,
+            1728,
+            2048
+          ],
+          "preserve_target_alpha": true
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "Well, %heshe% seems to be on a quest to learn more about me. But talking about myself is not my thing, apparently...": {
+    "omitted_tokens": {
+      "%heshe%": 1
+    },
+    "reason": "영어 성별 대명사 또는 동사 활용 대신 한국어의 중립 지시어·문맥상 생략·한국어 서술어를 사용해 자연스럽게 표현함."
+  },
+  "...and this nobody who so clearly wants to be your lover too, even if you're clearly out of %hisher% league?": {
+    "omitted_tokens": {
+      "%hisher%": 1
+    },
+    "reason": "영어 성별 대명사 또는 동사 활용 대신 한국어의 중립 지시어·문맥상 생략·한국어 서술어를 사용해 자연스럽게 표현함."
+  }
+}

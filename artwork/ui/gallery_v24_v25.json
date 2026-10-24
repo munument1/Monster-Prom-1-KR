@@ -1,0 +1,308 @@
+{
+  "revision": "gallery_v24_v25",
+  "patches": [
+    {
+      "file": "resources.assets",
+      "texture_id": 142,
+      "source": "artwork/ui/generated/gallery14224_composite.png",
+      "placements": [
+        {
+          "source_box": [
+            530,
+            1080,
+            1072,
+            1185
+          ],
+          "target_box": [
+            530,
+            1080,
+            1072,
+            1185
+          ],
+          "preserve_target_alpha": true
+        }
+      ]
+    },
+    {
+      "file": "resources.assets",
+      "texture_id": 820,
+      "source": "artwork/ui/generated/gallery82024_composite.png",
+      "placements": [
+        {
+          "source_box": [
+            480,
+            1015,
+            1052,
+            1084
+          ],
+          "target_box": [
+            480,
+            1015,
+            1052,
+            1084
+          ],
+          "preserve_target_alpha": true
+        }
+      ]
+    },
+    {
+      "file": "resources.assets",
+      "texture_id": 997,
+      "source": "artwork/ui/generated/gallery99724_composite.png",
+      "placements": [
+        {
+          "source_box": [
+            185,
+            958,
+            775,
+            1180
+          ],
+          "target_box": [
+            185,
+            958,
+            775,
+            1180
+          ],
+          "preserve_target_alpha": true
+        },
+        {
+          "source_box": [
+            812,
+            944,
+            999,
+            1110
+          ],
+          "target_box": [
+            812,
+            944,
+            999,
+            1110
+          ],
+          "preserve_target_alpha": true
+        }
+      ]
+    },
+    {
+      "file": "resources.assets",
+      "texture_id": 1338,
+      "source": "artwork/ui/generated/gallery133824_composite.png",
+      "placements": [
+        {
+          "source_box": [
+            255,
+            25,
+            782,
+            145
+          ],
+          "target_box": [
+            255,
+            25,
+            782,
+            145
+          ],
+          "preserve_target_alpha": true
+        },
+        {
+          "source_box": [
+            380,
+            157,
+            802,
+            276
+          ],
+          "target_box": [
+            380,
+            157,
+            802,
+            276
+          ],
+          "preserve_target_alpha": true
+        }
+      ]
+    },
+    {
+      "file": "resources.assets",
+      "texture_id": 1537,
+      "source": "artwork/ui/generated/gallery153724_composite.png",
+      "placements": [
+        {
+          "source_box": [
+            10,
+            335,
+            305,
+            512
+          ],
+          "target_box": [
+            10,
+            335,
+            305,
+            512
+          ],
+          "preserve_target_alpha": true
+        },
+        {
+          "source_box": [
+            620,
+            335,
+            920,
+            485
+          ],
+          "target_box": [
+            620,
+            335,
+            920,
+            485
+          ],
+          "preserve_target_alpha": true
+        }
+      ]
+    },
+    {
+      "file": "resources.assets",
+      "texture_id": 1809,
+      "source": "artwork/ui/generated/gallery180924_composite.png",
+      "placements": [
+        {
+          "source_box": [
+            310,
+            62,
+            680,
+            215
+          ],
+          "target_box": [
+            310,
+            62,
+            680,
+            215
+          ],
+          "preserve_target_alpha": true
+        }
+      ]
+    },
+    {
+      "file": "resources.assets",
+      "texture_id": 1394,
+      "source": "artwork/ui/generated/gallery139425_composite.png",
+      "placements": [
+        {
+          "source_box": [
+            10,
+            12,
+            790,
+            58
+          ],
+          "target_box": [
+            10,
+            12,
+            790,
+            58
+          ],
+          "preserve_target_alpha": true
+        },
+        {
+          "source_box": [
+            300,
+            59,
+            500,
+            82
+          ],
+          "target_box": [
+            300,
+            59,
+            500,
+            82
+          ],
+          "preserve_target_alpha": true
+        },
+        {
+          "source_box": [
+            20,
+            378,
+            320,
+            565
+          ],
+          "target_box": [
+            20,
+            378,
+            320,
+            565
+          ],
+          "preserve_target_alpha": true
+        },
+        {
+          "source_box": [
+            18,
+            842,
+            790,
+            992
+          ],
+          "target_box": [
+            18,
+            842,
+            790,
+            992
+          ],
+          "preserve_target_alpha": true
+        },
+        {
+          "source_box": [
+            115,
+            1008,
+            690,
+            1118
+          ],
+          "target_box": [
+            115,
+            1008,
+            690,
+            1118
+          ],
+          "preserve_target_alpha": true
+        }
+      ]
+    },
+    {
+      "file": "resources.assets",
+      "texture_id": 1646,
+      "source": "artwork/ui/generated/gallery164625_composite.png",
+      "placements": [
+        {
+          "source_box": [
+            480,
+            884,
+            665,
+            1005
+          ],
+          "target_box": [
+            480,
+            884,
+            665,
+            1005
+          ],
+          "preserve_target_alpha": true
+        }
+      ]
+    },
+    {
+      "file": "resources.assets",
+      "texture_id": 439,
+      "source": "artwork/ui/generated/conspiracy25_composite.png",
+      "placements": [
+        {
+          "source_box": [
+            257,
+            279,
+            351,
+            339
+          ],
+          "target_box": [
+            257,
+            279,
+            351,
+            339
+          ],
+          "preserve_target_alpha": true
+        }
+      ]
+    }
+  ]
+}

@@ -335,9 +335,27 @@
     "story_261_976_024",
     "story_261_976_025",
     "story_261_976_026",
-    "story_261_976_028"
+    "story_261_976_027",
+    "story_261_976_028",
+    "story_261_976_029",
+    "story_261_976_030",
+    "story_261_976_031",
+    "story_261_976_032",
+    "story_261_976_033",
+    "story_261_976_034",
+    "story_261_976_035",
+    "story_261_976_036",
+    "story_261_976_037",
+    "story_261_976_038",
+    "story_261_976_039",
+    "story_261_976_040",
+    "story_261_976_041",
+    "story_261_976_042",
+    "story_261_976_043"
   ],
-  "remaining_jobs": 16,
-  "worker_status": "running: three parallel translation agents",
-  "completion_basis": "installed and verified snapshot translation_batch13"
+  "remaining_jobs": 0,
+  "worker_status": "completed",
+  "completion_basis": "installed and verified snapshot translation_batch15",
+  "preparation_statistics_note": "unique_untranslated_strings/source_occurrences describe the initial work queue, not current remaining work.",
+  "current_remaining_unique_strings": 0
 }

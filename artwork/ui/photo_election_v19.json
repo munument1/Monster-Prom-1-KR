@@ -1,0 +1,211 @@
+{
+  "revision": "photo_election_v19",
+  "patches": [
+    {
+      "file": "resources.assets",
+      "texture_id": 1848,
+      "source": "artwork/ui/generated/hotdog19.png",
+      "placements": [
+        {
+          "source_box": [
+            499,
+            138,
+            1032,
+            257
+          ],
+          "target_box": [
+            650,
+            180,
+            1345,
+            335
+          ],
+          "preserve_target_alpha": true
+        },
+        {
+          "source_box": [
+            790,
+            253,
+            901,
+            311
+          ],
+          "target_box": [
+            1030,
+            330,
+            1175,
+            405
+          ],
+          "preserve_target_alpha": true
+        }
+      ]
+    },
+    {
+      "file": "resources.assets",
+      "texture_id": 782,
+      "source": "artwork/ui/generated/demon_dad19.png",
+      "placements": [
+        {
+          "source_box": [
+            846,
+            541,
+            940,
+            653
+          ],
+          "target_box": [
+            790,
+            505,
+            878,
+            610
+          ],
+          "preserve_target_alpha": true
+        },
+        {
+          "source_box": [
+            1279,
+            492,
+            1338,
+            653
+          ],
+          "target_box": [
+            1195,
+            460,
+            1250,
+            610
+          ],
+          "preserve_target_alpha": true
+        }
+      ]
+    },
+    {
+      "file": "sharedassets2.assets",
+      "texture_id": 6,
+      "source": "artwork/ui/generated/election19.png",
+      "placements": [
+        {
+          "source_box": [
+            457,
+            486,
+            710,
+            580
+          ],
+          "target_box": [
+            747,
+            793,
+            1160,
+            947
+          ],
+          "preserve_target_alpha": true
+        }
+      ]
+    },
+    {
+      "file": "resources.assets",
+      "texture_id": 169,
+      "source": "artwork/ui/generated/yearbook19.png",
+      "placements": [
+        {
+          "source_box": [
+            976,
+            978,
+            1142,
+            1024
+          ],
+          "target_box": [
+            1515,
+            1592,
+            1882,
+            1678
+          ],
+          "preserve_target_alpha": true
+        }
+      ]
+    },
+    {
+      "file": "resources.assets",
+      "texture_id": 582,
+      "source": "artwork/ui/generated/yearbook19.png",
+      "placements": [
+        {
+          "source_box": [
+            976,
+            978,
+            1142,
+            1024
+          ],
+          "target_box": [
+            1515,
+            1592,
+            1882,
+            1678
+          ],
+          "preserve_target_alpha": true
+        }
+      ]
+    },
+    {
+      "file": "resources.assets",
+      "texture_id": 1344,
+      "source": "artwork/ui/generated/yearbook19.png",
+      "placements": [
+        {
+          "source_box": [
+            976,
+            978,
+            1142,
+            1024
+          ],
+          "target_box": [
+            1515,
+            1592,
+            1882,
+            1678
+          ],
+          "preserve_target_alpha": true
+        }
+      ]
+    },
+    {
+      "file": "resources.assets",
+      "texture_id": 1471,
+      "source": "artwork/ui/generated/yearbook19.png",
+      "placements": [
+        {
+          "source_box": [
+            976,
+            978,
+            1142,
+            1024
+          ],
+          "target_box": [
+            1515,
+            1592,
+            1882,
+            1678
+          ],
+          "preserve_target_alpha": true
+        }
+      ]
+    },
+    {
+      "file": "resources.assets",
+      "texture_id": 1599,
+      "source": "artwork/ui/generated/yearbook19.png",
+      "placements": [
+        {
+          "source_box": [
+            976,
+            978,
+            1142,
+            1024
+          ],
+          "target_box": [
+            1515,
+            1592,
+            1882,
+            1678
+          ],
+          "preserve_target_alpha": true
+        }
+      ]
+    }
+  ]
+}

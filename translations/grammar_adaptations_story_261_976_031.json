@@ -1,0 +1,9 @@
+{
+  "Don't be absurd. If %CURRENTPLAYERNAME% didn't want %HISHER% hand chopped off, %HESHE% should have come up with a better legal strategy!": {
+    "omitted_tokens": {
+      "%HISHER%": 1,
+      "%HESHE%": 1
+    },
+    "reason": "English grammatical pronouns and verb conjugations are rendered as natural gender-neutral Korean wording."
+  }
+}

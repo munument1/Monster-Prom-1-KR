@@ -1,0 +1,88 @@
+{
+  "Mine is gone too. Whatever this is, I'm sure it is %currentplayername%'s fault. %heshe% %VERB_is_are% always messing with reality in the most unnecessary ways just to get things to go %hisher% way.": {
+    "omitted_tokens": {
+      "%heshe%": 1,
+      "%VERB_is_are%": 1,
+      "%hisher%": 1
+    },
+    "reason": "영어 성별 대명사와 동사 활용을 성별 중립 지시어와 자연스러운 한국어 서술어로 옮김."
+  },
+  "I think %heshe% is either a traitor to you... or just stupid.": {
+    "omitted_tokens": {
+      "%heshe%": 1
+    },
+    "reason": "영어 성별 대명사와 동사 활용을 성별 중립 지시어와 자연스러운 한국어 서술어로 옮김."
+  },
+  "Yes, Belle, look! %heshe% %verb_has_have% a very real nobility title.": {
+    "omitted_tokens": {
+      "%heshe%": 1,
+      "%verb_has_have%": 1
+    },
+    "reason": "영어 성별 대명사와 동사 활용을 성별 중립 지시어와 자연스러운 한국어 서술어로 옮김."
+  },
+  "So %heshe% %verb_is_are% a commoner...?": {
+    "omitted_tokens": {
+      "%heshe%": 1,
+      "%verb_is_are%": 1
+    },
+    "reason": "영어 성별 대명사와 동사 활용을 성별 중립 지시어와 자연스러운 한국어 서술어로 옮김."
+  },
+  "I'm sure %heshe% %verb_does_do% commoner stuff, such as not being filthy rich.": {
+    "omitted_tokens": {
+      "%heshe%": 1,
+      "%verb_does_do%": 1
+    },
+    "reason": "영어 성별 대명사와 동사 활용을 성별 중립 지시어와 자연스러운 한국어 서술어로 옮김."
+  },
+  "You know what? If this piece of tuna wanted to pass as a noble, maybe we should help %himher%.": {
+    "omitted_tokens": {
+      "%himher%": 1
+    },
+    "reason": "영어 성별 대명사와 동사 활용을 성별 중립 지시어와 자연스러운 한국어 서술어로 옮김."
+  },
+  "Yeah, %heshe% %verb_has_have% too much spleen.": {
+    "omitted_tokens": {
+      "%heshe%": 1,
+      "%verb_has_have%": 1
+    },
+    "reason": "영어 성별 대명사와 동사 활용을 성별 중립 지시어와 자연스러운 한국어 서술어로 옮김."
+  },
+  "They're obviously somewhere only %currentplayername% can see but not us! Like... like... %hisher% insides!": {
+    "omitted_tokens": {
+      "%hisher%": 1
+    },
+    "reason": "영어 성별 대명사와 동사 활용을 성별 중립 지시어와 자연스러운 한국어 서술어로 옮김."
+  },
+  "%currentplayername% is gone! But suddenly this mysterious person has appeared. And look how cool %heshe% %verb_is_are%.": {
+    "omitted_tokens": {
+      "%heshe%": 1,
+      "%verb_is_are%": 1
+    },
+    "reason": "영어 성별 대명사와 동사 활용을 성별 중립 지시어와 자연스러운 한국어 서술어로 옮김."
+  },
+  "I can assure you %heshe% won't refuse the invitation to the Dark Side, and together we will bring doom to this realm!": {
+    "omitted_tokens": {
+      "%heshe%": 1
+    },
+    "reason": "영어 성별 대명사와 동사 활용을 성별 중립 지시어와 자연스러운 한국어 서술어로 옮김."
+  },
+  "The only side %heshe% %verb_is_are% joining is the married-in-dubious-consent side!": {
+    "omitted_tokens": {
+      "%heshe%": 1,
+      "%verb_is_are%": 1
+    },
+    "reason": "영어 성별 대명사와 동사 활용을 성별 중립 지시어와 자연스러운 한국어 서술어로 옮김."
+  },
+  "Look! Look how I remove %hisher% do not remove tag! And now... I will park in front of %hisher% fire hydrant! Sexy!": {
+    "omitted_tokens": {
+      "%hisher%": 2
+    },
+    "reason": "영어 성별 대명사와 동사 활용을 성별 중립 지시어와 자연스러운 한국어 서술어로 옮김."
+  },
+  "And now, for the closer: I will jaywalk all over %himher%.": {
+    "omitted_tokens": {
+      "%himher%": 1
+    },
+    "reason": "영어 성별 대명사와 동사 활용을 성별 중립 지시어와 자연스러운 한국어 서술어로 옮김."
+  }
+}

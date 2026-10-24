@@ -1,0 +1,448 @@
+{
+  "revision": "photos_v27",
+  "patches": [
+    {
+      "file": "resources.assets",
+      "texture_id": 1831,
+      "source": "artwork/ui/generated/photo183127_composite.png",
+      "placements": [
+        {
+          "source_box": [
+            0,
+            1140,
+            1400,
+            1300
+          ],
+          "target_box": [
+            0,
+            1140,
+            1400,
+            1300
+          ],
+          "preserve_target_alpha": true
+        },
+        {
+          "source_box": [
+            930,
+            20,
+            1320,
+            225
+          ],
+          "target_box": [
+            930,
+            20,
+            1320,
+            225
+          ],
+          "preserve_target_alpha": true
+        }
+      ]
+    },
+    {
+      "file": "resources.assets",
+      "texture_id": 1718,
+      "source": "artwork/ui/generated/photo171827_composite.png",
+      "placements": [
+        {
+          "source_box": [
+            0,
+            1140,
+            1400,
+            1300
+          ],
+          "target_box": [
+            0,
+            1140,
+            1400,
+            1300
+          ],
+          "preserve_target_alpha": true
+        },
+        {
+          "source_box": [
+            1110,
+            905,
+            1335,
+            1135
+          ],
+          "target_box": [
+            1110,
+            905,
+            1335,
+            1135
+          ],
+          "preserve_target_alpha": true
+        }
+      ]
+    },
+    {
+      "file": "resources.assets",
+      "texture_id": 129,
+      "source": "artwork/ui/generated/photo12927_composite.png",
+      "placements": [
+        {
+          "source_box": [
+            0,
+            1140,
+            1400,
+            1300
+          ],
+          "target_box": [
+            0,
+            1140,
+            1400,
+            1300
+          ],
+          "preserve_target_alpha": true
+        },
+        {
+          "source_box": [
+            1000,
+            475,
+            1230,
+            620
+          ],
+          "target_box": [
+            1000,
+            475,
+            1230,
+            620
+          ],
+          "preserve_target_alpha": true
+        }
+      ]
+    },
+    {
+      "file": "resources.assets",
+      "texture_id": 1463,
+      "source": "artwork/ui/generated/photo146327_composite.png",
+      "placements": [
+        {
+          "source_box": [
+            0,
+            1140,
+            1400,
+            1300
+          ],
+          "target_box": [
+            0,
+            1140,
+            1400,
+            1300
+          ],
+          "preserve_target_alpha": true
+        },
+        {
+          "source_box": [
+            585,
+            140,
+            1000,
+            280
+          ],
+          "target_box": [
+            585,
+            140,
+            1000,
+            280
+          ],
+          "preserve_target_alpha": true
+        }
+      ]
+    },
+    {
+      "file": "resources.assets",
+      "texture_id": 1617,
+      "source": "artwork/ui/generated/photo161727_composite.png",
+      "placements": [
+        {
+          "source_box": [
+            0,
+            1133,
+            1400,
+            1300
+          ],
+          "target_box": [
+            0,
+            1133,
+            1400,
+            1300
+          ],
+          "preserve_target_alpha": true
+        },
+        {
+          "source_box": [
+            410,
+            65,
+            1000,
+            225
+          ],
+          "target_box": [
+            410,
+            65,
+            1000,
+            225
+          ],
+          "preserve_target_alpha": true
+        }
+      ]
+    },
+    {
+      "file": "resources.assets",
+      "texture_id": 935,
+      "source": "artwork/ui/generated/photo93527_composite.png",
+      "placements": [
+        {
+          "source_box": [
+            0,
+            1070,
+            1400,
+            1300
+          ],
+          "target_box": [
+            0,
+            1070,
+            1400,
+            1300
+          ],
+          "preserve_target_alpha": true
+        },
+        {
+          "source_box": [
+            670,
+            155,
+            1030,
+            390
+          ],
+          "target_box": [
+            670,
+            155,
+            1030,
+            390
+          ],
+          "preserve_target_alpha": true
+        }
+      ]
+    },
+    {
+      "file": "resources.assets",
+      "texture_id": 968,
+      "source": "artwork/ui/generated/photo96827_composite.png",
+      "placements": [
+        {
+          "source_box": [
+            0,
+            1107,
+            1400,
+            1300
+          ],
+          "target_box": [
+            0,
+            1107,
+            1400,
+            1300
+          ],
+          "preserve_target_alpha": true
+        }
+      ]
+    },
+    {
+      "file": "resources.assets",
+      "texture_id": 760,
+      "source": "artwork/ui/generated/photo76027_composite.png",
+      "placements": [
+        {
+          "source_box": [
+            0,
+            1058,
+            1400,
+            1300
+          ],
+          "target_box": [
+            0,
+            1058,
+            1400,
+            1300
+          ],
+          "preserve_target_alpha": true
+        },
+        {
+          "source_box": [
+            975,
+            600,
+            1210,
+            800
+          ],
+          "target_box": [
+            975,
+            600,
+            1210,
+            800
+          ],
+          "preserve_target_alpha": true
+        }
+      ]
+    },
+    {
+      "file": "resources.assets",
+      "texture_id": 625,
+      "source": "artwork/ui/generated/photo62527_composite.png",
+      "placements": [
+        {
+          "source_box": [
+            0,
+            1123,
+            1400,
+            1300
+          ],
+          "target_box": [
+            0,
+            1123,
+            1400,
+            1300
+          ],
+          "preserve_target_alpha": true
+        },
+        {
+          "source_box": [
+            150,
+            210,
+            525,
+            450
+          ],
+          "target_box": [
+            150,
+            210,
+            525,
+            450
+          ],
+          "preserve_target_alpha": true
+        }
+      ]
+    },
+    {
+      "file": "resources.assets",
+      "texture_id": 524,
+      "source": "artwork/ui/generated/photo52427_composite.png",
+      "placements": [
+        {
+          "source_box": [
+            0,
+            1100,
+            1400,
+            1300
+          ],
+          "target_box": [
+            0,
+            1100,
+            1400,
+            1300
+          ],
+          "preserve_target_alpha": true
+        }
+      ]
+    },
+    {
+      "file": "resources.assets",
+      "texture_id": 1056,
+      "source": "artwork/ui/generated/photo105627_composite.png",
+      "placements": [
+        {
+          "source_box": [
+            0,
+            1093,
+            1400,
+            1300
+          ],
+          "target_box": [
+            0,
+            1093,
+            1400,
+            1300
+          ],
+          "preserve_target_alpha": true
+        }
+      ]
+    },
+    {
+      "file": "resources.assets",
+      "texture_id": 1957,
+      "source": "artwork/ui/generated/photo195727_composite.png",
+      "placements": [
+        {
+          "source_box": [
+            0,
+            1140,
+            1400,
+            1300
+          ],
+          "target_box": [
+            0,
+            1140,
+            1400,
+            1300
+          ],
+          "preserve_target_alpha": true
+        },
+        {
+          "source_box": [
+            1060,
+            145,
+            1330,
+            310
+          ],
+          "target_box": [
+            1060,
+            145,
+            1330,
+            310
+          ],
+          "preserve_target_alpha": true
+        }
+      ]
+    },
+    {
+      "file": "resources.assets",
+      "texture_id": 100,
+      "source": "artwork/ui/generated/photo10027_composite.png",
+      "placements": [
+        {
+          "source_box": [
+            0,
+            1140,
+            1400,
+            1300
+          ],
+          "target_box": [
+            0,
+            1140,
+            1400,
+            1300
+          ],
+          "preserve_target_alpha": true
+        }
+      ]
+    },
+    {
+      "file": "resources.assets",
+      "texture_id": 497,
+      "source": "artwork/ui/generated/photo49727_composite.png",
+      "placements": [
+        {
+          "source_box": [
+            0,
+            1140,
+            1400,
+            1300
+          ],
+          "target_box": [
+            0,
+            1140,
+            1400,
+            1300
+          ],
+          "preserve_target_alpha": true
+        }
+      ]
+    }
+  ]
+}

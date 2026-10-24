@@ -1,0 +1,57 @@
+{
+  "%OTHERPLAYER1%! %OTHERPLAYER1% can get so many rings, %HESHE_OTHERPLAYER1% could get an extra Sonic life out of them... which may not directly correlate? But who cares.": {
+    "omitted_tokens": {
+      "%HESHE_OTHERPLAYER1%": 1
+    },
+    "reason": "English grammatical pronouns and verb conjugations are rendered as natural gender-neutral Korean wording."
+  },
+  "%OTHERPLAYER2%! %OTHERPLAYER2%'s wealth secured %HIMHER_OTHERPLAYER2% season tickets to basketball and %HESHE_OTHERPLAYER2% actually learned ring toss from fuckin' LeBron James, who, unbeknownst to many, is the LeBron James of ring toss!": {
+    "omitted_tokens": {
+      "%HIMHER_OTHERPLAYER2%": 1,
+      "%HESHE_OTHERPLAYER2%": 1
+    },
+    "reason": "English grammatical pronouns and verb conjugations are rendered as natural gender-neutral Korean wording."
+  },
+  "%OTHERPLAYER1% shows up and shows-not-tells %HISHER_OTHERPLAYER1% plans...": {
+    "omitted_tokens": {
+      "%HISHER_OTHERPLAYER1%": 1
+    },
+    "reason": "English grammatical pronouns and verb conjugations are rendered as natural gender-neutral Korean wording."
+  },
+  "By grabbing all of the rings from the booth, unhinging %HISHER_OTHERPLAYER1% jaw, and swallowing them all whole.": {
+    "omitted_tokens": {
+      "%HISHER_OTHERPLAYER1%": 1
+    },
+    "reason": "English grammatical pronouns and verb conjugations are rendered as natural gender-neutral Korean wording."
+  },
+  "%OTHERPLAYER2% shows up and shows-not-tells %HISHER_OTHERPLAYER2% plans...": {
+    "omitted_tokens": {
+      "%HISHER_OTHERPLAYER2%": 1
+    },
+    "reason": "English grammatical pronouns and verb conjugations are rendered as natural gender-neutral Korean wording."
+  },
+  "By grabbing all of the rings from the booth, unhinging %HISHER_OTHERPLAYER2% jaw, and swallowing them all whole.": {
+    "omitted_tokens": {
+      "%HISHER_OTHERPLAYER2%": 1
+    },
+    "reason": "English grammatical pronouns and verb conjugations are rendered as natural gender-neutral Korean wording."
+  },
+  "Pfff, what about %currentplayername%? If this fucko was ready to die for you at war, odds are %heshe% would be pretty okay with going with you to prom.": {
+    "omitted_tokens": {
+      "%heshe%": 1
+    },
+    "reason": "English grammatical pronouns and verb conjugations are rendered as natural gender-neutral Korean wording."
+  },
+  "And %currentplayername% has been so eager to be your sidekick all this time, that something tells me %heshe% could be interested into joining you once again this time.": {
+    "omitted_tokens": {
+      "%heshe%": 1
+    },
+    "reason": "English grammatical pronouns and verb conjugations are rendered as natural gender-neutral Korean wording."
+  },
+  "But I'm not sure if %heshe% will be capable of taking on all the greatness of the Vanderbilt family on the dance floor!": {
+    "omitted_tokens": {
+      "%heshe%": 1
+    },
+    "reason": "English grammatical pronouns and verb conjugations are rendered as natural gender-neutral Korean wording."
+  }
+}

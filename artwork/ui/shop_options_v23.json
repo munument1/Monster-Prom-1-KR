@@ -1,0 +1,205 @@
+{
+  "revision": "shop_options_v23",
+  "patches": [
+    {
+      "file": "sharedassets6.assets",
+      "texture_id": 4,
+      "source": "artwork/ui/generated/shop_items23.png",
+      "placements": [
+        {
+          "source_box": [
+            819,
+            51,
+            944,
+            141
+          ],
+          "target_box": [
+            1338,
+            83,
+            1542,
+            230
+          ],
+          "preserve_target_alpha": true
+        },
+        {
+          "source_box": [
+            126,
+            314,
+            286,
+            419
+          ],
+          "target_box": [
+            205,
+            512,
+            467,
+            685
+          ],
+          "preserve_target_alpha": true
+        },
+        {
+          "source_box": [
+            439,
+            306,
+            643,
+            364
+          ],
+          "target_box": [
+            717,
+            499,
+            1050,
+            595
+          ],
+          "preserve_target_alpha": true
+        },
+        {
+          "source_box": [
+            745,
+            278,
+            952,
+            365
+          ],
+          "target_box": [
+            1216,
+            454,
+            1555,
+            596
+          ],
+          "preserve_target_alpha": true
+        },
+        {
+          "source_box": [
+            141,
+            694,
+            219,
+            753
+          ],
+          "target_box": [
+            230,
+            1133,
+            358,
+            1229
+          ],
+          "preserve_target_alpha": true
+        },
+        {
+          "source_box": [
+            760,
+            623,
+            909,
+            705
+          ],
+          "target_box": [
+            1242,
+            1018,
+            1485,
+            1152
+          ],
+          "preserve_target_alpha": true
+        },
+        {
+          "source_box": [
+            811,
+            764,
+            956,
+            831
+          ],
+          "target_box": [
+            1325,
+            1248,
+            1562,
+            1357
+          ],
+          "preserve_target_alpha": true
+        },
+        {
+          "source_box": [
+            431,
+            960,
+            557,
+            1058
+          ],
+          "target_box": [
+            704,
+            1568,
+            909,
+            1728
+          ],
+          "preserve_target_alpha": true
+        },
+        {
+          "source_box": [
+            459,
+            1011,
+            631,
+            1121
+          ],
+          "target_box": [
+            749,
+            1651,
+            1030,
+            1830
+          ],
+          "preserve_target_alpha": true
+        },
+        {
+          "source_box": [
+            501,
+            1081,
+            678,
+            1207
+          ],
+          "target_box": [
+            819,
+            1766,
+            1107,
+            1971
+          ],
+          "preserve_target_alpha": true
+        },
+        {
+          "source_box": [
+            737,
+            952,
+            960,
+            1133
+          ],
+          "target_box": [
+            1203,
+            1555,
+            1568,
+            1850
+          ],
+          "preserve_target_alpha": true
+        },
+        {
+          "source_box": [
+            831,
+            1136,
+            1027,
+            1223
+          ],
+          "target_box": [
+            1357,
+            1856,
+            1677,
+            1997
+          ],
+          "preserve_target_alpha": true
+        }
+      ]
+    },
+    {
+      "file": "sharedassets2.assets",
+      "texture_id": 2,
+      "source": "artwork/ui/generated/options23_composite.png",
+      "regions": [
+        [
+          0,
+          220,
+          110,
+          251
+        ]
+      ]
+    }
+  ]
+}

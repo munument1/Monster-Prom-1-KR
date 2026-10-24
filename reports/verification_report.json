@@ -1,160 +1,214 @@
 {
   "asset_read_errors": 0,
+  "validation_scope": "All installed and original backup hashes, serialized object counts, changed object presence and raw bytes; texture decoding/pixel validation recorded per image revision.",
   "visual_verification": "v2 font user-confirmed; newest translations and images pending user",
   "files": [
     {
       "file": "resources.assets",
       "installed_hash_ok": true,
       "backup_hash_ok": true,
-      "changed_objects": 99
+      "changed_objects": 162,
+      "object_count_matches": true,
+      "changed_object_bytes_readable": true
     },
     {
       "file": "level0",
       "installed_hash_ok": true,
       "backup_hash_ok": true,
-      "changed_objects": 1
+      "changed_objects": 1,
+      "object_count_matches": true,
+      "changed_object_bytes_readable": true
     },
     {
       "file": "level1",
       "installed_hash_ok": true,
       "backup_hash_ok": true,
-      "changed_objects": 26
+      "changed_objects": 26,
+      "object_count_matches": true,
+      "changed_object_bytes_readable": true
     },
     {
       "file": "level2",
       "installed_hash_ok": true,
       "backup_hash_ok": true,
-      "changed_objects": 67
+      "changed_objects": 67,
+      "object_count_matches": true,
+      "changed_object_bytes_readable": true
     },
     {
       "file": "level3",
       "installed_hash_ok": true,
       "backup_hash_ok": true,
-      "changed_objects": 1
+      "changed_objects": 1,
+      "object_count_matches": true,
+      "changed_object_bytes_readable": true
     },
     {
       "file": "level7",
       "installed_hash_ok": true,
       "backup_hash_ok": true,
-      "changed_objects": 1
+      "changed_objects": 1,
+      "object_count_matches": true,
+      "changed_object_bytes_readable": true
     },
     {
       "file": "sharedassets0.assets",
       "installed_hash_ok": true,
       "backup_hash_ok": true,
-      "changed_objects": 3
+      "changed_objects": 3,
+      "object_count_matches": true,
+      "changed_object_bytes_readable": true
     },
     {
       "file": "sharedassets1.assets",
       "installed_hash_ok": true,
       "backup_hash_ok": true,
-      "changed_objects": 2
+      "changed_objects": 2,
+      "object_count_matches": true,
+      "changed_object_bytes_readable": true
     },
     {
       "file": "level12",
       "installed_hash_ok": true,
       "backup_hash_ok": true,
-      "changed_objects": 109
+      "changed_objects": 109,
+      "object_count_matches": true,
+      "changed_object_bytes_readable": true
     },
     {
       "file": "level13",
       "installed_hash_ok": true,
       "backup_hash_ok": true,
-      "changed_objects": 212
+      "changed_objects": 212,
+      "object_count_matches": true,
+      "changed_object_bytes_readable": true
     },
     {
       "file": "level14",
       "installed_hash_ok": true,
       "backup_hash_ok": true,
-      "changed_objects": 17
+      "changed_objects": 17,
+      "object_count_matches": true,
+      "changed_object_bytes_readable": true
     },
     {
       "file": "level17",
       "installed_hash_ok": true,
       "backup_hash_ok": true,
-      "changed_objects": 21
+      "changed_objects": 21,
+      "object_count_matches": true,
+      "changed_object_bytes_readable": true
     },
     {
       "file": "level4",
       "installed_hash_ok": true,
       "backup_hash_ok": true,
-      "changed_objects": 8
+      "changed_objects": 8,
+      "object_count_matches": true,
+      "changed_object_bytes_readable": true
     },
     {
       "file": "level5",
       "installed_hash_ok": true,
       "backup_hash_ok": true,
-      "changed_objects": 7
+      "changed_objects": 7,
+      "object_count_matches": true,
+      "changed_object_bytes_readable": true
     },
     {
       "file": "level6",
       "installed_hash_ok": true,
       "backup_hash_ok": true,
-      "changed_objects": 36
+      "changed_objects": 36,
+      "object_count_matches": true,
+      "changed_object_bytes_readable": true
     },
     {
       "file": "sharedassets13.assets",
       "installed_hash_ok": true,
       "backup_hash_ok": true,
-      "changed_objects": 13
+      "changed_objects": 13,
+      "object_count_matches": true,
+      "changed_object_bytes_readable": true
     },
     {
       "file": "sharedassets2.assets",
       "installed_hash_ok": true,
       "backup_hash_ok": true,
-      "changed_objects": 10
+      "changed_objects": 12,
+      "object_count_matches": true,
+      "changed_object_bytes_readable": true
     },
     {
       "file": "sharedassets6.assets",
       "installed_hash_ok": true,
       "backup_hash_ok": true,
-      "changed_objects": 5
+      "changed_objects": 6,
+      "object_count_matches": true,
+      "changed_object_bytes_readable": true
     },
     {
       "file": "sharedassets15.assets",
       "installed_hash_ok": true,
       "backup_hash_ok": true,
-      "changed_objects": 4
+      "changed_objects": 4,
+      "object_count_matches": true,
+      "changed_object_bytes_readable": true
     },
     {
       "file": "level10",
       "installed_hash_ok": true,
       "backup_hash_ok": true,
-      "changed_objects": 24
+      "changed_objects": 24,
+      "object_count_matches": true,
+      "changed_object_bytes_readable": true
     },
     {
       "file": "level11",
       "installed_hash_ok": true,
       "backup_hash_ok": true,
-      "changed_objects": 31
+      "changed_objects": 31,
+      "object_count_matches": true,
+      "changed_object_bytes_readable": true
     },
     {
       "file": "level16",
       "installed_hash_ok": true,
       "backup_hash_ok": true,
-      "changed_objects": 10
+      "changed_objects": 10,
+      "object_count_matches": true,
+      "changed_object_bytes_readable": true
     },
     {
       "file": "level8",
       "installed_hash_ok": true,
       "backup_hash_ok": true,
-      "changed_objects": 24
+      "changed_objects": 24,
+      "object_count_matches": true,
+      "changed_object_bytes_readable": true
     },
     {
       "file": "level9",
       "installed_hash_ok": true,
       "backup_hash_ok": true,
-      "changed_objects": 24
+      "changed_objects": 24,
+      "object_count_matches": true,
+      "changed_object_bytes_readable": true
     },
     {
       "file": "sharedassets14.assets",
       "installed_hash_ok": true,
       "backup_hash_ok": true,
-      "changed_objects": 4
+      "changed_objects": 4,
+      "object_count_matches": true,
+      "changed_object_bytes_readable": true
     }
   ],
   "file_count": 25,
-  "changed_object_count": 759,
+  "changed_object_count": 825,
   "restore_reapply": "passed",
-  "installed_catalog_batch": "translation_batch13"
+  "installed_catalog_batch": "translation_batch15",
+  "new_image_candidates_reviewed": 42,
+  "new_image_candidates_applied": 41,
+  "decorative_neon_654": "original retained by user request"
 }

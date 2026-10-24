@@ -1,0 +1,1 @@
+Edit this Monster Prom game texture. Translate only the two readable text areas inside central angled photograph: green banner HOTDOG EATING CONTEST -> "핫도그 먹기 대회", blue lettering; small hand-held MARRY ME<3 sign -> "나랑 결혼해 <3", pink lettering. Preserve photo angles and borders, all illustrated characters and food, corkboard, small photos and decoration. Full canvas same aspect.

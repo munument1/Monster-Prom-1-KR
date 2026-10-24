@@ -1,0 +1,1 @@
+Localize lettering in this user-supplied game gallery image. Change ONLY green handwritten caption Drunk on you. in bottom white/gray margin to exact Korean "너에게 취했어." in same green playful lettering. Preserve martini-glass doodle, all artist signatures/handles, photograph frame and entire illustration exactly. Same full canvas and aspect ratio. No other edits.

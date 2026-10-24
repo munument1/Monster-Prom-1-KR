@@ -1,0 +1,189 @@
+{
+  "revision": "minor_images_v21",
+  "patches": [
+    {
+      "file": "resources.assets",
+      "texture_id": 171,
+      "source": "artwork/ui/generated/open21.png",
+      "placements": [
+        {
+          "source_box": [
+            76,
+            1280,
+            267,
+            1415
+          ],
+          "target_box": [
+            40,
+            673,
+            140,
+            744
+          ],
+          "preserve_target_alpha": true
+        }
+      ]
+    },
+    {
+      "file": "resources.assets",
+      "texture_id": 288,
+      "source": "artwork/ui/generated/open21.png",
+      "placements": [
+        {
+          "source_box": [
+            76,
+            1280,
+            267,
+            1415
+          ],
+          "target_box": [
+            40,
+            673,
+            140,
+            744
+          ],
+          "preserve_target_alpha": true
+        }
+      ]
+    },
+    {
+      "file": "resources.assets",
+      "texture_id": 301,
+      "source": "artwork/ui/generated/open21.png",
+      "placements": [
+        {
+          "source_box": [
+            76,
+            1280,
+            267,
+            1415
+          ],
+          "target_box": [
+            40,
+            673,
+            140,
+            744
+          ],
+          "preserve_target_alpha": true
+        }
+      ]
+    },
+    {
+      "file": "resources.assets",
+      "texture_id": 859,
+      "source": "artwork/ui/generated/open21.png",
+      "placements": [
+        {
+          "source_box": [
+            76,
+            1280,
+            267,
+            1415
+          ],
+          "target_box": [
+            40,
+            673,
+            140,
+            744
+          ],
+          "preserve_target_alpha": true
+        }
+      ]
+    },
+    {
+      "file": "resources.assets",
+      "texture_id": 1309,
+      "source": "artwork/ui/generated/dlc21.png",
+      "placements": [
+        {
+          "source_box": [
+            770,
+            269,
+            2040,
+            590
+          ],
+          "target_box": [
+            180,
+            63,
+            477,
+            138
+          ],
+          "preserve_target_alpha": true
+        }
+      ]
+    },
+    {
+      "file": "resources.assets",
+      "texture_id": 1189,
+      "source": "artwork/ui/generated/narrator21.png",
+      "placements": [
+        {
+          "source_box": [
+            939,
+            185,
+            1109,
+            252
+          ],
+          "target_box": [
+            877,
+            173,
+            1036,
+            235
+          ],
+          "preserve_target_alpha": true
+        }
+      ]
+    },
+    {
+      "file": "resources.assets",
+      "texture_id": 242,
+      "source": "artwork/ui/generated/family_photo21.png",
+      "placements": [
+        {
+          "source_box": [
+            1172,
+            203,
+            1229,
+            237
+          ],
+          "target_box": [
+            1095,
+            190,
+            1148,
+            221
+          ],
+          "preserve_target_alpha": true
+        },
+        {
+          "source_box": [
+            1227,
+            177,
+            1279,
+            202
+          ],
+          "target_box": [
+            1146,
+            165,
+            1195,
+            189
+          ],
+          "preserve_target_alpha": true
+        },
+        {
+          "source_box": [
+            1297,
+            284,
+            1345,
+            307
+          ],
+          "target_box": [
+            1212,
+            265,
+            1256,
+            287
+          ],
+          "preserve_target_alpha": true
+        }
+      ]
+    }
+  ]
+}

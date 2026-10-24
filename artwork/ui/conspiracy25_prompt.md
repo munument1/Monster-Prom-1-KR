@@ -1,0 +1,1 @@
+Localize only lettering in this game asset. Change ONLY pink handwritten KALE on central yellow sticky note to Korean "케일" in same pink handwriting and tilted note perspective. Keep all digits (including 420), illegible scribbles, red connecting strings, all photos, objects, corkboard and black background exactly unchanged. Same full canvas and aspect ratio. No other edits.

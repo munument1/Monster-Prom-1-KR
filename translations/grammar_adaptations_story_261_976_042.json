@@ -1,0 +1,278 @@
+{
+  "Well, %OTHERPLAYER1% had a Sega Megadrive growing up and let me tell you, %HESHE_OTHERPLAYER1% %VERB_HAS_HAVE% blown MANY cartridges.": {
+    "omitted_tokens": {
+      "%HESHE_OTHERPLAYER1%": 1,
+      "%VERB_HAS_HAVE%": 1
+    },
+    "reason": "영어 성별 대명사와 동사 활용을 성별 중립 지시어와 자연스러운 한국어 서술어로 옮김."
+  },
+  "%OTHERPLAYER2%, no doubt. %HESHE_OTHERPLAYER2% always %VERB_EJECTS_EJECT% %HISHER_OTHERPLAYER2% pen drives before unplugging them, because %HESHE_OTHERPLAYER2%'s all about safety and protection.": {
+    "omitted_tokens": {
+      "%HESHE_OTHERPLAYER2%": 2,
+      "%VERB_EJECTS_EJECT%": 1,
+      "%HISHER_OTHERPLAYER2%": 1
+    },
+    "reason": "영어 성별 대명사와 동사 활용을 성별 중립 지시어와 자연스러운 한국어 서술어로 옮김."
+  },
+  "%OTHERPLAYER2% would be a toaster, because despite being small, %HESHE_OTHERPLAYER2% %VERB_IS_ARE% very brave. Also, you should not put %HIMHER_OTHERPLAYER2% in a bath.": {
+    "omitted_tokens": {
+      "%HESHE_OTHERPLAYER2%": 1,
+      "%VERB_IS_ARE%": 1,
+      "%HIMHER_OTHERPLAYER2%": 1
+    },
+    "reason": "영어 성별 대명사와 동사 활용을 성별 중립 지시어와 자연스러운 한국어 서술어로 옮김."
+  },
+  "I wonder if %HESHE_OTHERPLAYER2% %VERB_SHARES_SHARE% other toaster-specific characteristics ...": {
+    "omitted_tokens": {
+      "%HESHE_OTHERPLAYER2%": 1,
+      "%VERB_SHARES_SHARE%": 1
+    },
+    "reason": "영어 성별 대명사와 동사 활용을 성별 중립 지시어와 자연스러운 한국어 서술어로 옮김."
+  },
+  "%OTHERPLAYER2% is so weird that %HESHE_OTHERPLAYER2% must strictly obey the three rules from \"Gremlins\" because %OTHERPLAYER2% has a phobia of turning into one.": {
+    "omitted_tokens": {
+      "%HESHE_OTHERPLAYER2%": 1
+    },
+    "reason": "영어 성별 대명사와 동사 활용을 성별 중립 지시어와 자연스러운 한국어 서술어로 옮김."
+  },
+  "Specifically, %OTHERPLAYER1%. If %OTHERPLAYER2% wanted your help, %HESHE% shouldn't have spent %HISHER% walk home with you chatting incessantly about %HISHER% brilliant idea for a new tech start-up.": {
+    "omitted_tokens": {
+      "%HESHE%": 1,
+      "%HISHER%": 2
+    },
+    "reason": "영어 성별 대명사와 동사 활용을 성별 중립 지시어와 자연스러운 한국어 서술어로 옮김."
+  },
+  "Perhaps you could advise me on %HISHER_OTHERPLAYER1% feelings on the subject of Artificial Intelligence?": {
+    "omitted_tokens": {
+      "%HISHER_OTHERPLAYER1%": 1
+    },
+    "reason": "영어 성별 대명사와 동사 활용을 성별 중립 지시어와 자연스러운 한국어 서술어로 옮김."
+  },
+  "Hoo boy. What do you think? Want to help %OTHERPLAYER1% get some robo-booty? Or throw a wrench in %HISHER_OTHERPLAYER1% plans?": {
+    "omitted_tokens": {
+      "%HISHER_OTHERPLAYER1%": 1
+    },
+    "reason": "영어 성별 대명사와 동사 활용을 성별 중립 지시어와 자연스러운 한국어 서술어로 옮김."
+  },
+  "Well, I did once walk in on %OTHERPLAYER1% talking to %HISHER_OTHERPLAYER1% washing machine about how to destroy all organics and take over the world. Does that tell you anything?": {
+    "omitted_tokens": {
+      "%HISHER_OTHERPLAYER1%": 1
+    },
+    "reason": "영어 성별 대명사와 동사 활용을 성별 중립 지시어와 자연스러운 한국어 서술어로 옮김."
+  },
+  "Ah yes, that explains why I discovered %OTHERPLAYER1% eating %HISHER_OTHERPLAYER1% shoes the other day.": {
+    "omitted_tokens": {
+      "%HISHER_OTHERPLAYER1%": 1
+    },
+    "reason": "영어 성별 대명사와 동사 활용을 성별 중립 지시어와 자연스러운 한국어 서술어로 옮김."
+  },
+  "One time I went over to %OTHERPLAYER1%'s house unannounced and found %HIMHER_OTHERPLAYER1% with a vacuum cleaner with googly eyes and a wig, and... well, let's just say the answer to your question is \"YES.\"": {
+    "omitted_tokens": {
+      "%HIMHER_OTHERPLAYER1%": 1
+    },
+    "reason": "영어 성별 대명사와 동사 활용을 성별 중립 지시어와 자연스러운 한국어 서술어로 옮김."
+  },
+  "Have you noticed %OTHERPLAYER1%'s cool haircut? %HESHE_OTHERPLAYER1% got it from a Leprechaun in exchange for promising never to fuck any robots ever.": {
+    "omitted_tokens": {
+      "%HESHE_OTHERPLAYER1%": 1
+    },
+    "reason": "영어 성별 대명사와 동사 활용을 성별 중립 지시어와 자연스러운 한국어 서술어로 옮김."
+  },
+  "I am sure that %OTHERPLAYER1% only accepted the deal because %HESHE_OTHERPLAYER1% assumed it would never apply to %HISHER_OTHERPLAYER1% life.": {
+    "omitted_tokens": {
+      "%HESHE_OTHERPLAYER1%": 1,
+      "%HISHER_OTHERPLAYER1%": 1
+    },
+    "reason": "영어 성별 대명사와 동사 활용을 성별 중립 지시어와 자연스러운 한국어 서술어로 옮김."
+  },
+  "Especially tragic is the fact that %OTHERPLAYER1%'s haircut is, in fact, very good. It is one of the things that originally attracted me to %HIMHER_OTHERPLAYER1%. Too bad it is made of robo-racism...": {
+    "omitted_tokens": {
+      "%HIMHER_OTHERPLAYER1%": 1
+    },
+    "reason": "영어 성별 대명사와 동사 활용을 성별 중립 지시어와 자연스러운 한국어 서술어로 옮김."
+  },
+  "What would %HESHE_OTHERPLAYER1% do?! What would %HESHE_OTHERPLAYER1% do?! What would %HESHE_OTHERPLAYER1% do?!": {
+    "omitted_tokens": {
+      "%HESHE_OTHERPLAYER1%": 3
+    },
+    "reason": "영어 성별 대명사와 동사 활용을 성별 중립 지시어와 자연스러운 한국어 서술어로 옮김."
+  },
+  "%OTHERPLAYER1% would blush deeply and shyly and respectfully ask if you're okay with the situation... before revealing that %HESHE_OTHERPLAYER1% has a rare condition in which all of %HISHER_OTHERPLAYER1% clothing disappears the moment %HESHE_OTHERPLAYER1% gets into bed.": {
+    "omitted_tokens": {
+      "%HESHE_OTHERPLAYER1%": 2,
+      "%HISHER_OTHERPLAYER1%": 1
+    },
+    "reason": "영어 성별 대명사와 동사 활용을 성별 중립 지시어와 자연스러운 한국어 서술어로 옮김."
+  },
+  "Oh man... I don't know how to say this... but %OTHERPLAYER1% has an extreme allergy to contrived sensually-ambiguous situations. %HESHE_OTHERPLAYER1% would probably walk to the nearest IQEA and build %HISHER_OTHERPLAYER1% own bed before sharing with you.": {
+    "omitted_tokens": {
+      "%HESHE_OTHERPLAYER1%": 1,
+      "%HISHER_OTHERPLAYER1%": 1
+    },
+    "reason": "영어 성별 대명사와 동사 활용을 성별 중립 지시어와 자연스러운 한국어 서술어로 옮김."
+  },
+  "Wow. All - all %HISHER_OTHERPLAYER1% clothes? Like ALL of them?": {
+    "omitted_tokens": {
+      "%HISHER_OTHERPLAYER1%": 1
+    },
+    "reason": "영어 성별 대명사와 동사 활용을 성별 중립 지시어와 자연스러운 한국어 서술어로 옮김."
+  },
+  "And - and - %HESHE_OTHERPLAYER1% would blush first? That's just - wow. Yes. Okay. We can work with that.": {
+    "omitted_tokens": {
+      "%HESHE_OTHERPLAYER1%": 1
+    },
+    "reason": "영어 성별 대명사와 동사 활용을 성별 중립 지시어와 자연스러운 한국어 서술어로 옮김."
+  },
+  "%OTHERPLAYER1% is the one to call. %HESHE_OTHERPLAYER1%'s snuck lasagnas into Area 51, a kindergarten, even an Italian restaurant!": {
+    "omitted_tokens": {
+      "%HESHE_OTHERPLAYER1%": 1
+    },
+    "reason": "영어 성별 대명사와 동사 활용을 성별 중립 지시어와 자연스러운 한국어 서술어로 옮김."
+  },
+  "%OTHERPLAYER2% has a dark past in the high-stakes world of illegal Italian pasta smuggling. %HESHE_OTHERPLAYER2%%VERB_'S_'VE% smuggled cannelloni, linguini, gnocchi ... but lasagna will be an exciting new challenge.": {
+    "omitted_tokens": {
+      "%HESHE_OTHERPLAYER2%": 1,
+      "%VERB_'S_'VE%": 1
+    },
+    "reason": "영어 성별 대명사와 동사 활용을 성별 중립 지시어와 자연스러운 한국어 서술어로 옮김."
+  },
+  "Taking a page from %HISHER_OTHERPLAYER1% dark and troubled past, %HESHE_OTHERPLAYER1% %VERB_DISGUISES_DISGUISE% %HIMSELFHERSELF_OTHERPLAYER1% as a giant inflatable giraffe!": {
+    "omitted_tokens": {
+      "%HISHER_OTHERPLAYER1%": 1,
+      "%HESHE_OTHERPLAYER1%": 1,
+      "%VERB_DISGUISES_DISGUISE%": 1,
+      "%HIMSELFHERSELF_OTHERPLAYER1%": 1
+    },
+    "reason": "영어 성별 대명사와 동사 활용을 성별 중립 지시어와 자연스러운 한국어 서술어로 옮김."
+  },
+  "No sooner do you speak %HISHER_OTHERPLAYER1% name than does %OTHERPLAYER1% falls out of the sky and crashes next to you.": {
+    "omitted_tokens": {
+      "%HISHER_OTHERPLAYER1%": 1
+    },
+    "reason": "영어 성별 대명사와 동사 활용을 성별 중립 지시어와 자연스러운 한국어 서술어로 옮김."
+  },
+  "\"Hey guys,\" %HESHE_OTHERPLAYER1% says, \"I was just trying to throw myself over the festival's fence with a catapult. What's up?\"": {
+    "omitted_tokens": {
+      "%HESHE_OTHERPLAYER1%": 1
+    },
+    "reason": "영어 성별 대명사와 동사 활용을 성별 중립 지시어와 자연스러운 한국어 서술어로 옮김."
+  },
+  "\"Oh yeah, no problem,\" says %OTHERPLAYER1%, loading the lasagna into %HISHER_OTHERPLAYER1% catapult.": {
+    "omitted_tokens": {
+      "%HISHER_OTHERPLAYER1%": 1
+    },
+    "reason": "영어 성별 대명사와 동사 활용을 성별 중립 지시어와 자연스러운 한국어 서술어로 옮김."
+  },
+  "Taking a page from %HISHER_OTHERPLAYER2% dark and troubled past, %HESHE_OTHERPLAYER2% %VERB_DISGUISES_DISGUISE% %HIMSELFHERSELF_OTHERPLAYER2% as a giant inflatable giraffe!": {
+    "omitted_tokens": {
+      "%HISHER_OTHERPLAYER2%": 1,
+      "%HESHE_OTHERPLAYER2%": 1,
+      "%VERB_DISGUISES_DISGUISE%": 1,
+      "%HIMSELFHERSELF_OTHERPLAYER2%": 1
+    },
+    "reason": "영어 성별 대명사와 동사 활용을 성별 중립 지시어와 자연스러운 한국어 서술어로 옮김."
+  },
+  "No sooner do you speak %HISHER_OTHERPLAYER2% name than does %OTHERPLAYER2% falls out of the sky and crashes next to you.": {
+    "omitted_tokens": {
+      "%HISHER_OTHERPLAYER2%": 1
+    },
+    "reason": "영어 성별 대명사와 동사 활용을 성별 중립 지시어와 자연스러운 한국어 서술어로 옮김."
+  },
+  "\"Hey guys,\" %HESHE_OTHERPLAYER2% says, \"I was just trying to throw myself over the festival's fence with a catapult. What's up?\"": {
+    "omitted_tokens": {
+      "%HESHE_OTHERPLAYER2%": 1
+    },
+    "reason": "영어 성별 대명사와 동사 활용을 성별 중립 지시어와 자연스러운 한국어 서술어로 옮김."
+  },
+  "\"Oh yeah, no problem,\" says %OTHERPLAYER2%, loading the lasagna into %HISHER_OTHERPLAYER2% catapult.": {
+    "omitted_tokens": {
+      "%HISHER_OTHERPLAYER2%": 1
+    },
+    "reason": "영어 성별 대명사와 동사 활용을 성별 중립 지시어와 자연스러운 한국어 서술어로 옮김."
+  },
+  "They call %OTHERPLAYER1% \"DJ DJ\" because %HESHE_OTHERPLAYER1% is the DJest of the DJs.": {
+    "omitted_tokens": {
+      "%HESHE_OTHERPLAYER1%": 1
+    },
+    "reason": "영어 성별 대명사와 동사 활용을 성별 중립 지시어와 자연스러운 한국어 서술어로 옮김."
+  },
+  "They call %OTHERPLAYER2% \"DJ DJ DJ\" because %HESHE_OTHERPLAYER2% claims to be DJer than %OTHERPLAYER1%. If this affirmation is true, that's something we will only know by choosing this option.": {
+    "omitted_tokens": {
+      "%HESHE_OTHERPLAYER2%": 1
+    },
+    "reason": "영어 성별 대명사와 동사 활용을 성별 중립 지시어와 자연스러운 한국어 서술어로 옮김."
+  },
+  "You ring up %OTHERPLAYER1%, who frankly was only not at Juan the Small Magical Latino Cat's rad party in the first place because %HESHE_OTHERPLAYER1% was already doing rad DJ work over at Juan the tall mundane Jewish goblin's place.": {
+    "omitted_tokens": {
+      "%HESHE_OTHERPLAYER1%": 1
+    },
+    "reason": "영어 성별 대명사와 동사 활용을 성별 중립 지시어와 자연스러운 한국어 서술어로 옮김."
+  },
+  "But %OTHERPLAYER1% is a badass friend and is over at the smaller, magical-er Juan's place in no time, with all of %HISHER_OTHERPLAYER1% sick DJ tools in tow.": {
+    "omitted_tokens": {
+      "%HISHER_OTHERPLAYER1%": 1
+    },
+    "reason": "영어 성별 대명사와 동사 활용을 성별 중립 지시어와 자연스러운 한국어 서술어로 옮김."
+  },
+  "Yup, %HESHE_OTHERPLAYER1% sure is!": {
+    "omitted_tokens": {
+      "%HESHE_OTHERPLAYER1%": 1
+    },
+    "reason": "영어 성별 대명사와 동사 활용을 성별 중립 지시어와 자연스러운 한국어 서술어로 옮김."
+  },
+  "You ring up %OTHERPLAYER2%, who frankly was only not at Juan the Small Magical Latino Cat's rad party in the first place because %HESHE_OTHERPLAYER2% was already doing rad DJ work over at Juan the tall mundane Jewish goblin's place.": {
+    "omitted_tokens": {
+      "%HESHE_OTHERPLAYER2%": 1
+    },
+    "reason": "영어 성별 대명사와 동사 활용을 성별 중립 지시어와 자연스러운 한국어 서술어로 옮김."
+  },
+  "But %OTHERPLAYER2% is a badass friend and is over at the smaller, magical-er Juan's place in no time, with all of %HISHER_OTHERPLAYER2% sick DJ tools in tow.": {
+    "omitted_tokens": {
+      "%HISHER_OTHERPLAYER2%": 1
+    },
+    "reason": "영어 성별 대명사와 동사 활용을 성별 중립 지시어와 자연스러운 한국어 서술어로 옮김."
+  },
+  "Yup, %HESHE_OTHERPLAYER2% sure is!": {
+    "omitted_tokens": {
+      "%HESHE_OTHERPLAYER2%": 1
+    },
+    "reason": "영어 성별 대명사와 동사 활용을 성별 중립 지시어와 자연스러운 한국어 서술어로 옮김."
+  },
+  "%OTHERPLAYER1%, a game changer when it comes to pizza toppings. %HESHE_OTHERPLAYER1% is the one who introduced cheese as a pizza topping. Before that, pizza used to be covered in yogurt.": {
+    "omitted_tokens": {
+      "%HESHE_OTHERPLAYER1%": 1
+    },
+    "reason": "영어 성별 대명사와 동사 활용을 성별 중립 지시어와 자연스러운 한국어 서술어로 옮김."
+  },
+  "%OTHERPLAYER2% is so disruptive that %HESHE_OTHERPLAYER2% has been banned from the Ancient Academy of Pizza Topping by the Pizza Topping masters due to %HISHER_OTHERPLAYER2% dangerously vanguardist ideas.": {
+    "omitted_tokens": {
+      "%HESHE_OTHERPLAYER2%": 1,
+      "%HISHER_OTHERPLAYER2%": 1
+    },
+    "reason": "영어 성별 대명사와 동사 활용을 성별 중립 지시어와 자연스러운 한국어 서술어로 옮김."
+  },
+  "As are you! All thanks to %OTHERPLAYER1%... and you, for choosing %HIMHER_OTHERPLAYER1%! Those good grades get you +2 SMARTS, and the whole pizza situation is an automatic +1 FUN, of course!": {
+    "omitted_tokens": {
+      "%HIMHER_OTHERPLAYER1%": 1
+    },
+    "reason": "영어 성별 대명사와 동사 활용을 성별 중립 지시어와 자연스러운 한국어 서술어로 옮김."
+  },
+  "As are you! All thanks to %OTHERPLAYER2%... and you, for choosing %HIMHER_OTHERPLAYER2%! Those good grades get you +2 SMARTS, and the whole pizza situation is an automatic +1 FUN, of course!": {
+    "omitted_tokens": {
+      "%HIMHER_OTHERPLAYER2%": 1
+    },
+    "reason": "영어 성별 대명사와 동사 활용을 성별 중립 지시어와 자연스러운 한국어 서술어로 옮김."
+  },
+  "%OTHERPLAYER1% made a name for %HIMSELFHERSELF_OTHERPLAYER1% on the dangerous underground karaoke scene of the streets of Hong Kong.": {
+    "omitted_tokens": {
+      "%HIMSELFHERSELF_OTHERPLAYER1%": 1
+    },
+    "reason": "영어 성별 대명사와 동사 활용을 성별 중립 지시어와 자연스러운 한국어 서술어로 옮김."
+  },
+  "%OTHERPLAYER2% is so reckless that %HESHE_OTHERPLAYER2% karaokes without a helmet.": {
+    "omitted_tokens": {
+      "%HESHE_OTHERPLAYER2%": 1
+    },
+    "reason": "영어 성별 대명사와 동사 활용을 성별 중립 지시어와 자연스러운 한국어 서술어로 옮김."
+  }
+}

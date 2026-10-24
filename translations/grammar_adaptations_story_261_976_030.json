@@ -1,0 +1,43 @@
+{
+  "%CURRENTPLAYERNAME%'s words say \"no\", but this pamphlet entitled \"How to Sell Your Robot Friends For Profit and Profit\" which just fell out of %HISHER% pocket says \"yes\".": {
+    "omitted_tokens": {
+      "%HISHER%": 1
+    },
+    "reason": "영어 성별 대명사와 동사 활용을 성별 중립 지시어와 자연스러운 한국어 서술어로 옮김."
+  },
+  "It is %CURRENTPLAYERNAME%, and %HESHE% broke through aforementioned window with an ax and %VERB_IS_ARE% now trying to murder me! AHHHHHH!": {
+    "omitted_tokens": {
+      "%HESHE%": 1,
+      "%VERB_IS_ARE%": 1
+    },
+    "reason": "영어 성별 대명사와 동사 활용을 성별 중립 지시어와 자연스러운 한국어 서술어로 옮김."
+  },
+  "No! Calculester! Stop chasing %CURRENTPLAYERNAME% around the auditorium shooting lasers at %HIMHER%!": {
+    "omitted_tokens": {
+      "%HIMHER%": 1
+    },
+    "reason": "영어 성별 대명사와 동사 활용을 성별 중립 지시어와 자연스러운 한국어 서술어로 옮김."
+  },
+  "I never would have guessed that from %HISHER% complete inability to follow rules -": {
+    "omitted_tokens": {
+      "%HISHER%": 1
+    },
+    "reason": "영어 성별 대명사와 동사 활용을 성별 중립 지시어와 자연스러운 한국어 서술어로 옮김."
+  },
+  "YEAH WELL THAT'S WHY %HESHE% %VERB_IS_ARE% SO GOOD AT %HISHER% JOB! BECAUSE %HESHE% %VERB_MAKES_MAKE% IT SEEMS LIKE %HESHE% %VERB_DOESN'T_DON'T% KNOW ANYTHING BUT -": {
+    "omitted_tokens": {
+      "%HESHE%": 3,
+      "%VERB_IS_ARE%": 1,
+      "%HISHER%": 1,
+      "%VERB_MAKES_MAKE%": 1,
+      "%VERB_DOESN'T_DON'T%": 1
+    },
+    "reason": "영어 성별 대명사와 동사 활용을 성별 중립 지시어와 자연스러운 한국어 서술어로 옮김."
+  },
+  "It is all right. Your words come from a place of \"caring\", unlike %CURRENTPLAYERNAME%'s words, which come from a place of \"being willing to say or do anything to take one of %HISHER% most fuckable classmates to prom.\"": {
+    "omitted_tokens": {
+      "%HISHER%": 1
+    },
+    "reason": "영어 성별 대명사와 동사 활용을 성별 중립 지시어와 자연스러운 한국어 서술어로 옮김."
+  }
+}

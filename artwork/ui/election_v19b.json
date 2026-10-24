@@ -1,0 +1,28 @@
+{
+  "revision": "election_v19b",
+  "patches": [
+    {
+      "file": "sharedassets2.assets",
+      "texture_id": 6,
+      "source": "artwork/ui/generated/election19.png",
+      "placements": [
+        {
+          "source_box": [
+            457,
+            486,
+            710,
+            603
+          ],
+          "target_box": [
+            747,
+            793,
+            1160,
+            985
+          ],
+          "preserve_target_alpha": true
+        }
+      ],
+      "baseline": "backup/before_photo_election_v19/sharedassets2.assets"
+    }
+  ]
+}

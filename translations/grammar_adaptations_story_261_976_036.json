@@ -1,0 +1,53 @@
+{
+  "%CURRENTPLAYERNAME% suggested Dostoevsky as a source of inspiration not because it seemed particularly apt, but because %HESHE% had become so alienated from the emotions of %HISHER% peers, and from %HISHER% own emotions, that when asked \"How shall we describe the inner lives of others?\" %HISHER% last, desperate response could only be, \"Consult Russian literature\".": {
+    "omitted_tokens": {
+      "%HESHE%": 1,
+      "%HISHER%": 3
+    },
+    "reason": "영어 성별 대명사와 동사 활용을 성별 중립 지시어와 자연스러운 한국어 서술어로 옮김."
+  },
+  "Don't jump all over %HISHER% metaphorical dick, Liam. We need %HISHER% help!": {
+    "omitted_tokens": {
+      "%HISHER%": 2
+    },
+    "reason": "영어 성별 대명사와 동사 활용을 성별 중립 지시어와 자연스러운 한국어 서술어로 옮김."
+  },
+  "Wait, where's %CURRENTPLAYERNAME%? Why can't we see %HIMHER%?": {
+    "omitted_tokens": {
+      "%HIMHER%": 1
+    },
+    "reason": "영어 성별 대명사와 동사 활용을 성별 중립 지시어와 자연스러운 한국어 서술어로 옮김."
+  },
+  "Oh my God ... have we EVER seen %HIMHER%?": {
+    "omitted_tokens": {
+      "%HIMHER%": 1
+    },
+    "reason": "영어 성별 대명사와 동사 활용을 성별 중립 지시어와 자연스러운 한국어 서술어로 옮김."
+  },
+  "Also, stop doing whatever %CURRENTPLAYERNAME% says. Fun fact about %HIMHER%:": {
+    "omitted_tokens": {
+      "%HIMHER%": 1
+    },
+    "reason": "영어 성별 대명사와 동사 활용을 성별 중립 지시어와 자연스러운 한국어 서술어로 옮김."
+  },
+  "%HESHE% %VERB_IS_ARE% actually a person from the real world who just drops in occasionally to mess with you.": {
+    "omitted_tokens": {
+      "%HESHE%": 1,
+      "%VERB_IS_ARE%": 1
+    },
+    "reason": "영어 성별 대명사와 동사 활용을 성별 중립 지시어와 자연스러운 한국어 서술어로 옮김."
+  },
+  "Aaravi, why do you feel the need to belittle your friend? Are you afraid that %HESHE% might not want to join your team?": {
+    "omitted_tokens": {
+      "%HESHE%": 1
+    },
+    "reason": "영어 성별 대명사와 동사 활용을 성별 중립 지시어와 자연스러운 한국어 서술어로 옮김."
+  },
+  "UGGHhhghgHGHghgh, enough with your psychobabble. %HESHE% %VERB_IS_ARE% not my FRIEND,  %HESHE% %VERB_IS_ARE% my TEAMMATE! I'm a tank, so I need a support character to get the perfect team balance.": {
+    "omitted_tokens": {
+      "%HESHE%": 2,
+      "%VERB_IS_ARE%": 2
+    },
+    "reason": "영어 성별 대명사와 동사 활용을 성별 중립 지시어와 자연스러운 한국어 서술어로 옮김."
+  }
+}
