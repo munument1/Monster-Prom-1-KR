@@ -96,3 +96,7 @@ v24~v27에서 갤러리·소품 9개, 커플 사진 하단 캡션 32개를 추�
 내장 image_gen으로 생성한 원본 결과는 `generated/`, 각 입력 프롬프트는 `*_prompt.md`입니다. 최종 적용은 `gallery_v24_v25.json`, `captions_v26.json`, `photos_v27.json`입니다. 커플 사진 중 14개는 사진 안으로 걸친 기존 캡션 제거 또는 손글씨 수정을 위해 전체 참고 이미지에서 수정본을 생성한 뒤 글자 영역만 합성했습니다. 그 밖의 18개는 검수한 2열4행 캡션 시트에서 정확한 셀 경계로 잘라 배치했습니다. 원본 알파와 대상 밖 픽셀은 보존했습니다.
 
 이번 재개 이후 중복 제외 96개 텍스처 추가 적용. 게임 화면 확인은 사용자 대기입니다. 텍스트 영역 검증 보고서는 `reports/images_v19_v20.json`, `reports/images_v21_v23.json`, `reports/images_v24_v25.json`, `reports/images_v26.json`, `reports/images_v27.json`에 있습니다.
+
+## v28: 시작 잡지 가로 폭 수정
+
+기존 v9 한글 잡지 표지가 원본보다 좁게 들어갔다는 사용자 피드백을 반영했습니다. 사용자의 가로 늘리기 요청에 따라 기존 설치 이미지의 x=0~490 영역을 원본 644×836 크기로 가로 방향만 리샘플하고 최초 원본 알파를 복원했습니다. 새 이미지 생성 결과는 사용하지 않았습니다. 최종 파일은 `generated/magazine_width_fix_v28.png`, 적용은 `magazine_width_fix_v28.json`, 검사 결과는 `reports/magazine_width_fix_v28.json`입니다. 다른 텍스처와 오브젝트는 보존했습니다.

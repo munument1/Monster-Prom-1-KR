@@ -1,0 +1,35 @@
+{
+  "images": [
+    {
+      "file": "resources.assets",
+      "texture_id": 1555,
+      "revision": "magazine_width_fix_v28",
+      "dimensions": [
+        644,
+        836
+      ],
+      "outside_patch_pixels": "identical",
+      "alpha_policy": "original alpha identical",
+      "saved_decode": "passed"
+    }
+  ],
+  "unique_textures": 1,
+  "game_screen_check": "pending user",
+  "reason": "User reported narrow first magazine cover; requested horizontal stretching of existing artwork.",
+  "source_crop": [
+    0,
+    0,
+    490,
+    836
+  ],
+  "output_dimensions": [
+    644,
+    836
+  ],
+  "transform": "horizontal stretch only; original alpha restored",
+  "installed_image_matches_composite": true,
+  "installed_hash_ok": true,
+  "original_backup_hash_ok": true,
+  "other_serialized_objects": "byte-identical to before revision (checked during save)",
+  "visual_check": "pending user"
+}
