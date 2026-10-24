@@ -1,0 +1,51 @@
+{
+  "images": [
+    {
+      "file": "sharedassets6.assets",
+      "texture_id": 3,
+      "revision": "location_edges_v29",
+      "dimensions": [
+        2048,
+        2048
+      ],
+      "outside_patch_pixels": "identical",
+      "alpha_policy": "not required by spec",
+      "saved_decode": "passed"
+    },
+    {
+      "file": "sharedassets6.assets",
+      "texture_id": 6,
+      "revision": "location_edges_v29",
+      "dimensions": [
+        2048,
+        2048
+      ],
+      "outside_patch_pixels": "identical",
+      "alpha_policy": "not required by spec",
+      "saved_decode": "passed"
+    },
+    {
+      "file": "sharedassets6.assets",
+      "texture_id": 8,
+      "revision": "location_edges_v29",
+      "dimensions": [
+        2048,
+        2048
+      ],
+      "outside_patch_pixels": "identical",
+      "alpha_policy": "not required by spec",
+      "saved_decode": "passed"
+    }
+  ],
+  "unique_textures": 3,
+  "game_screen_check": "pending user",
+  "arrow_regions": 29,
+  "atlas_count": 3,
+  "rgb_pixels": "identical before/after across all three atlases",
+  "lettering_and_ivory_border_alpha": "unchanged",
+  "opaque_background_pixels_made_transparent": 179513,
+  "installed_images": "byte-identical to prepared composites",
+  "installed_hash_ok": true,
+  "original_backup_hash_ok": true,
+  "matte_method": "Existing ivory border convex silhouette, expanded7 source pixels for black edging; intersection with existing alpha; no artwork redrawn"
+}

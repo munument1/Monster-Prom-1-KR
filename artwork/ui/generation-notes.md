@@ -100,3 +100,7 @@ v24~v27에서 갤러리·소품 9개, 커플 사진 하단 캡션 32개를 추�
 ## v28: 시작 잡지 가로 폭 수정
 
 기존 v9 한글 잡지 표지가 원본보다 좁게 들어갔다는 사용자 피드백을 반영했습니다. 사용자의 가로 늘리기 요청에 따라 기존 설치 이미지의 x=0~490 영역을 원본 644×836 크기로 가로 방향만 리샘플하고 최초 원본 알파를 복원했습니다. 새 이미지 생성 결과는 사용하지 않았습니다. 최종 파일은 `generated/magazine_width_fix_v28.png`, 적용은 `magazine_width_fix_v28.json`, 검사 결과는 `reports/magazine_width_fix_v28.json`입니다. 다른 텍스처와 오브젝트는 보존했습니다.
+
+## v29: 학교 장소 팻말 외곽 알파 보정
+
+도서관·화장실·체육관·강당·야외·교실의 색상별 팻말29개에서 밝은 테두리 외곽 모양을 따라 검은 여백7px를 남기고 사각 배경 알파를 제거했습니다. 기존 생성 그림의 글자·색상 RGB는 모두 보존했습니다. 새 그림 생성 없이 기존 생성물의 합성용 투명 마스크만 보정했습니다. 최종 파일은 `generated/location_edges_v29_3.png`, `generated/location_edges_v29_6.png`, `generated/location_edges_v29_8.png`, 적용 좌표는 `location_edges_v29.json`입니다. 검증 기록: `reports/location_edges_v29.json`.
