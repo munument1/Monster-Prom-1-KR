@@ -4,11 +4,12 @@
 
 ## 다운로드·설치
 
-[최신 릴리즈 v0.1](https://github.com/munument1/Monster-Prom-1-KR/releases/tag/v0.1)에서 ZIP을 내려받아 **전체 압축 해제**한 뒤 `MonsterPromKR-Patcher.exe`를 실행하세요. 게임 폴더를 선택하고 **한글 패치 설치**, 게임에서는 **ENGLISH**를 선택합니다. Python 별도 설치는 필요하지 않습니다.
+[릴리즈 v0.1](https://github.com/munument1/Monster-Prom-1-KR/releases/tag/v0.1)에서 설치 방식에 맞는 ZIP을 선택하세요. 두 배포본은 같은 한글 패치 파일25개를 적용합니다.
 
-지원 기준: Windows 64비트 / Steam Build ID 20786767. 실제 설치 가능 여부는 25개 원본 파일 해시로 확인합니다. 원본 백업·복원 기능을 제공하며 게임 원본 전체 파일은 포함하지 않습니다. ZIP 약 158MB, 작업 공간 약 3GB 권장.
+- **Windows 설치 도구**: `Monster-Prom-1-KR-v0.1.zip`(약158MB). 전체 압축 해제 후 `MonsterPromKR-Patcher.exe` 실행 → 게임 폴더 선택 → 한글 패치 설치. 버전 검사·원본 백업·복원 제공, Python 별도 설치 불필요.
+- **Steam Deck / 수동 덮어쓰기**: `Monster-Prom-1-KR-v0.1-Overwrite.zip`(약263MB). 원본을 직접 백업한 뒤 `MonsterProm_Data`를 게임 폴더에 복사·병합·덮어쓰기. 설치 EXE 불필요. **Steam Deck은 Windows판+Proton 구성 대상이며 실기 실행은 미검증입니다.**
 
-[자세한 설치·복원 안내](release/INSTALL_KO.md) · [변경 내역](release/RELEASE_NOTES_KO.md) · [넥서스 소개문](release/NEXUS_DESCRIPTION_KO.md) · [배포 검증](reports/release_install_validation.json)
+게임 언어는 **ENGLISH**, 기준 Steam Build ID는20786767입니다. 작업 공간 약3GB를 권장합니다. 덮어쓰기판에는 자동 백업·버전 검사 기능이 없습니다. [Steam Deck·수동 설치 안내](release/INSTALL_OVERWRITE_KO.md) · [Windows 설치·복원 안내](release/INSTALL_KO.md) · [변경 내역](release/RELEASE_NOTES_KO.md) · [넥서스 소개문](release/NEXUS_DESCRIPTION_KO.md) · [설치 도구 검증](reports/release_install_validation.json) · [덮어쓰기 검증](reports/release_overwrite_validation.json)
 
 ## 현재 진도 · 2026-10-24
 
@@ -22,7 +23,7 @@
 | 한글 폰트 | 한글 11,172자 포함 · NGUI UIFont 8개 동적 폰트 연결 |
 | 코드·게임 진행 데이터 | 메인 이벤트·퀴즈의 다른 언어와 게임 진행 필드 보존 확인 |
 | 원본 백업 | 최초 원본 및 수정 단계별 로컬 백업 유지 |
-| 배포 패키지 | **v0.1 초기 공개판** · Windows 설치/복원 도구와 변경분 ZIP |
+| 배포 패키지 | **v0.1 초기 공개판** · Windows 설치 도구·변경분 ZIP + Steam Deck/수동 덮어쓰기 ZIP |
 
 진도는 실제 게임에 적용한 번역 목록의 스냅샷을 기준으로 계산합니다. 작업자가 새 JSON을 저장해도 설치·검증 전에는 설치 진도에 합산하지 않습니다. UI 표와 씬 라벨은 중복이 많아 위 진도에 더하지 않습니다.
 

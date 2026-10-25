@@ -20,6 +20,12 @@
 
 Python 별도 설치는 필요하지 않습니다. `patches`와 `patch_manifest.json`은 패처 옆에 두세요.
 
+### Steam Deck / 설치 EXE 없이 수동 설치
+
+`Monster-Prom-1-KR-v0.1-Overwrite.zip`을 선택하세요. 게임을 종료하고 원본 `MonsterProm_Data`를 직접 백업한 뒤, ZIP의 `MonsterProm_Data`를 게임 폴더에 복사·병합·덮어쓰기합니다. 기존 폴더를 삭제하면 패치에 없는 게임 파일이 사라지므로 병합하세요. 게임 언어는 ENGLISH입니다.
+
+Steam Deck에서는 먼저 게임의 호환성 설정에서 Proton을 선택해 Windows판을 설치하세요. 이 배포본은 Windows판+Proton을 대상으로 안내하며 Linux 네이티브판과 Steam Deck 실기 실행은 미검증입니다. 덮어쓰기판에는 자동 버전 검사·백업 기능이 없습니다. 자세한 절차는 ZIP의 `설치 안내_SteamDeck.txt`에 있습니다.
+
 ## 지원 환경과 제거
 
 Windows 64비트 / Monster Prom 1편. 제작 기준 Steam Build ID **20786767**이며, 설치 시 원본 파일 해시를 대조합니다. 호환되지 않는 파일은 덮어쓰지 않습니다. 다른 모드로 수정한 설치본은 순정 상태로 복원한 뒤 설치하세요.
@@ -34,6 +40,7 @@ Windows 64비트 / Monster Prom 1편. 제작 기준 Steam Build ID **20786767**�
 
 ## 업로드 메모
 
-- 메인 파일: `Monster-Prom-1-KR-v0.1.zip`
+- Windows 설치형: `Monster-Prom-1-KR-v0.1.zip`
+- Steam Deck/수동 덮어쓰기형: `Monster-Prom-1-KR-v0.1-Overwrite.zip`
 - 버전: `0.1`
 - 위 설명을 넥서스 소개문으로 사용할 수 있습니다. 이 업로드 메모는 게시 전 삭제하세요.

@@ -1,0 +1,15 @@
+{
+  "archive_sha256": "09d5bf73f8c6c063d08f94fcd7c1d6fbef88165c7433260f66c693196e504d95",
+  "zip_integrity": "passed",
+  "safe_relative_paths": "passed",
+  "case_sensitive_archive_names": "exact MonsterProm_Data and original file names",
+  "modified_file_count": 25,
+  "overwrite_file_hashes": "all matched Windows v0.1",
+  "unmodified_existing_files": "preserved during merge",
+  "manual_backup_restore_hashes": "all original hashes matched",
+  "checksum_list": "matches extracted files",
+  "installer_executable_in_archive": false,
+  "actual_game_installation": "not modified",
+  "steam_deck_runtime_test": "not performed",
+  "target": "Windows version via Proton"
+}

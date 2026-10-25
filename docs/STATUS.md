@@ -1,3 +1,9 @@
+## 2026-10-25 · Steam Deck/수동 덮어쓰기 ZIP 추가
+
+v0.1과 동일한 수정 파일25개를 `MonsterProm_Data/`에 담은 `Monster-Prom-1-KR-v0.1-Overwrite.zip`을 제작했습니다(263,156,274바이트, 압축 해제 게임 파일1,087,143,696바이트). 설치 EXE·DLL은 넣지 않았습니다. Steam Deck은 Windows판+Proton 구성으로 안내하며, Steam Deck 실기 실행과 Linux 네이티브판 호환성은 미검증입니다.
+
+별도 테스트 폴더에서 ZIP 무결성, 안전한 상대 경로·파일명 대소문자, 덮어쓴25개 파일의 v0.1 SHA-256 일치, 기존 비대상 파일 보존, 수동 백업 복원 후 원본 해시 일치를 검증했습니다. 실제 게임 설치본은 수정하거나 실행하지 않았습니다. 설치·백업·복원 절차와 원본/패치 SHA256 목록을 동봉하고 기존 Windows 설치형 ZIP은 유지합니다. 검증: reports/release_overwrite_package.json 및 reports/release_overwrite_validation.json.
+
 ## 2026-10-24 · 넥서스 업로드용 첫 릴리즈
 
 v0.1 변경분 ZIP(157,792,368바이트)을 제작했습니다. Python 별도 설치가 필요 없는 Windows 64비트 설치·복원 도구와 원본/패치 SHA-256 검사, 백업, 설치 실패 시 되돌리기를 포함합니다. 기준 Steam Build ID는20786767입니다. 순정 파일25개를 별도 한글·공백 경로의 테스트 폴더에 복사하고 실제 배포 ZIP의 EXE로 설치→검사→재설치→복원→해시 대조를 통과했습니다. 다른 버전과 손상된 변경분의 쓰기 전 차단, 합성 파일 기반6개 안전성 테스트와 부분 적용 실패 롤백도 통과했습니다. 원본 게임 설치본은 이 테스트에서 변경하지 않았고 게임은 실행하지 않았습니다. 패처GUI의 화면 조작 검사는 수행하지 않았습니다. 설치 안내·넥서스 소개문·변경 내역과 라이선스 고지를 동봉했습니다. 세부 결과는 reports/release_package.json 및 reports/release_install_validation.json에 있습니다.

@@ -1,0 +1,13 @@
+{
+  "version": "0.1",
+  "archive": "Monster-Prom-1-KR-v0.1-Overwrite.zip",
+  "archive_size": 263156274,
+  "sha256": "09d5bf73f8c6c063d08f94fcd7c1d6fbef88165c7433260f66c693196e504d95",
+  "modified_files": 25,
+  "uncompressed_game_file_bytes": 1087143696,
+  "same_file_hashes_as_windows_v01": true,
+  "contains_install_exe": false,
+  "format": "MonsterProm_Data directory merge/overwrite",
+  "steam_deck_target": "Windows build via Proton",
+  "steam_deck_runtime_test": "not performed"
+}
